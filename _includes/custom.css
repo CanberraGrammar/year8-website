@@ -1,0 +1,20 @@
+table.tableblock.frame-all.grid-all tr td {
+    border: solid 1px #dddddd;
+}
+
+table.tableblock.frame-all.grid-all {
+	border-collapse: collapse;
+}
+
+table {
+	font-size: 14px;
+}
+
+.footnote {
+	font-size: 14px;
+	font-style: italic;
+}
+
+table span.outcomes {
+	font-size: 11px;
+}

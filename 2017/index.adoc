@@ -1,0 +1,94 @@
+:page-layout: standard_fork
+:page-title: Year 9 IST - iOS Application Development
+:icons: font
+
+= Year 9 IST - Web Application Development
+
+==== Canberra Grammar School
+
+Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://forum.cgscomputing.com[Year 9 forum^].
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+- http://it0901.work[IT0901 Google Doc^]
+- http://it0902.work[IT0902 Google Doc^]
+
+==== Assessment Tasks
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: HTML Page Coding*
+.^|Tuesday 14 February 2017 (Week 3)
+.^|Tuesday 21 March 2017 (Week 8) by 8:45am
+^.^|25%
+
+.^|*Assignment: Website Group Project*
+.^|Friday 31 March 2017 (Week 9)
+.^|Thursday 18 May 2017 (Week 14) by 8:45am
+^.^|40%
+
+.^|*Common Test: HTML and CSS Common Test*
+.^|Monday 15 May 2017 (Week 14)
+.^|Wednesday 7 June 2017 (Week 17)
+^.^|35%
+
+|===
+
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+
+.^|*Assignment: JavaScript Game Development*
+.^|Wednesday 2 August 2017 (Week 3)
+.^|Tuesday 5 September 2017 (Week 8) by 8:45am
+^.^|25%
+
+.^|*Common Test: JavaScript Programming*
+.^|Monday 18 September 2017 (Week 10)
+.^|Wednesday 18 October 2017 (Week 12)
+^.^|30%
+
+.^|*Assignment: Project Pre-Proposal*
+.^|Friday 8 September 2017 (Week 8)
+.^|Monday 18 September 2017 (Week 10) by 8:45am
+^.^|0%*
+
+.^|*Assignment: Project Status Update*
+.^|Friday 8 September 2017 (Week 8)
+.^|Monday 16 October 2017 (Week 12) by 8:45am
+^.^|0%*
+
+4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
+
+.^|*Assignment: Project Implementation*
+.^|Friday 8 September 2017 (Week 8)
+.^|Monday 30 October 2017 (Week 14) by 8:45am
+^.^|45%
+
+|===
+
+[footnote]##Note that tasks denoted with an * are worth 0% of your final grade. These tasks are designed to keep the teachers apprised of your progress, and also keep you on track. These tasks only require you to answer a few questions about your project - they are not major tasks. However, **they will contribute towards your effort grade for the subject** so you need to treat these tasks seriously.##
