@@ -175,11 +175,11 @@ Inasmuch as software development is rarely a one-person effort, you are allowed 
 
 === CGS Computing Hackathon
 
-The CS50 Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
+The CGS Computing Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
 
 Dinner will be served around 7pm, second dinner will be served around 1am, and those still standing at around 7am will be treated to a BBQ breakfast.
 
-Additional details on the CGS Computing Hackathon’s logistics will be announced when the project specifications are released early in Term 3.
+Additional details on the CGS Computing Hackathon’s logistics will be announced when the project specifications are released early in Term 3. This event is voluntary to attend.
 
 [footnote]##Based upon Harvard University https://cs50.harvard.edu/[CS50's^] Final Project, used and adapted with permission. Thanks to Prof. David J. Malan.##
 
