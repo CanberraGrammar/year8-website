@@ -11,7 +11,7 @@ The course has no prerequisites and requires no prior experience in programming 
 
 === About
 
-This course will teach you how to design standards-compliant web pages (using HTML and CSS) and how to write web-based apps (using JavaScript).
+This course will teach you how to design standards-compliant web pages (using HTML and CSS) and how to develop web-based apps (using JavaScript).
 
 === Homework
 
