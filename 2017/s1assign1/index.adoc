@@ -25,7 +25,7 @@ This task does not require any CSS coding - it is purely an HTML coding exercise
 
 Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements. This specifically specifies what you need to do in order to gain every mark for this task.
 
-=== Ready to Start?===
+=== How to start ===
 
 Make sure you fully read this document first, and then go the <<_getting_started, Getting Started>> section.
 
