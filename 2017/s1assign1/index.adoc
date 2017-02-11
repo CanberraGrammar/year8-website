@@ -139,10 +139,10 @@ Fork the *Assignment 1 (Semester 1)* workspace in ED STEM which will provide you
 Here you can find various hints and tips to complete the assignment tasks.
 
 * You must have attention to detail and ensure that your page EXACTLY replicates the sample page, including individual spaces between words in the text portions of the page and also comments which have been included to help you (e.g. _Be aware that the image above is linked_). Any differences will result in lost marks. *You are strongly encouraged to have someone else (e.g. parents) look over your page for any differences.*
-* Your webpage must FULLY validate (i.e. with no warnings or errors) as XHTML 1.0 Strict using the W3C validator located at http://validator.w3.org.
+* Your webpage must FULLY validate (i.e. with no warnings or errors) as XHTML 1.0 Strict using the W3C validator located at http://validator.w3.org[http://validator.w3.org^].
 * Make sure that you look at the sample page carefully and note any text in *bold*, _italics_, or other special formatting as that all needs to be replicated in your version of the page.
-* The HoloLens image is available from https://raw.githubusercontent.com/CanberraGrammar/year10-website/master/2017/s1assign1/hololens.jpg. Do not locally download the hololens.jpg file to your ED STEM workspace - source the image from github.com using this address.
-* The HoloLens image is linked to: https://www.microsoft.com/microsoft-hololens.
+* The HoloLens image is available from https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2017/s1assign1/hololens.jpg[https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2017/s1assign1/hololens.jpg^]. Do not locally download the hololens.jpg file to your ED STEM workspace - source the image from github.com using this address.
+* The HoloLens image is linked to: https://www.microsoft.com/microsoft-hololens[https://www.microsoft.com/microsoft-hololens^].
 * *There are some links in the page and the destination of these links is not obvious from the screenshot. As such, the link destinations are included in the web page text extract included above. Don't forget to include them!
 * The dimensions / size of the embedded YouTube video is `width="510"` and `height="340"`.
 
