@@ -121,7 +121,7 @@ Copyright [copyright symbol] 2017. My Awesome Website Enterprises International.
 
 
 [1] Text link: https://en.wikipedia.org/wiki/Windows_Holographic
-[2] Image source: https://raw.githubusercontent.com/CanberraGrammar/year10-website/master/2017/s1assign1/hololens.jpg
+[2] Image source: https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2017/s1assign1/hololens.jpg
 [3] Image link: https://www.microsoft.com/microsoft-hololens
 [4] Text link: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 [5] Video source: https://www.youtube.com/watch?v=HsnH2Q7HxOA
