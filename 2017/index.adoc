@@ -20,6 +20,11 @@ matthew.purcell@cgs.act.edu.au
 - http://it0901.work[IT0901 Google Doc^]
 - http://it0902.work[IT0902 Google Doc^]
 
+==== Activities ====
+
+* <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
+* <<s1activities/activity2/index.adoc#, Activity 2:  Shakespeare's (Improved) Sonnet>>
+
 ==== Assessment Tasks
 
 ===== Semester One
