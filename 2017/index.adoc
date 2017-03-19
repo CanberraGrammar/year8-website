@@ -23,7 +23,8 @@ matthew.purcell@cgs.act.edu.au
 ==== Activities ====
 
 * <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
-* <<s1activities/activity2/index.adoc#, Activity 2:  Shakespeare's (Improved) Sonnet>>
+* <<s1activities/activity2/index.adoc#, Activity 2: Shakespeare's (Improved) Sonnet>>
+* <<s1activities/activity3/index.adoc#, Activity 3: Advanced CSS Selectors>>
 * <<s1activities/challenge/index.adoc#, Challenge Activities>>
 
 ==== Assessment Tasks
