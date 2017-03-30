@@ -46,8 +46,8 @@ matthew.purcell@cgs.act.edu.au
 .^|Tuesday 21 March 2017 (Week 8) by 8:45am
 ^.^|25%
 
-.^|*Assignment: Website Group Project*
-.^|Friday 31 March 2017 (Week 9)
+.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
+.^|Thursday 30 March 2017 (Week 9)
 .^|Thursday 18 May 2017 (Week 14) by 8:45am
 ^.^|40%
 
