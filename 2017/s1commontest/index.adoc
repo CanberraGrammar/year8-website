@@ -9,9 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Sunday 14 May 2017*.
+This task was last updated on *Sunday 14 May 2017*.
 
-If any changes are made to the assignment they will be itemised here for ease of identification.
+If any changes are made to the task they will be itemised here for ease of identification.
 
 == Task Context ==
 
