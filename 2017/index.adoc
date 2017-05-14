@@ -52,7 +52,7 @@ matthew.purcell@cgs.act.edu.au
 .^|Thursday 18 May 2017 (Week 14) by 8:45am
 ^.^|40%
 
-.^|*Common Test: HTML and CSS Common Test*
+.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
 .^|Monday 15 May 2017 (Week 14)
 .^|Wednesday 7 June 2017 (Week 17)
 ^.^|35%
