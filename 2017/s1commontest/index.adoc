@@ -1,5 +1,5 @@
 :page-layout: standard_toc
-:page-title: Year 9 IST - Assignment One
+:page-title: Year 9 IST - Common Test
 :icons: font
 
 = Year 9 IST - Common Test: Using HTML and CSS =
