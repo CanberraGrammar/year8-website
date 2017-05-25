@@ -1,5 +1,5 @@
 :page-layout: standard_fork
-:page-title: Year 9 IST - iOS Application Development
+:page-title: Year 9 IST - Web Application Development
 :icons: font
 
 = Year 9 IST - Web Application Development
