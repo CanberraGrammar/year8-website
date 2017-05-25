@@ -1,8 +1,8 @@
 :page-layout: standard_fork
-:page-title: Year 9 IST - Web Application Development
+:page-title: Year 9 IST - Web Design & Application Development
 :icons: font
 
-= Year 9 IST - Web Application Development
+= Year 9 IST - Web Design & Application Development
 
 ==== Canberra Grammar School
 
