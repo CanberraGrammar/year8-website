@@ -1,0 +1,56 @@
+:page-layout: standard
+:page-title: Year 9 IST - Basic Programming Activities
+:icons: font
+
+= Year 9 IST - Basic Programming Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Basic Programming Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One (Easy) ==
+
+Write a program that will calculate the factorial of a given number specified in the variable factorial. The result should then be printed to the console.
+
+The factorial of a number is all the numbers preceding that number multiplied together. For example, if `var factorial = 5;` then the result which should be printed is `120` (as `1 x 2 x 3 x 4 x 5 = 120`).
+
+== Task Two (Easyish) ==
+
+Write a program that prints an 8 times multiplication table up to 12.
+
+For example, the output should be:
+
+....
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+8 x 11 = 88
+8 x 12 = 96
+....
+
+Your program needs to generate the times table, just not print out each pre-written line!
+
+== Task Two A (Easyish) ==
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+== Task Three (Medium) ==
+
+Write a program which determines whether a given number, specified in the variable `number`, is a power of 2. The result should be printed to the console.
+
+For example, if `var number = 8;` then `8 is a power of 2` should be printed to the console. On the other hand, if `var number = 3;` then `3 is NOT a power of 2` should be printed to the console.
+
+NOTE: To determine whether a number is a power of 2, repeatedly divide the number by 2 until the quotient becomes 1 (in this case the number is a power of 2) or the quotient becomes an odd number before reaching 1 (in this case the number is not a power of 2).
+
+== Task Four (Medium) ==
+
+Write a program which determines whether a given number, specified in the variable `number`, is a prime number. In other words, it is only divisible by itself and 1.
+
+For example, if `var number = 7;` then `7 is prime` should be printed to the console. On the other hand, if `var number = 10` then `10 is NOT prime` should be printed to the console.

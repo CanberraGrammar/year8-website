@@ -1,0 +1,160 @@
+:page-layout: standard
+:page-title: Year 9 IST - Loop Activities
+:icons: font
+
+= Year 9 IST - Loop Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Loop Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One (Easy) ==
+
+Write a program that will print the numbers `0` to `10` to the console. You need to use a loop (you cannot just print the numbers 0 to 10 individually).
+
+For example:
+
+....
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+....
+
+== Task Two A (Easy) ==
+
+Write a program that will prints out all the numbers between `1` and a value stored in the variable `n`.
+
+For example, if `var n = 8;` then the result which should be printed is:
+
+....
+1
+2
+3
+4
+5
+6
+7
+8
+....
+
+== Task Two B (Easy) ==
+
+Write a program that counts backwards from `10` to `1`.
+
+For example, the output that should be produced is:
+
+....
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+....
+
+== Task Three (Medium) ==
+
+*You may also need to use if statements for this activity.*
+
+Write a program that will print a right angled triangle using `*` characters. The height of the triangle should be specified in the variable `height`.
+
+For example, if `var height = 5;` then the following should be output:
+
+....
+*
+* *
+* * *
+* * * *
+* * * * *
+....
+
+NOTE: For presentation there is a single space between each * symbol. You should also enclose the triangle in <pre> tags to ensure it is presented properly.
+
+=== Extension Activity (Hard) ===
+
+Modify your program so that the triangle is centre-aligned instead. For example, if `var height = 5;` then the following should be output:
+
+....
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+....
+
+== Task Four (Hard) ==
+
+*You may also need to use if statements for this activity.*
+
+The Fibonnaci numbers are the numbers in the following sequence:
+
+`0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...`
+
+This sequence is known as the Fibonnaci Sequence. By definition, the first two Fibonacci numbers are `0` and `1`, and each subsequent number is the sum of the previous two numbers.
+
+This can also be expressed in the notation Fn, where: F~0~= 0, F~1~ = 1,F~2~ = 1, F~3~ = 2, F~4~ = 3...F~12~ = 144...etc
+
+Write a program that has a variable n and then outputs the Fibonnaci sequence from F~0~ up to and including F~n~. For example, if the input was `12` then the sample sequence shown above should be output.
+
+=== Extension Activity (harder and frustrating too :) ===
+
+If you are not familiar with recursion, it is similar to iteration (loops) in that you need to repeat over something multiple times. However, instead of using a loop you write a function which calls itself - this is recursion. It's useful for situations where you potentially don't know how many times you need to repeat over something, or future results depend on the result of the same calculation done previously.
+
+Here's an example of a recursive function to calculate the factorial of a number:
+
+....
+function factorial(n) {
+
+    if (n == 0) {
+        return(1);
+    }
+
+    return (n * factorial(n-1));
+
+}
+
+console.log(factorial(5));
+....
+
+...and you can see it in action here: https://jsfiddle.net/0o1hnn88[https://jsfiddle.net/0o1hnn88^].
+
+==== Warm-Up Question ====
+
+We have a number of bunnies. They are very cute, enjoy eating carrots, and each bunny has two big floppy ears. Here's an example of one:
+
+image::bunny.jpg[Bunny, link="bunny.jpg"]
+
+Awwwwwww...
+
+Now that you're in a happy mood, let's apply that towards some programming.
+
+Write a recursive function `bunnyEars(n)` to compute the total number of ears across all the bunnies, with the number of bunnies being represented by the parameter n.
+
+For example, if `n = 4` then the function should return `8` as there are four bunnies, each with two ears. Note, you need to write the function using recursion – you can't just do `return n * 2`.
+
+==== Here comes fun... ====
+
+Now that you have gotten your head around recursion (or at least understand how it works) let's attempt a more complex problem.
+
+Write a recursive function `fibonnaci(n)` to output the Fibonnaci numbers up to and including F~n~
+
+==== This sounds time consuming and labour intensive... ====
+
+Assume that a non-negative integer is stored in the variable n. Return the sum of its digits recursively (no loops can be used). You cannot convert n to a string, you must always operate upon that variable as an integer.
+
+For example, if `n = 123` then the result is 6 (i.e. 1 + 2 + 3).
+
+HINT: If you mod (%) by 10 it will return the rightmost digit (126 % 10 = 6). If you divide (/) by 10 it removes the rightmost digit (126 / 10 = 12).
+
+[footnote]##Credit to codingbat.com for some of these questions##

@@ -20,7 +20,14 @@ matthew.purcell@cgs.act.edu.au
 - http://it0901.work[IT0901 Google Doc^]
 - http://it0902.work[IT0902 Google Doc^]
 
-==== Activities ====
+==== Activities (Semester Two) ====
+
+* <<s2activities/loop_activities/index.adoc#, Loop Activities>>
+* <<s2activities/if_activities/index.adoc#, If Activities>>
+* <<s2activities/basic_programming_activities/index.adoc#, Basic Programming Activities>>
+
+
+==== Activities (Semester One) ====
 
 * <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
 * <<s1activities/activity2/index.adoc#, Activity 2: Shakespeare's (Improved) Sonnet>>
@@ -30,34 +37,6 @@ matthew.purcell@cgs.act.edu.au
 * <<s1activities/challenge/index.adoc#, Challenge Activities>>
 
 ==== Assessment Tasks
-
-===== Semester One
-
-[cols="5,4,5,1"]
-|===
-
-^|*Task*
-^|*Published*
-^|*Due*
-^|*Weight*
-
-{set:cellbgcolor:white}
-.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
-.^|Saturday 11 February 2017 (Week 3)
-.^|Tuesday 21 March 2017 (Week 8) by 8:45am
-^.^|25%
-
-.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
-.^|Thursday 30 March 2017 (Week 9)
-.^|Thursday 18 May 2017 (Week 14) by 8:45am
-^.^|40%
-
-.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
-.^|Monday 15 May 2017 (Week 14)
-.^|Wednesday 7 June 2017 (Week 17)
-^.^|35%
-
-|===
 
 ===== Semester Two
 
@@ -97,6 +76,34 @@ matthew.purcell@cgs.act.edu.au
 .^|Friday 8 September 2017 (Week 8)
 .^|Monday 30 October 2017 (Week 14) by 8:45am
 ^.^|45%
+
+|===
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
+.^|Saturday 11 February 2017 (Week 3)
+.^|Tuesday 21 March 2017 (Week 8) by 8:45am
+^.^|25%
+
+.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
+.^|Thursday 30 March 2017 (Week 9)
+.^|Thursday 18 May 2017 (Week 14) by 8:45am
+^.^|40%
+
+.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
+.^|Monday 15 May 2017 (Week 14)
+.^|Wednesday 7 June 2017 (Week 17)
+^.^|35%
 
 |===
 
