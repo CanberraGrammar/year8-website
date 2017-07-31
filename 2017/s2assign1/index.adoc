@@ -4,7 +4,7 @@
 
 = Year 9 IST - Assignment One =
 
-*Weight:* 40% +
+*Weight:* 25% +
 *Due:* Tuesday 5 September 2017 (Week 8) by 8:45am
 
 == Changelog ==
