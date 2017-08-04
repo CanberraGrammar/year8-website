@@ -101,7 +101,7 @@ You must place the following declaration (in the form of a comment) at the top o
 ....
 <!--
 // This project is submitted as part of the assessment for Year 9 IST.
-// This is all our own work. We have referenced any work used from other
+// This is all my own work. I have referenced any work used from other
 // sources and have not plagiarised the work of others.
 // (signed) Your Name
 -->
