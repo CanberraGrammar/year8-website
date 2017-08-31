@@ -26,6 +26,7 @@ matthew.purcell@cgs.act.edu.au
 * <<s2activities/if_activities/index.adoc#, If Activities>>
 * <<s2activities/basic_programming_activities/index.adoc#, Basic Programming Activities>>
 * <<s2activities/function_activities/index.adoc#, Function Activities>>
+* <<s2activities/array_string_activities/index.adoc#, Array and String Activities>>
 
 ==== Activities (Semester One) ====
 

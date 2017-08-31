@@ -1,0 +1,69 @@
+:page-layout: standard
+:page-title: Year 9 IST - Array and String Activities
+:icons: font
+
+= Year 9 IST - Array and String Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Array and String Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One ==
+
+Your program stores a string in a variable `input`. You need to write code which will then determine the number of words in the string.
+
+For example, if `string` is `how many words are in this string` then the output would be `7`, as there's 7 words in the string.
+
+== Task Two ==
+
+Your program stores a string in a variable `input`. You need to write code which will then determine the longest word in the string.
+
+For example, if `string` is `what is the longest word in this string` then the output would be `longest`, as that's the longest word in the string.
+
+== Task Three ==
+
+Your program stores a word in a variable `word`. You need to write code which will then determine whether the word is the same forward and backwards (i.e. it's a palindrome).
+
+For example, if `word` is `Hannah` then the output would be `yes`, as Hannah is a palindrome (make sure you make your program case insensitive!).
+
+== Task Four ==
+
+Your program stores a string in a variable `input`. This string only contains x and o characters. You need to write code which will determine whether there are an equal number of `x`'s and `o`'s in the string. If so, it should print `Equal` otherwise it should print `Not Equal`.
+
+For example, if `input` is `xxxoxoooxoxo` then it should print `Equal` since there's an equal number of `x`'s and `o`'s in the string.
+
+== Task Five ==
+
+Your program stores a string in a variable `input`. You need to write code which will swap the case of each letter and then print a new string with the swapped case.
+
+For example, if `input` is `Hello, this is a string` then the output would be `hELLO, THIS IS A STRING`.
+
+== Extension Task One ==
+
+What is Big O notation (for example, `O(n)` time)? Do some research and be prepared to explain this, with examples, to the class. The rest of these activities relate to solving algorithms in a certain time complexity and/or space complexity.
+
+This is also one of the most important concepts to know in algorithm design.
+
+== Extension Task Two ==
+
+Write a function which determines whether a string contains all unique characters.
+
+Try to solve this in `O(n)` time with `O(1)` space complexity.
+
+== Extension Task Three ==
+
+Write a function which accepts two strings, and determines whether one string is a permutation of the other string. You can assume it is case insensitive and whitespace is not significant.
+
+For example, if the two inputs are `cat` and `tac` then it would return `true`.
+
+== Extension Task Four ==
+
+Write a function which accepts an array of positive integers and determines whether three numbers within the array can sum to zero. This is also known as the https://en.wikipedia.org/wiki/3SUM[3SUM^] problem.
+
+== Extension Task Five ==
+
+Write a function which accepts an array of strings and returns true if there are words in the array which are anagrams of each other.
+
+For example, if the array is `["gab", "bat", "tab"]` then it would return `true` as `bat` and `tab` are anagrams.
+
+Try and solve this in the best time complexity - I am thinking it will be around `O(n log n)`.
