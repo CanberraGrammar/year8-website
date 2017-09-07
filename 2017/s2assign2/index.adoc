@@ -1,0 +1,237 @@
+:page-layout: standard_toc
+:page-title: Year 9 IST - Assignment Two
+:icons: font
+
+= Year 9 IST - Assignment Two =
+
+*Weight:* 45%
+
+*Pre-Proposal Due:* Monday 18 September (Week 10) by 8:45am
+
+*Project Status Update Due:* Monday 16 October (Week 12) by 8:45am
+
+*Project Implementation Due:* Monday 30 October (Week 14) by 8:45am
+
+
+== Changelog ==
+
+This assignment was last updated on *Thursday 7 September 2017*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Overview ==
+
+This assignment requires you to implement a game of your choosing (with some restrictions/guidelines) in JavaScript.
+
+NOTE: When asking previous cohorts for their feedback about this course, a common bit of feedback has been to include fewer replication assignments and more open-ended assignments (similar to the major web design project we completed last semester). The students have spoken and we have listened, with this more open-ended JavaScript assignment allowing you to select and implement a game of your choice.
+
+== Task Description ==
+
+You need to select a game and then implement this game in JavaScript. The game must be an existing well-known game, and cannot be a custom game which you have devised. That said, you can implement an existing game and put your own spin on it (e.g. custom features, levels, etc.) but the implementation, as a whole, needs to largely be true to the existing game.
+
+There are certain minimum requirements which the game must satisfy:
+
+* be able to display the player's name and score.
+* keep track of the player and their score.
+* involve HTML elements which the user interacts with through the web page, and you manipulate through JavaScript.
+* be developed in pure JavaScript without any third-party frameworks (e.g. jQuery, Prototype).
+
+You are free to select a game of your choosing, but you need to make sure that it's within your skill and ability level. There are no marks for complexity of the game which you choose and implement, unless you intend to target the extension/enrichment band. This makes the assignment accessible for all students, while also providing an opportunity for those students who would like an additional challenge to attempt a more advanced and complex project.
+
+In order to pass this assignment with a mark of 50% or greater you must have a reasonably working game (see the marking guidelines), so we encourage you to attempt a game which you will find challenging, but not unachievable.
+
+Here are some examples of games you may wish to attempt, depending on your skill and confidence level with JavaScript programming.
+
+=== Beginner Level ===
+
+* *Guess the Card:* The computer randomly selects a playing card (from a standard deck of 52 cards) and the user needs to guess which card has been chosen.
+
+* *Blackjack:* Player vs. player, or player vs. computer for a slightly more challenging project.
+
+* *Click the Dot:* Have a dot (circle) randomly appear on the screen in a different location every second, and see how many times the player can click the dot in 30 seconds.
+
+=== Intermediate Level ===
+
+* https://en.wikipedia.org/wiki/Hangman_(game)[Hangman^]
+* https://en.wikipedia.org/wiki/Connect_Four[Connect Four^]
+
+=== Advanced Level ===
+
+It is expected students wishing to achieve a mark in the extension/enrichment band would attempt a project with more complexity, most likely involving graphics manipulation as well. *If you attempt an advanced level project then you may also use HTML5 elements and associated JavaScript programming.*
+
+* https://en.wikipedia.org/wiki/Snake_(video_game)[Snake^]
+* https://en.wikipedia.org/wiki/Tetris[Tetris^]
+* https://en.wikipedia.org/wiki/Pac-Man[Pac Man^]
+* https://en.wikipedia.org/wiki/Space_Invaders[Space Invaders^]
+
+...or another "arcade" style game (see the arcade machine in SC304 for more ideas...).
+
+NOTE: All the above are just suggestions — you can chose any other games too. However, you cannot do Whack-A-Mole, Battleship, Tic-Tac-Toe, or the memory game as these have all been done either in class this year, or as assessment tasks in previous years.
+
+This is an individual project. You are welcome to collaborate and help each other, but all work must be your own. If any of your work is copied (either from another member of the class, or from a third party such as a book or the internet) then make sure you reference the source of the material, otherwise it will be considered plagiarism and you will receive zero.
+
+Most games you can think of will already have been developed in JavaScript with solutions available online. *You must write your own implementation of the game, and all work must be your own* (with the exception of little bits and pieces which you may use from elsewhere, if needed, with references - but these must only be relatively very small and non-important parts of your total assignment, as you won't receive marks for code you didn't write yourself). *We will be actively checking the originality of your submitted code.*
+
+
+== Submission Instructions ==
+
+=== Pre-Proposal ===
+
+The pre-proposal is due on *Monday 18 September (Week 10) by 8:45am*. This does not count towards your academic grade for the semester, but does contribute towards your effort grade - so you need to treat it seriously. Additionally, you cannot commence your project until you have gained approval.
+
+By the pre-proposal’s deadline, send an email to your teacher describing one or more ideas that you have for your final project. Short, casual emails are fine (addressed appropriately, of course), but do explain the motivation behind each of your ideas (i.e., why it interests you). Treat this requirement as an opportunity for counsel. Certainly include any questions or concerns that you have in this email.
+
+The subject line of your email should be *Pre-Proposal*.
+
+You will then receive an email back with feedback and/or approval for your idea.
+
+
+=== Project Status Update ===
+
+The project status update is due on *Monday 16 October (Week 12) by 8:45am*. This does not count towards your academic grade for the semester, but does contribute towards your effort grade - so you need to treat it seriously.
+
+Not only is the status report intended to keep the teacher apprised of your progress, it is an opportunity to keep yourself on track. By the project status update deadline, you need to send an email to your teacher with the following aspects (called wins and blockers):
+
+* *Wins:* What have you done so far? What is still to do?
+
+* *Blockers:* What challenges have you encountered? How were they overcome? Do you need any help with particular aspects?
+
+=== Implementation ===
+
+The implementation of your project is due on *Monday 30 October (Week 14) by 8:45am*. *This counts for 45% of your Semester One assessment for this subject.*
+
+Your assignment must be contained within an ED STEM workspace named Assignment 2 and the first file of the project must be named `index.html` (you can have additional files, if needed, or just this single file).
+
+You must place the following declaration (in the form of a comment) at the top of the `index.html` page:
+
+....
+<!--
+// This project is submitted as part of the assessment for Year 9 IST.
+// This is all my own work. I have referenced any work used from other
+// sources and have not plagiarised the work of others.
+// (signed) Your Name
+-->
+....
+
+Make sure you understand the implications of this declaration which you are including and digitally signing (see the <<_academic_honesty, Academic Honesty>> section of this document for more information).
+
+*If you do not include the student declaration at the top of your HTML file your assignment will not be marked and you will receive zero.*
+
+To submit your assignment you do not need to do anything, we will view your submission in your ED workspace. However, you *must not* change your workspace after the due date and time. We can see the revision history on your workspace and will be actively checking the last time you modified the workspace.
+
+*Late submissions will incur penalties as per the school assessment policy:* Students will lose 10% of the total value of the assessment per day late, or part thereof. *Be aware, if you do not submit your assignment by 8:45am on Monday 30 October 2017 that is counted as a day late and will attract the 10% penalty.* Weekends equate to 2 days. On the second day of non submission parents will be informed. A student may be directed to study support to complete an overdue assessment task. After 4 days, a student who has not submitted an assessment task will receive an academic detention. Work completed during academic detention or submitted more than 4 days late will have 50% of the total value of the assessment deducted from the student's score. If the work remains incomplete despite the academic detention, the student will receive zero marks for the task.
+
+=== Draft Submissions ===
+
+You may optionally submit *one* draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Monday 23 October 2017).
+
+Send an email to your teacher when your draft is ready for review.
+
+[#_marking_guidelines]
+== Marking Guidelines ==
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*ENRICHMENT / EXTENSION BAND*
+
+*Submissions in this mark range will:*
+
+• meet all the requirements of the 39 - 35 mark band.
+
+*In addition, submissions in this mark range will:*
+
+• be the implementation of a complex game which may include graphics manipulation, the implementation of a computer-based AI player, and/or other advanced features.
+
+Remember, you can only use pure JavaScript, HTML5, and CSS. No jQuery or similar frameworks are permitted.
+
+Students who wish to attempt this band should speak with their teacher to ensure that their chosen game is sufficiently complex, but will also be achievable for their skill level.
+.^|45 - 40
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• (A) a fully working set of source code files.
+
+• (B) excellent code style, in the form of code comments, use of whitespace, and spacing in the code.
+
+• \(C) proper and appropriate naming of all variables, functions, objects, etc.
+
+*In addition, submissions in this mark range will include:*
+
+• appropriate use of functions to minimise repetition of code and to properly organise code.
+
+• appropriate use of variable scope, using local variables where possible and only using global variables where absolutely necessary.
+
+• use of appropriate control structures, particular if statements and loops (preferably, `for` loops where possible).
+
+• not include repetitive sections of code which could have been avoided through better use of data structures such as arrays or control structures such as loops.
+
+• appropriately use data structures such as arrays to store data about the game, rather than relying on the user interface state. For example, in a game of noughts and crosses if the game is reliant on parsing the values located within HTML elements to determine the state of the game then your game will not meet this criteria. Instead, the game state should be stored within a programmatic data structure - such as an array.
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• HTML elements which the user interacts with through the web page, and you manipulate through JavaScript.
+
+• be professionally presented.
+
+• not crash or provide unusual error messages (for example, in the JavaScript console).
+.^|39 - 35
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a fully working set of source code files.
+
+• appropriate use of functions to minimise repetition of code and to properly organise code.
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• be professionally presented.
+
+• not crash or have major bugs which affect the gameplay.
+.^|34 - 30
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a mostly working set of source code files, which allows the game to be played.
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• the game may have bugs which do affect the gameplay, but do not prevent the gameplay.
+
+.^|29 - 25
+
+.^|
+• A non-working solution, but is a substantive attempt.
+.^|24 - 15
+
+.^|
+• A non-working solution.
+.^|14 - 1
+
+.^|
+• A non-serious attempt at the task, OR
+• A submission that is plagiarised.
+.^|0
+
+|===
+
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]

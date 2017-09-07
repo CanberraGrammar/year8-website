@@ -61,19 +61,17 @@ matthew.purcell@cgs.act.edu.au
 .^|Wednesday 18 October 2017 (Week 12)
 ^.^|30%
 
-.^|*Assignment: Project Pre-Proposal*
+.^|*<<s2assign2/index.adoc#, Assignment: Project Pre-Proposal>>*
 .^|Friday 8 September 2017 (Week 8)
 .^|Monday 18 September 2017 (Week 10) by 8:45am
 ^.^|0%*
 
-.^|*Assignment: Project Status Update*
+.^|*<<s2assign2/index.adoc#, Assignment: Project Status Update>>*
 .^|Friday 8 September 2017 (Week 8)
 .^|Monday 16 October 2017 (Week 12) by 8:45am
 ^.^|0%*
 
-4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
-
-.^|*Assignment: Project Implementation*
+.^|*<<s2assign2/index.adoc#, Assignment: Project Implementation>>*
 .^|Friday 8 September 2017 (Week 8)
 .^|Monday 30 October 2017 (Week 14) by 8:45am
 ^.^|45%
