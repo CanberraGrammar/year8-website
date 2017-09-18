@@ -1,0 +1,52 @@
+:page-layout: standard_toc
+:page-title: Year 9 IST - Common Test
+:icons: font
+
+= Year 9 IST - Common Test: JavaScript Programming =
+
+*Weight:* 30% +
+*Date:* Wednesday 18 October 2017 (Week 12)
+
+== Changelog ==
+
+This task was last updated on *Monday 18 September 2017*.
+
+If any changes are made to the task they will be itemised here for ease of identification.
+
+== Task Context ==
+
+You will be provided with a web application (HTML, CSS, JS, images) that is incomplete. Your task during the test will be to finish the application so that it works and performs the required task(s).
+
+You will not be expected to write the web application from scratch. Instead, you will be provided with a template which is semi-complete. Expect to spend all of your time writing JavaScript code — you should not need to do much (if any) HTML or CSS coding during the test.
+
+Note, this test will be similar in structure/format to The Memory Game assignment but you will be given a lot more code as part of the template. I do not expect that you could implement a web application from scratch in 45 minutes. Most likely, you will be given an application that is mostly written, but has a few important functions which are blank and you need to implement yourself to make the entire application work.
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 selects and justifies the application of appropriate software programs to a range of tasks
+* 5.2.1 describes and applies problem-solving processes when creating solutions
+* 5.2.2 designs, produces and evaluates appropriate solutions to a range of challenging problems
+* 5.2.3 critically analyses decision-making processes in a range of information and software solutions
+
+== Task Requirements ==
+
+* This is a 45 minute test on Wednesday 18 October 2017, Period 2 (IT0902) and Period 4 (IT0901).
+* The test will require students to complete a JavaScript programming task.
+* In preparation for this task, students should review JavaScript programming concepts including (but not limited to) variables, data types, arrays, control structures (loops, if statements), interacting with an HTML page (e.g. manipulating HTML elements, changing CSS styling), functions, and objects. Content up to and including Friday 13 October 2017 is potentially testable.
+* The test will be conducted on computers and is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used — while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
+* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of HTML and CSS coding then you cannot expect to research and understand completely new concepts, then answer the questions, within a 45 minute test.
+* You will be using ED STEM to complete the task.
+
+== Past Tests ==
+
+For revision purposes, below are copies of the 2016 and 2015 common tests. Note that the solution will not be provided for these tests.
+
+* link:2016s2commontest1/index.html[2016 Semester One Common Test] | link:2016s2commontest1/2016s2commontest1_markingrubric.pdf[Marking Rubric]
+* link:2015s2commontest1/index.html[2015 Semester One Common Test] | link:2015s2commontest1/2015s2commontest1_markingrubric.pdf[Marking Rubric]
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to help with your preparation for the common test.
+
+* It is highly advisable that you create some kind of notes page (also known as a "cheat-sheet") and/or electronic versions of common code (with an explanation as to their purpose). This will provide a extremely valuable and quick reference for you during the test, saving you from having to search through your book or online. It also has the added benefit that by compiling this information you will essentially be revising all these items!
+* Use Post-It tabs to put tabs throughout your textbook, allowing you quick and easy reference to particularly important sections of your book.
