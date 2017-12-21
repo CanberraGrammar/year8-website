@@ -23,9 +23,9 @@ emma-jane.nagy@cgs.act.edu.au
 
 ==== Lesson Summaries
 
-*Year 8:* http://codecadets.com[IT0801^] | http://codecadets.com[IT0802^] | http://codecadets.com[IT0803^]
+*Year 8:* http://cgs.ist/0801[IT0801^] | http://cgs.ist/0802[IT0802^] | http://cgs.ist/0803[IT0803^]
 
-*Year 9:* http://codecadets.com[IT0901^] | http://codecadets.com[IT0902^] | http://codecadets.com[IT0903^]
+*Year 9:* http://cgs.ist/0901[IT0901^] | http://cgs.ist/0902[IT0902^] | http://cgs.ist/0903[IT0903^]
 
 ==== Assessment Tasks
 
