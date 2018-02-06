@@ -1,9 +1,9 @@
 :page-layout: standard_toc
-:page-title: Year 8 & 9 IST - Course Overview
+:page-title: Year 8 IST - Course Overview
 
-= Year 8 & 9 IST
+= Year 8 IST
 
-Year 8 and 9 Web App Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is based upon, and complies with, the Information and Software Technology (IST) syllabus from the NSW Education Standards Authority.
+Year 8 Web Design and Application Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is based upon, and complies with, the Information and Software Technology (IST) syllabus from the NSW Education Standards Authority.
 
 The course has no prerequisites and requires no prior experience in programming or coding.
 

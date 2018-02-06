@@ -1,8 +1,8 @@
 :page-layout: standard_fork
-:page-title: Year 8 & 9 IST - Web Design & Application Development 2018
+:page-title: Year 8 IST - Web Design & Application Development 2018
 :icons: font
 
-= Year 8 & 9 IST - Web Design & Application Development 2018
+= Year 8 IST - Web Design & Application Development 2018
 
 ==== Canberra Grammar School
 
@@ -12,9 +12,6 @@ matthew.purcell@cgs.act.edu.au
 Mr Matthew Pham +
 matthew.pham@cgs.act.edu.au
 
-Mrs Emma-Jane Nagy +
-emma-jane.nagy@cgs.act.edu.au
-
 ==== Course Documents
 
 - Need help? Visit the https://forum.cgscomputing.com[CGS Computing Forum^].
@@ -23,9 +20,9 @@ emma-jane.nagy@cgs.act.edu.au
 
 ==== Lesson Summaries
 
-*Year 8:* http://cgs.ist/0801[IT0801^] | http://cgs.ist/0802[IT0802^] | http://cgs.ist/0803[IT0803^]
-
-*Year 9:* http://cgs.ist/0901[IT0901^] | http://cgs.ist/0902[IT0902^] | http://cgs.ist/0903[IT0903^]
+* http://cgs.ist/0801[IT0801 Google Doc^]
+* http://cgs.ist/0802[IT0802 Google Doc^]
+* http://cgs.ist/0803[IT0803 Google Doc^]
 
 ==== Assessment Tasks
 
