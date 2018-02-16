@@ -37,7 +37,7 @@ matthew.pham@cgs.act.edu.au
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: HTML Page Coding*
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
 .^|Monday 19 February 2018 (Week 3)
 .^|Tuesday 3 April 2018 (Week 9) by 8:45am
 ^.^|25%
