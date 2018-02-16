@@ -1,0 +1,89 @@
+:page-layout: standard_fork
+:page-title: Year 8 IST - Web Design & Application Development 2018
+:icons: font
+
+= Year 8 IST - Web Design & Application Development 2018
+
+==== Canberra Grammar School
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://forum.cgscomputing.com[CGS Computing Forum^].
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+* http://cgs.ist/0801[IT0801 Google Doc^]
+* http://cgs.ist/0802[IT0802 Google Doc^]
+* http://cgs.ist/0803[IT0803 Google Doc^]
+
+==== Assessment Tasks
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
+.^|Monday 19 February 2018 (Week 3)
+.^|Tuesday 3 April 2018 (Week 9) by 8:45am
+^.^|25%
+
+.^|*Assignment: Website Group Project*
+.^|Wednesday 4 April 2018 (Week 9)
+.^|Thursday 24 May 2018 (Week 14) by 8:45am
+^.^|40%
+
+.^|*Common Test: HTML and CSS Common Test*
+.^|Monday 7 May 2018 (Week 12)
+.^|Wednesday 13 June 2018 (Week 17)
+^.^|35%
+
+|===
+
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+
+.^|*Assignment: JavaScript Game Development*
+.^|Monday 30 July 2018 (Week 2)
+.^|Thursday 13 September 2018 (Week 8) by 8:45am
+^.^|30%
+
+.^|*Assignment: Major Project Proposal*
+.^|Monday 17 September 2018 (Week 9)
+.^|Monday 24 September 2018 (Week 10) by 8:45am
+^.^|10%
+
+.^|*Assignment: Major Project Status Update*
+.^|Monday 17 September 2018 (Week 9)
+.^|Monday 22 October 2018 (Week 12) by 8:45am
+^.^|10%
+
+.^|*Assignment: Major Project Implementation*
+.^|Monday 17 September 2018 (Week 9)
+.^|Monday 5 November 2018 (Week 14) by 8:45am
+^.^|50%
+
+|===
