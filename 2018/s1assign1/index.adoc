@@ -100,7 +100,7 @@ Code Cadets (Heading Two)
 
 The Code Cadets visited the Amazon Go Store during their trip to USA in January 2018.
 
-Here are some photos of their journey!
+Here are some photos of their epic journey inside the store!
 
 INSIDE AMAZON GO IMAGE 1[5]
 
@@ -142,6 +142,7 @@ Here you can find various hints and tips to complete the assignment tasks.
 * You must have attention to detail and ensure that your page EXACTLY replicates the sample page, including individual spaces between words in the text portions of the page and also comments which have been included to help you (e.g. _Be aware that the image above is linked_). Any differences will result in lost marks. *You are strongly encouraged to have someone else (e.g. parents) look over your page for any differences.*
 * Your webpage must FULLY validate (i.e. with no warnings or errors) as XHTML 1.0 Strict using the W3C validator located at http://validator.w3.org[http://validator.w3.org^].
 * Make sure that you look at the sample page carefully and note any text in *bold*, _italics_, or other special formatting as that all needs to be replicated in your version of the page.
+* The title of the webpage is "Amazon Go"
 * The Amazon Go image is available from https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2018/s1assign1/amazon-go.jpg[https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2018/s1assign1/amazon-go.jpg^]. Do not locally download the amazon_go.jpg file to your ED STEM workspace - source the image from github.com using this address.
 * The Amazon Go image is linked to: https://www.amazon.com/b?node=16008589011[https://www.amazon.com/b?node=16008589011^].
 * The other photos are also available from Github (replace amazon-go with inside-amazon-go-1, inside-amazon-go-2, inside-amazon-go-3 for each of the required images)
