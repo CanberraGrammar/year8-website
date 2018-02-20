@@ -9,9 +9,16 @@
 
 == Changelog ==
 
-This assignment was last updated on *Friday 16 February 2018*.
+This assignment was last updated on *Tuesday 20 February 2018*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+*Friday 16 February 2018:* The assignment was published
+
+*Tuesday 20 February 2018:* The assignment was updated:
+
+* The Page Text section was changed from "Here are some photos of their journey!" to "Here are some photos of their epic journey inside the store!" to match the sample webpage image
+* The hints were revised to advise that the title of the webpage is "Amazon Go"
 
 == Task Context ==
 
