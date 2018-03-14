@@ -10,7 +10,7 @@ Travis CI is used to run the `build.sh` script whenever code is pushed to the re
 
 If you intend to fork and provide changes to the source files then you should setup a local development environment so that you can process the `adoc` files locally and check they parse correctly to HTML.
 
-1. Make sure you have Xcode installed and have run it at least once. This will install the command line developer tools which are needed for parts of the installation below.
+1. Make sure you have Xcode installed and then run the `xcode-select --install` command in order to install the command line tools, which are needed to build the gems. 
 
 2. Install **Bundler** to enable you to manage gems (particuarly, AsciiDoctor) using the command `gem install --user-install bundler`. This will install Bundler under the current user, so you do not need sudo.
 
