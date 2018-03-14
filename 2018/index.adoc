@@ -24,6 +24,12 @@ matthew.pham@cgs.act.edu.au
 * http://cgs.ist/0802[IT0802 Google Doc^]
 * http://cgs.ist/0803[IT0803 Google Doc^]
 
+==== Activities (Semester One) ====
+
+* <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
+* <<s1activities/activity2/index.adoc#, Activity 2: Shakespeare's (Improved) Sonnet>>
+* <<s1activities/challenge/index.adoc#, Challenge Activities>>
+
 ==== Assessment Tasks
 
 ===== Semester One
