@@ -48,8 +48,8 @@ matthew.pham@cgs.act.edu.au
 .^|Tuesday 3 April 2018 (Week 9) by 8:45am
 ^.^|25%
 
-.^|*Assignment: Website Group Project*
-.^|Wednesday 4 April 2018 (Week 9)
+.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
+.^|Monday 2 April 2018 (Week 9)
 .^|Thursday 24 May 2018 (Week 14) by 8:45am
 ^.^|40%
 
