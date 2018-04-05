@@ -1,0 +1,78 @@
+:page-layout: standard
+:page-title: Year 9 IST - Activity Three
+:icons: font
+
+= Year 9 IST - Activity Three =
+
+== Task: Advanced CSS Selectors ==
+
+Create and upload a web page that uses advanced CSS selectors to target particular elements on the page.
+
+You can find a reference to the CSS selectors on the W3C site at: http://www.w3.org/TR/CSS2/selector.html.
+
+However, you may find the following information easier to understand:
+
+* Universal selector: http://css.maxdesign.com.au/selectutorial/selectors_universal.htm
+* Type selector: http://css.maxdesign.com.au/selectutorial/selectors_type.htm
+* class selector: http://www.w3schools.com/cssref/sel_class.asp
+* Descendent selector http://css.maxdesign.com.au/selectutorial/selectors_descendant.htm
+* first-child selector: http://www.w3schools.com/cssref/sel_firstchild.asp
+* hover selector: http://www.w3schools.com/cssref/sel_hover.asp
+* id selector: http://www.w3schools.com/cssref/sel_id.asp
+* Adjacent selector: http://css.maxdesign.com.au/selectutorial/selectors_adjacent.htm
+
+Once complete, make sure that your page validates as XHTML 1.0 Strict at http://validator.w3.org.
+
+1. Use the _universal selector_ to set:
+** font of all elements within the page to `sans-serif`
+** size of all text on the page to `14px`
+** line height of all text to `1.7em`
+
+2. Use _type selectors_ to set:
+** the background colour of the page to `gray`
+** all text contained within `<em>` tags to the colour `red`
+** all text contained within `<strong>` tags to underlined
+
+3. Use _class selectors_ to set:
+** the first paragraph with a class `yellowText` to have all its text displayed in `yellow` colour
+** an unordered list with the class `whiteList` to have all its text displayed in `white` colour
+** a new copyright/footer paragraph (which you need to write - it's not included in the screen shot below, so you need to use your imagination!) with the class `greenText` to have all its text displayed in `green`, except text which has specific colour applied for particular elements (such as `<em>` and `<strong>` tags)
+
+4. Use a _descendant selector_ to set:
+** when an `<em>` tag is contained within an `<li>` tag that the text colour should be changed to `blue`
+
+5. Use the _:first-child_ pseudo-class to set:
+** The first `<li>` element of the unordered list to be underlined
+
+6. Use a _dynamic_ pseudo-classes to set:
+** when a `<strong>` tag is hovered over the colour of the text changes to `pink`
+
+7. Use an ID _selector_ to set:
+** an unordered list with the id `greenList` to have all its text displayed in `green` colour
+
+8. Use an _adjacent selector_ to set:
+** the paragraph (using a `<p>` tag) that immediately follows an unordered list to have all its text displayed in `orange` colour
+
+An example of how your page should look at the end is shown below:
+
+image::activity4.png[Sample Webpage, link="activity4.png"]
+
+Here is the unformatted text that you can copy and paste into your web page:
+
+....
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin laoreet lectus vel lacinia. Quisque ultrices fermentum enim, nec dictum risus ultrices a. Nulla facilisi. Aenean in mauris justo. Aenean vitae ipsum urna, quis suscipit lorem. Aliquam et tristique risus. Curabitur id eros ante. Morbi pulvinar gravida mi, et fermentum nisl tristique eleifend. Phasellus porta tellus ac orci dapibus a commodo sem mollis. Mauris malesuada aliquam augue, pretium tempor turpis congue semper.
+
+Donec faucibus pretium ultrices. Nullam eu justo erat. Proin ornare, felis non iaculis ullamcorper, urna leo sagittis dui, id lacinia risus lectus a nulla. Morbi non ligula augue. Vivamus at scelerisque tortor. Nam tristique nisi nec quam accumsan et pellentesque diam dignissim. Nullam aliquam porta orci, sollicitudin pharetra arcu adipiscing nec. Phasellus venenatis tincidunt urna, in iaculis dolor pulvinar eu. Integer accumsan dolor nec mi porttitor tincidunt dapibus libero varius. Cras eu ligula dui, eget ornare nunc. Nunc tincidunt est vitae sem euismod venenatis. Morbi pretium sagittis risus eget faucibus. Aenean semper, orci et sodales dictum, purus mauris gravida lacus, et dictum mauris ante eget mi. Aenean sapien mauris, viverra vel euismod id, suscipit nec dolor.
+
+This is the white list element 1
+This is the white list element 2
+This is the white list element 3
+This is the white list element 4
+
+This is the green list element 1
+This is the green list element 2
+This is the green list element 3
+This is the green list element 4
+
+Cras et dui volutpat nibh consequat tempus. In a augue diam. Donec lacus justo, elementum eget blandit quis, vulputate sed ipsum. Duis at nisl eget ante cursus feugiat at sed sem. Fusce non leo vel libero ultricies imperdiet. Vivamus hendrerit lectus at odio semper at consequat quam convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris odio lorem, luctus in fermentum sit amet, tincidunt vitae diam. Donec mauris urna, auctor vitae eleifend et, auctor vitae tortor. Fusce interdum libero non odio malesuada dignissim ut nec metus. Donec enim lectus, iaculis sagittis tempus ornare, luctus eget felis. Quisque urna sapien, pulvinar non facilisis vitae, dictum ac ante. Maecenas in lacus felis. Mauris cursus fringilla enim.
+....
