@@ -55,7 +55,7 @@ Once complete, make sure that your page validates as XHTML 1.0 Strict at http://
 
 An example of how your page should look at the end is shown below:
 
-image::activity4.png[Sample Webpage, link="activity4.png"]
+image::activity3.png[Sample Webpage, link="activity3.png"]
 
 Here is the unformatted text that you can copy and paste into your web page:
 
