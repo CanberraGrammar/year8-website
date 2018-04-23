@@ -46,13 +46,14 @@ christine.volk@cgs.act.edu.au
 {set:cellbgcolor:white}
 .^|*link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Assessment.pdf[Assignment: Grok Learning (Part 1)]*
 .^|Monday 19 February 2018 (Week 3)
-.^|Tuesday 3 April 2018 (Week 9) by 8:45am
+.^|Friday 11 May 2018 (Week 2) by 8:45am
 ^.^|50%
 
 .^|*link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Assessment.pdf[Assignment: Grok Learning (Part 2)]*
-.^|Monday 2 April 2018 (Week 9)
-.^|Thursday 24 May 2018 (Week 14) by 8:45am
+.^|Monday 19 February 2018 (Week 3) by 8:45am
+.^|Friday 15 June 2018 (Week 7) by 8:45am
 ^.^|50%
+
 
 |===
 
