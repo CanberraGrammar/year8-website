@@ -1,0 +1,135 @@
+:page-layout: standard_toc
+:page-title: Year 7 Digital Technologies - Course Overview
+
+= Year 7 Digital Technologies
+
+Year 7 Digital Technologies is a one year course that forms part of the Year 7 Program at Canberra Grammar School. The course is based upon, and complies with, the Digital Technologies framework from the Australian Curriculum, Assessment and Reporting Authority.
+
+The course has no prerequisites and requires no prior experience in programming or coding.
+
+=== About
+
+This course will teach you about a range of information systems, introduce you to coding and provide practical opportunities to design and develop your own digital solutions. 
+
+=== Homework
+
+Make sure that you always have all your homework complete. If you have difficulty completing the homework, you are encouraged to attend additional tutorial sessions, which are available every week. If you have extenuating circumstances about why you couldn't complete the homework, see or email your teacher before the lesson when it's due - not as you are walking into the classroom.
+
+=== Materials
+
+Make sure you always bring the correct materials to class - in particular, your BYOD device needs to be charged and ready to complete the set work. You are responsible for ensuring that your device is in working order for each lesson.
+
+== Course Overview
+
+=== Course Structure
+
+.Semester One Topics:
+* Google Drive fundamentals
+* Introduction to algorithms
+* Coding in python
+* The problem solving process
+* Computational thinking
+
+.Semester Two Topics:
+* Mobile applications and problem solving
+* Application design and development
+* Investigation of digital systems
+* Game design and development
+* Event based programming
+
+=== Aims
+
+In addition to the overarching aims for the Australian Curriculum: Technologies, Digital Technologies more specifically aims to develop the knowledge, understanding and skills to ensure that, individually and collaboratively, students:
+
+. design, create, manage and evaluate sustainable and innovative digital solutions to meet and redefine current and future needs
+. use computational thinking and the key concepts of abstraction; data collection, representation and interpretation; specification, algorithms and implementation to create digital solutions
+. confidently use digital systems to efficiently and effectively automate the transformation of data into information and to creatively communicate ideas in a range of settings
+. apply protocols and legal practices that support safe, ethical and respectful communications and collaboration with known and unknown audiences
+. apply systems thinking to monitor, analyse, predict and shape the interactions within and between information systems and the impact of these systems on individuals, societies, economies and environments.
+
+=== Outcomes
+
+*Students learn to*
+
+.  Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+.  Investigate how digital systems represent text, image and audio data in binary (ACTDIK024)
+.  Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness (ACTDIP025)
+.  Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)    
+.  Define and decompose real-world problems taking into account functional requirements and economic, environmental, social, technical and usability constraints (ACTDIP027)    
+.  Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028) 
+.  Design algorithms represented diagrammatically and in English, and trace algorithms to predict output for a given input and to identify errors (ACTDIP029)   
+.  Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030) 
+.  Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability (ACTDIP031)      
+.  Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account (ACTDIP032)
+
+== Materials and Resources
+
+This course will use the following materials and resources:
+
+* BYOD Device
+* Google Chrome
+* Google Drive
+* Grok Learning
+* Code.org 
+* Code.org Studio
+* Construct 3
+
+As we are using browser based platforms for creation of digital solutions, together with hosting files online, you will have access to the same development software (together with their files) from any computer. These can be accessed through any standards-compliant web browser, although all our work will be completed using the free Google Chrome web browser.
+
+For this course, you are required to have your own laptop computer or tablet.
+
+== Expectations
+
+=== Class and Conduct Expectations
+
+* Wait in an orderly manner outside the classroom for the teacher to arrive.
+
+* When instructed, move into the classroom and stand behind your chair until you have been greeted by the teacher and invited to sit down.
+
+* If another staff member visits the class, stand as a matter of courtesy.
+
+* Show respect for the person who is talking in the room. When the teacher is addressing the entire class, no one else speaks. If one of your peers is answering a question, do not talk at the same time.
+
+* All homework is to be recorded in your school diary and completed to a satisfactory standard. Homework completion and quality will be checked every lesson. If you have not completed *ALL* the set homework to a satisfactory standard, or made a substantive attempt at the set work, then your homework (as a whole) will be recorded as incomplete.
+
+** It is understood that sometimes you may encounter difficulties completing the homework. This is fine, so long as you must make a substantive attempt to seek assistance and gain help to complete the work before the lesson — this does not mean just before the lesson as you are walking into the room. There are plenty of ways to seek assistance if you need help.
+
+*** **For example:** if you found the homework difficult and it's not fully complete, but you sought help via email by asking a geniune and informed question (not _"How do I do the homework?"_ or copy-paste your code and ask _"What's wrong with my code?"_), you asked well in advance of when the work was due (not late the night before, or early the morning of, the due date), and you made an attempt to implement the suggestions and advice you received, then that's totally fine as you clearly made a good effort to complete the work.
+
+** We also understand that on rare occasions you may be unable to complete your homework due to circumstances beyond your control. We are usually reasonable, if you are reasonable and let your teacher know in advance before the next lesson when the homework is due — you can't just turn-up to the lesson with your homework not done, that will not be accepted. However, note that this excuse will only be accepted on rare occasions for legitimate reasons (e.g. you had interstate relatives visiting and went out for dinner, only getting home late) and likely would not be accepted if you had multiple days to complete the homework before the next lesson. Our willingness to accept such excuses also depends on your prior track record of homework completion.
+
+* Only pack up your books and equipment when instructed — the bell is an indication to the teacher that the period has finished, it is not an invitation for you to packup.
+
+* Bags are not to be brought to class unless it's Period 5. You can bring a small shoulder bag for your laptop, but no large bags or backpacks.
+
+* Only commence working on the computers if permission has been given by the teacher.
+
+* When using the computers you must stay on task. If you are coding in Xcode there is no reason to have your email open. At no point must any games be open on your laptops, even in the background/minimised.
+
+* If you need to contact the teacher via email then you need to ensure your email is properly addressed (with Dear Mr or Dear Sir) and written with proper English. If you do not write your email properly then it will be returned and you will need to re-write the email properly before a response or acknowledgement will be given.
+
+=== Equipment Expectations
+
+You must bring to each lesson:
+
+* School diary
+
+* BYOD device — you must ensure that your device is always charged and ready to use in class. **You will not have access to power in the classroom to charge your device as for safety reasons we cannot have laptop power supply cables running across the floor to the desks.** This means that you will need to plan ahead to ensure that your laptop has sufficient charge for your IT lesson, even if it's at the end of the day. It is also your responsibility to ensure that your device is always in a fully working state for class and homework.
+
+* Your textbook
+
+* A pen and pencil
+
+The same penalties as homework non-completion apply towards not bringing the correct materials to class. On the first instance a note will be written in your diary. On the second instance an email will be sent home. On the third (and subsequent) instances you will receive a detention.
+
+== Getting Help
+
+Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
+
+* *Email the Teacher.* If you have any questions about the course, you are welcome to email your teacher.
+
+* *After School IT Tutorials.* Each week on Monday from 3:30pm - 5:00pm in Room SC304, and on Thursday lunchtimes in SC303, there are IT tutorials where you can get assistance from senior students (in Year 11) who completed this course in past years. Alternatively, you are also welcome to come to quietly work on IT-related homework or revision. Mr Chappell is also happy to provide assistance during Period 6 on Wednesday afternoons. Note, these are *quiet* study sessions where you are expected to work individually or quietly with your peers.
+
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
