@@ -1,0 +1,54 @@
+:page-layout: standard_toc
+:page-title: Year 8 IST - Common Test
+:icons: font
+
+= Year 8 IST - Common Test: Using HTML and CSS =
+
+*Weight:* 35% +
+*Date:* +
+IT0803: 	Tuesday 12 June 2018 (Week 17) +
+IT0801/2: 	Wednesday 13 June 2018 (Week 17)
+
+== Changelog ==
+
+This task was last updated on *Tuesday 8 May 2018*.
+
+If any changes are made to the task they will be itemised here for ease of identification.
+
+== Task Context ==
+
+The focus of this task is to allow students to demonstrate their level of coding skill in HTML and CSS, and mastery of aspects such as XHTML tags, XHTML validation, CSS selectors, CSS properties, and creating CSS stylesheets.
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
+* 5.2.1 describe and apply problem-solving processes when creating solutions
+* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
+
+== Task Requirements ==
+
+* This is a 45 minute common test during normal lesson time on Tuesday 12 June 2018 (Period 1 for IT0803) and Wednesday 13 June 2018 (Period 3 for IT0801 and IT0802).
+* The test will start promptly 5 minutes after the second bell. Students must arrive with sufficient time to login to their computers and ED STEM prior to the commencement of the test, along with open/access any other resources which you would like to use during the test.
+* The test will require students to build and code a webpage to meet certain specifications, using HTML and CSS. The test may draw upon all content which has been covered in the course up to Friday 1 June 2018. Note, we will still be completing activities after this date which cover examinable material, and you should review these activities as part of your revision. However, any new content will not be examined — for clarity, you will be informed whether the material being covered is new and thus non-examinable, or review of existing material which is examinable.
+* The test will require you to replicate a sample web page (see the past tests below for examples).
+* In preparation for this task, students should review concepts including (but not limited to) XHTML tags, XHTML 1.0 Strict validation, CSS selectors, common CSS properties, and internal/external CSS stylesheets.
+* The test will be conducted on computers and is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used — while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
+* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of HTML and CSS coding then you cannot expect to research and understand completely new concepts, then answer the questions, within a 45 minute test.
+
+== Past Tests ==
+
+For revision purposes, below are copies of the 2013, 2014, 2015, 2016 and 2017 common tests. Note that the solution will not be provided for these tests.
+
+* link:2017s1commontest1/2017s1commontest1_task.html[2017 Semester One Common Test] | link:2017s1commontest1/2017s1commontest1_markingrubric.pdf[Marking Rubric]
+* link:2016s1commontest1/2016s1commontest1_task.html[2016 Semester One Common Test] | link:2016s1commontest1/2016s1commontest1_markingrubric.pdf[Marking Rubric]
+* link:2015s1commontest1/2015s1commontest1_task.html[2015 Semester One Common Test] | link:2015s1commontest1/2015s1commontest1_markingrubric.pdf[Marking Rubric]
+* link:2014s1commontest1/2014s1commontest1_task.html[2014 Semester One Common Test] | link:2014s1commontest1/2014s1commontest1_markingrubric.pdf[Marking Rubric]
+* link:2013s1commontest1/2013s1commontest1_task.html[2013 Semester One Common Test] | link:2013s1commontest1/2013s1commontest1_markingrubric.pdf[Marking Rubric]
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to help with your preparation for the common test.
+
+* It is highly advisable that you create a notes page (also known as a "cheat-sheet") with common (valid) XHTML tags, CSS selectors, and CSS properties together with their explanations (and some examples of usage). This will provide a extremely valuable, quick reference for you during the test and will save you wasting time having to search through your book or online. It also has the added benefit that by writing this sheet you will essentially be revising all these items!
+* On your notes page it would also be a good idea to include common code, such as a template for an XHTML 1.0 Strict compliant webpage and also how to reference an external CSS stylesheet (or create an internal CSS stylesheet using <style> tags).
+* Use Post-It tabs to put tabs throughout your textbook, allowing you quick and easy reference to particularly important sections of your book.

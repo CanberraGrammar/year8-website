@@ -55,8 +55,8 @@ matthew.pham@cgs.act.edu.au
 .^|Thursday 24 May 2018 (Week 14) by 8:45am
 ^.^|40%
 
-.^|*Common Test: HTML and CSS Common Test*
-.^|Monday 7 May 2018 (Week 12)
+.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
+.^|Tuesday 8 May 2018 (Week 12)
 .^|IT0803: Tuesday 12 June 2018 (Week 17) +
 IT0801/2: Wednesday 13 June 2018 (Week 17)
 ^.^|35%
