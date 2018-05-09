@@ -1,8 +1,8 @@
-# Year 9 IST Website
+# Year 8 IST Website
 
 This website is written in AsciiDoc and uses [Asciidoctor](http://asciidoctor.org) to convert the `adoc` files into `html` files which are served via GitHub Pages.
 
-The `master` branch of this repo contains the `adoc` source files, along with lots of other supporting files and the build scripts. The `gh-pages` branch contains the rendered HTML5 website which is then served via GitHub Pages and available at http://year9.cgscomputing.com
+The `master` branch of this repo contains the `adoc` source files, along with lots of other supporting files and the build scripts. The `gh-pages` branch contains the rendered HTML5 website which is then served via GitHub Pages and available at http://year8.cgscomputing.com
 
 Travis CI is used to run the `build.sh` script whenever code is pushed to the repo and regenerate the HTML pages for the website.
 
