@@ -49,5 +49,6 @@ Here are the full size images you need for the challenge activity:
 * link:image3.jpg[Image 3 - Big]
 * link:image4.jpg[Image 4 - Big]
 * link:image5.jpg[Image 5 - Big]
+* link:image6.jpg[Image 6 - Big]
 
 Good luck!
