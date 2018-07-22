@@ -1,0 +1,27 @@
+:page-layout: standard
+:page-title: Year 9 IST - If Activities
+:icons: font
+
+= Year 9 IST - If Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `If Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One (Easy) ==
+
+Your program stores someone's age in a variable `age`. You need to write code which will then determine and print to the console whether the person is an adult (18 years or older) teenager (between 13 - 17 years old inclusive), a child (younger than 13 years old), or an infant (younger than 3 years old).
+
+For example, if `var age = 15;` then the result which should be printed is `teenager`.
+
+== Task Two (Easy) ==
+
+Your program stores an integer in a variable `input`. You need to write code which will then determine whether the number is "Even" or "Odd" and print an appropriate message to the console.
+
+*Tip:* For this activity you will need to use the modulo `%` operator. Modulo finds the remainder of a division operation. If you divide a number by `2` and there is no remainder then it must be even, whereas if there is any reminder it must be odd. For example: `8 % 2` is equal to `0` so the number is even (as it divides evenly by 2). In contrast, `15 % 2` is equal to `1` so the number is odd (as it does not evenly divide by 2).
+
+== Task Three (Challenge) ==
+
+*You will also need to use loops for this activity.*
+
+Write a program that prints the next 20 leap years. Your program should automatically determine the current year and then print out the next 20 leap years. You may find this resource useful to determine whether a year is a leap year: https://www.mathsisfun.com/leap-years.html[https://www.mathsisfun.com/leap-years.html^].

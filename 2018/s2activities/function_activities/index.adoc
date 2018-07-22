@@ -1,0 +1,25 @@
+:page-layout: standard
+:page-title: Year 9 IST - Function Activities
+:icons: font
+
+= Year 9 IST - Function Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Functions Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One (Easy) ==
+
+Write a function called function `addUpTo(number)` that will sum all numbers up to and including a number specified in the parameter number. You need to return the result.
+
+== Task Two (Easy) ==
+
+Write a function called function `factorial(number)` that will calculate the factorial of a given number specified in the parameter number. You need to return the result.
+
+You can borrow your code from the previous activity you completed and refactor it into a function.
+
+== Task Three (Medium) ==
+
+Write a function called function `isLeapYear(year)` that will check whether year is a leap year and return `true` or `false`.
+
+Hint: You can find out how to determine whether a year is a leap year by following the steps here: https://www.mathsisfun.com/leap-years.html[https://www.mathsisfun.com/leap-years.html^]. You may wish to use your old friend the modulo % operator!
