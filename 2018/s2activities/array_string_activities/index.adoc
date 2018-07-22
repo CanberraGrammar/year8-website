@@ -1,8 +1,8 @@
 :page-layout: standard
-:page-title: Year 9 IST - Array and String Activities
+:page-title: Year 8 IST - Array and String Activities
 :icons: font
 
-= Year 9 IST - Array and String Activities =
+= Year 8 IST - Array and String Activities =
 
 == Instructions ==
 

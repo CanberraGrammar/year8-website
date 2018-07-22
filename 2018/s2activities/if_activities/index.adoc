@@ -1,8 +1,8 @@
 :page-layout: standard
-:page-title: Year 9 IST - If Activities
+:page-title: Year 8 IST - If Activities
 :icons: font
 
-= Year 9 IST - If Activities =
+= Year 8 IST - If Activities =
 
 == Instructions ==
 

@@ -1,8 +1,8 @@
 :page-layout: standard
-:page-title: Year 9 IST - Basic Programming Activities
+:page-title: Year 8 IST - Basic Programming Activities
 :icons: font
 
-= Year 9 IST - Basic Programming Activities =
+= Year 8 IST - Basic Programming Activities =
 
 == Instructions ==
 
