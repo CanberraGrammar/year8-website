@@ -52,7 +52,7 @@ matthew.pham@cgs.act.edu.au
 {set:cellbgcolor:white}
 
 .^|*<<s2assign1/index.adoc#, Assignment: JavaScript Game Development>>*
-.^|Monday 30 July 2018 (Week 2)
+.^|Thursday 26 July 2018 (Week 1)
 .^|Thursday 13 September 2018 (Week 8) by 8:45am
 ^.^|30%
 
