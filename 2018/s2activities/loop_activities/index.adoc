@@ -10,11 +10,12 @@ All these tasks should be completed in separate HTML files in your `Loop Activit
 
 == Task One (Easy) ==
 
-Write a program that will print the numbers `0` to `10` to the document. You need to use a loop (you cannot just print the numbers 0 to 10 individually).
+Write a program that will write the numbers `0` to `10` to the document. You need to use a loop (you cannot just write the numbers 0 to 10 individually).
 
 For example:
 
 ....
+0
 1
 2
 3
@@ -67,7 +68,7 @@ For example, the output that should be produced is:
 
 *You may also need to use if statements for this activity.*
 
-Write a program that will print a right angled triangle using `*` characters. The height of the triangle should be specified in the variable `height`.
+Write a program that will write a right angled triangle using `*` characters. The height of the triangle should be specified in the variable `height`.
 
 For example, if `var height = 5;` then the following should be output:
 
