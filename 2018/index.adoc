@@ -24,6 +24,11 @@ matthew.pham@cgs.act.edu.au
 * http://cgs.ist/0802[IT0802 Google Doc^]
 * http://cgs.ist/0803[IT0803 Google Doc^]
 
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtime, SC303
+
 ==== Activities (Semester Two) ====
 
 * <<s2activities/loop_activities/index.adoc#, Loop Activities>>
