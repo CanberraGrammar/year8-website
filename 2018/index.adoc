@@ -66,17 +66,17 @@ matthew.pham@cgs.act.edu.au
 .^|Thursday 13 September 2018 (Week 8) by 8:45am
 ^.^|30%
 
-.^|*Assignment: Major Project Proposal*
+.^|*<<s2assign2/index.adoc#, Assignment: Major Project Proposal>>*
 .^|Monday 17 September 2018 (Week 9)
 .^|Monday 24 September 2018 (Week 10) by 8:45am
 ^.^|10%
 
-.^|*Assignment: Major Project Status Update*
+.^|*<<s2assign2/index.adoc#, Assignment: Major Project Status Update>>*
 .^|Monday 17 September 2018 (Week 9)
 .^|Monday 22 October 2018 (Week 12) by 8:45am
 ^.^|10%
 
-.^|*Assignment: Major Project Implementation*
+.^|*<<s2assign2/index.adoc#, Assignment: Major Project Implementation>>*
 .^|Monday 17 September 2018 (Week 9)
 .^|Monday 5 November 2018 (Week 14) by 8:45am
 ^.^|50%
