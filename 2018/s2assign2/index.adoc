@@ -15,9 +15,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Monday 10 September 2018*.
+This assignment was last updated on *Tuesday 11 September 2018*.
 
-If any changes are made to the assignment they will be itemised here for ease of identification.
+Comic Sans MS is now banned
 
 == Task Overview ==
 
