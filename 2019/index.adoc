@@ -1,0 +1,58 @@
+:page-layout: standard_fork
+:page-title: Year 8 IST - Web Design & Application Development 2019
+:icons: font
+
+= Year 8 IST - Web Design & Application Development 2019
+
+==== Canberra Grammar School
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://forum.cgscomputing.com[class forum^] on ED STEM.
+
+- You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+* http://cgs.ist/0801[IT0801 Google Doc^]
+* http://cgs.ist/0802[IT0802 Google Doc^]
+* http://cgs.ist/0803[IT0803 Google Doc^]
+
+==== Assessment Tasks
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: HTML Page Coding*
+.^|Monday 18 February 2019 (Week 3)
+.^|Tuesday 25 March 2019 (Week 8) by 8:45am
+^.^|25%
+
+.^|*Assignment: Website Group Project*
+.^|Monday 1 April 2019 (Week 9)
+.^|Thursday 23 May 2019 (Week 14) by 8:45am
+^.^|40%
+
+.^|*Common Test: HTML and CSS Common Test*
+.^|Tuesday 7 May 2019 (Week 12)
+.^|IT0803: Tuesday 11 June 2019 (Week 17) +
+IT0801/2: Wednesday 12 June 2019 (Week 17)
+^.^|35%
+
+|===
