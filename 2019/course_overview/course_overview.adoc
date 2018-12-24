@@ -1,9 +1,9 @@
 :page-layout: standard_toc
-:page-title: Year 8 IST - Course Overview
+:page-title: Year 8 IT - Course Overview
 
-= Year 8 IST
+= Year 8 IT
 
-Year 8 Web Design and Application Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is based upon, and complies with, the Digital Technologies curriculum from the Australian Curriculum.
+Year 8 Web Design and Application Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is aligned with the Digital Technologies curriculum from the Australian Curriculum, going into more detailed study of concepts covered in Year 7 Digital Technologies.
 
 The course has no prerequisites and requires no prior experience in programming or coding.
 
@@ -64,20 +64,16 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^.^| *Term 1*
 4+^.^|
 *Topic 1: Introduction to HTML* +
-[outcomes]##Outcomes: 5.1.1, 5.2.1, 5.2.2, 5.3.1, 5.3.2, 5.4.1, 5.5.1, 5.5.2, 5.5.3##
 
 6+^.^|
 *Topic 2: Introduction to CSS* +
-[outcomes]##Outcomes: 5.1.1, 5.2.1, 5.2.2, 5.4.1, 5.5.1, 5.5.2##
 
 {set:cellbgcolor:white}
 ^.^| *Term 2*
 4+^.^|
 *Topic 3: CSS Positioning* +
-[outcomes]##Outcomes: 5.1.1, 5.2.1, 5.2.2, 5.2.3, 5.4.1, 5.5.1, 5.5.2##
 3+^.^|
 *Topic 4: Advanced CSS and XHTML* +
-[outcomes]##Outcomes: 5.1.1, 5.2.1, 5.2.2, 5.4.1, 5.5.1, 5.5.2##
 2+^.^|
 *Topic 5: Introduction to JavaScript Programming* +
 |
@@ -87,16 +83,13 @@ Make sure you always bring the correct materials to class - in particular, your 
 {set:cellbgcolor:white}
 6+^.^|
 *Topic 5: Introduction to JavaScript Programming (cont.)* +
-[outcomes]##Outcomes: 5.1.1, 5.1.2, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.4.1, 5.5.1##
 4+^.^|
 *Topic 6: Advanced JavaScript Programming* +
-[outcomes]##Outcomes: 5.1.1, 5.1.2, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.4.1, 5.5.1, 5.5.2##
 
 {set:cellbgcolor:white}
 ^.^| *Term 4*
 3+^.^|
 *Topic 6: Advanced JavaScript Programming (cont.)* +
-[outcomes]##Outcomes: 5.1.1, 5.1.2, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.4.1, 5.5.1, 5.5.2##
 ^.^| *Assessment Week*
 {set:cellbgcolor:grey}
 ^.^|
@@ -124,36 +117,20 @@ To develop students' knowledge and understanding, confidence and creativity in a
 
 . learning about how dynamic web programming can be used for other purposes such as designing applications for use within particular frameworks and APIs
 
-=== Outcomes
+=== Content Descriptors
 
-*Students learn to*
+Students learn to:
 
-* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
-* 5.1.2 select, maintain and appropriately use hardware for a range of tasks
-* 5.2.1 describe and apply problem-solving processes when creating solutions
-* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
-* 5.2.3 critically analyse decision making processes in a range of information and software solutions
-* 5.3.1 justify responsible practices and ethical use of information and software technology
-* 5.3.2 acquire and manipulate data and information in an ethical manner
-* 5.4.1 analyse the effects of past, current and emerging information and software technologies on the individual and society
-* 5.5.1 apply collaborative work practices to complete tasks
-* 5.5.2 communicate ideas, processes and solutions to a targeted audience
-* 5.5.3 describe and compare key roles and responsibilities of people in the field of information and software technology
-
-*Students learn about*
-
-.Core topics:
-* The "Design, Produce and Evaluate" process
-* Data handling
-* Computer hardware
-* Issues with information technology
-* Past, current, and emerging technologies
-* People involved in information technology
-* Software
-
-.Option topics:
-* Internet and website development
-* Software development and programming
+* *ACTDIK023:* Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance.
+* *ACTDIK024:* Investigate how digital systems represent text, image and audio data in binary.
+* *ACTDIP025:* Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness.
+* *ACTDIP026:* Analyse and visualise data using a range of software to create information, and use structured data to model objects or events.
+* *ACTDIP027:* Define and decompose real-world problems taking into account functional requirements and economic, environmental, social, technical and usability constraints.
+* *ACTDIP028:* Design the user experience of a digital system, generating, evaluating and communicating alternative designs.
+* *ACTDIP029:* Design algorithms represented diagrammatically and in English, and trace algorithms to predict output for a given input and to identify errors.
+* *ACTDIP030:* Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language.
+* *ACTDIP031:* Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability.
+* *ACTDIP032:* Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account.
 
 == Materials and Resources
 
@@ -165,25 +142,17 @@ This course will use the following materials and resources:
 * Google Chrome
 * ED STEM IDE.
 
-All students are required to purchase the two textbooks. *Each textbook costs $50 and will be charged to your account.* The Semester One textbook will be distributed and charged at the beginning of Term One, and the Semester Two textbook will be distributed and charged at the beginning of Term Two.
+All students are required to purchase the two textbooks. *Each textbook costs $55 and will be charged to your account.* The Semester One textbook will be distributed and charged at the beginning of Term One, and the Semester Two textbook will be distributed and charged at the beginning of Term Two.
+
+*The ED STEM IDE also costs $20 for the year* and will be charged to your school account.
 
 As we are using an online integrated development environment (IDE) for writing our web page code, together with hosting all files online, you will have access to the same development software (together with their files) from any computer. These can be accessed through any standards-compliant web browser, although all our work will be completed using the free Google Chrome web browser.
 
-For this course, you are required to have your own laptop computer running a full desktop operating system (e.g. OS X, Windows, etc.). A tablet (such as a iPad or Surface) is not sufficient or appropriate for this course which involves software development. Note, if you are considering purchasing a new laptop then it would be worthwhile speaking with Mr Purcell to ensure that your laptop will meet your needs into future years — particularly if you are intending to continue and study Years 9 and 10 IST which have specific laptop requirements, due to the nature of the course (iOS app development).
+For this course, you are required to have your own laptop computer running a full desktop operating system (e.g. macOS, Windows, etc.). A tablet (such as a iPad or Surface) is not sufficient or appropriate for this course which involves software development. Note, if you are considering purchasing a new laptop then it would be worthwhile speaking with Mr Purcell to ensure that your laptop will meet your needs into future years — particularly if you are intending to continue and study Years 9 and 10 IT which have specific laptop requirements, due to the nature of the course.
 
 == Final Project
 
 The climax of this course is the final project. The final project is your opportunity to take your newfound savvy with web app development out for a spin and develop a game. So long as your project draws upon the course’s lessons, the nature of your project is entirely up to you, albeit subject to your teacher's approval.
-
-=== CGS Computing Hackathon
-
-The CGS Computing Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
-
-Dinner will be served around 7pm, second dinner will be served around 1am, and those still standing at around 7am will be treated to a BBQ breakfast.
-
-Additional details on the CGS Computing Hackathon’s logistics will be announced when the project specifications are released early in Term 3. This event is voluntary to attend.
-
-[footnote]##Based upon Harvard University https://cs50.harvard.edu/[CS50's^] Final Project, used and adapted with permission. Thanks to Prof. David J. Malan.##
 
 == Expectations
 
@@ -235,7 +204,7 @@ The same penalties as homework non-completion apply towards not bringing the cor
 
 Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
 
-* *Online Forum (https://forum.cgscomputing.com).* This is your first point of call for assistance if you are having difficulty. All Year 8 and 9 IT students have access to the forum, along with the teachers and also mentors from Year 10 and 11. Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
+* *ED STEM Online Forum (https://edstem.org/courses/3174/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 8 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
 
 * *Email the Teacher.* If you have posted on the forum, but not received a satisfactory response, then you are welcome to email the teacher to follow-up. Of course, you can also email you teacher if you want to talk to them about something privately.
 

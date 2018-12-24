@@ -1,0 +1,65 @@
+:page-layout: standard_toc
+:page-title: Unit Outline and Assessment Schedule
+
+= Year 8 IT &mdash; Semester One 2019
+
+== Unit Outline and Assessment Schedule
+
+=== Report Criteria / Areas of Learning
+
+* Constructing valid and well-structured HTML pages
+* Coding valid and concise CSS files
+* Identifying and implementing appropriate CSS properties
+* Writing CSS code to correctly position elements on web pages
+* Demonstrating a good understanding of user interface and user experience design in the development of web pages
+* Writing well-formed source code files, including whitespace, indentation, and comments
+
+=== Assessment Schedule
+
+include::semester_one_2019_table.adoc[]
+
+=== Course Detail
+
+* Introduction to HTML
+* Introduction to CSS
+* CSS positioning
+* Advanced XHTML and CSS
+
+=== Grade Allocation
+
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|Indicates that a student has demonstrated excellent achievement of what is expected.
+
+^.^|*B*
+.^|Indicates that a student has demonstrated high achievement of what is expected.
+
+^.^|*C*
+.^|Indicates that a student has demonstrated satisfactory achievement of what is expected. This student is achieving at the predicted level for the subject.
+
+^.^|*D*
+.^|Indicates that a student has demonstrated partial achievement of what is expected.
+
+^.^|*E*
+.^|Indicates that a student has demonstrated limited achievement of what is expected.
+
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===
+
+=== Absence from Class
+
+It is your responsibility to catch up on work missed when absent from class. We suggest you email your teacher on the day you are away to request any missed work or information.
+
+If you are away for an assessment, please consult your teacher to make arrangements to complete the assessment as soon as possible after you return to school. After 10 school days, the assessment cannot be rescheduled and either an estimate (in the case of an explained absence) or a zero will be awarded.
+
+For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.

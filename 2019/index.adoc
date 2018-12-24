@@ -1,8 +1,8 @@
 :page-layout: standard_fork
-:page-title: Year 8 IST - Web Design & Application Development 2019
+:page-title: Year 8 IT - Web Design & Application Development 2019
 :icons: font
 
-= Year 8 IST - Web Design & Application Development 2019
+= Year 8 IT - Web Design & Application Development 2019
 
 ==== Canberra Grammar School
 
@@ -14,7 +14,7 @@ matthew.pham@cgs.act.edu.au
 
 ==== Course Documents
 
-- Need help? Visit the https://forum.cgscomputing.com[class forum^] on ED STEM.
+- Need help? Visit the https://edstem.org/courses/3174/discussion[class forum^] on ED STEM.
 
 - You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
 
@@ -26,33 +26,10 @@ matthew.pham@cgs.act.edu.au
 * http://cgs.ist/0802[IT0802 Google Doc^]
 * http://cgs.ist/0803[IT0803 Google Doc^]
 
-==== Assessment Tasks
+==== Assessment Schedule
 
 ===== Semester One
 
-[cols="5,4,5,1"]
-|===
+include::semester_one_2019_table.adoc[]
 
-^|*Task*
-^|*Published*
-^|*Due*
-^|*Weight*
-
-{set:cellbgcolor:white}
-.^|*Assignment: HTML Page Coding*
-.^|Monday 18 February 2019 (Week 3)
-.^|Tuesday 25 March 2019 (Week 8) by 8:45am
-^.^|25%
-
-.^|*Assignment: Website Group Project*
-.^|Monday 1 April 2019 (Week 9)
-.^|Thursday 23 May 2019 (Week 14) by 8:45am
-^.^|40%
-
-.^|*Common Test: HTML and CSS Common Test*
-.^|Tuesday 7 May 2019 (Week 12)
-.^|IT0803: Tuesday 11 June 2019 (Week 17) +
-IT0801/2: Wednesday 12 June 2019 (Week 17)
-^.^|35%
-
-|===
+<<semester_one_2019.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
