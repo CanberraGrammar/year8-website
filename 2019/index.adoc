@@ -28,7 +28,7 @@ matthew.pham@cgs.act.edu.au
 
 ==== Assessment Schedule
 
-===== Semester One
+===== Semester One 
 
 include::semester_one_2019_table.adoc[]
 
