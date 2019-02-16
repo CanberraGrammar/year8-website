@@ -9,7 +9,7 @@
 {set:cellbgcolor:white}
 .^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
 .^|Monday 18 February 2019 (Week 3)
-.^|Tuesday 25 March 2019 (Week 8) by 8:45am
+.^|Monday 25 March 2019 (Week 8) by 8:45am
 ^.^|25%
 
 .^|*Assignment: Website Group Project*
