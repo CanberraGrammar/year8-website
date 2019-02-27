@@ -141,7 +141,7 @@ Copyright © 2019. My Awesome Website Enterprises International.
 
 [1] Text link: http://www.htc.com
 [2] Text link: http://www.valvesoftware.com
-[3] Image source: https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2019/s1assign1/vive.jpg
+[3] Image source: https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2019/s1assign1/vive.jpg
 [4] Image link: https://www.vive.com/au
 [5] Video source: https://www.youtube.com/watch?v=lxsLOnY9Yg4
 [6] Text link: http://validator.w3.org
@@ -160,7 +160,7 @@ Here you can find various hints and tips to complete the assignment tasks.
 * Your webpage must FULLY validate (i.e. with no warnings or errors) as XHTML 1.0 Strict using the W3C validator located at http://validator.w3.org[http://validator.w3.org^].
 * Make sure that you look at the sample page carefully and note any text in *bold*, _italics_, or other special formatting as that all needs to be replicated in your version of the page.
 * The title of the webpage is "HTC Vive"
-* The HTC Vive image is available from https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2019/s1assign1/vive.jpg[https://raw.githubusercontent.com/CanberraGrammar/year9-website/master/2019/s1assign1/vive.jpg^]. Do not locally download the vive.jpg file to your ED STEM workspace - source the image from github.com using this address.
+* The HTC Vive image is available from https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2019/s1assign1/vive.jpg[https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2019/s1assign1/vive.jpg^]. Do not locally download the vive.jpg file to your ED STEM workspace - source the image from github.com using this address.
 * The HTC Vive image is linked to: https://www.vive.com/au[https://www.vive.com/au^].
 * There are some links in the page and the destination of these links is not obvious from the screenshot. As such, the link destinations are included in the web page text extract included above. Don't forget to include them!
 * The dimensions / size of the embedded YouTube video is `width="510"` and `height="340"`.
