@@ -9,11 +9,13 @@
 
 == Changelog ==
 
-This assignment was last updated on *Saturday 16 February 2019*.
+This assignment was last updated on *Friday 8 March 2019*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
 Also, sometimes errors and bugs make it into the assignments. If you find a problem then please let Mr Purcell know!
+
+* *UPDATE 8 MARCH:* There was a mistake in the sample page where the annotations for the Vive image (showing the image source and link destination) were wrong. These have now been corrected. The correct annotations for this information are [3] and [4]. Thanks to William from IT0801 for reporting this error.
 
 == Task Context ==
 
@@ -68,7 +70,7 @@ HTC Vive (Heading One)
 
 The HTC Vive is a virtual reality headset developed by HTC[1] and Valve Corporation[2]. The headset uses "room scale" tracking technology, allowing the user to move in 3D space and use motion-tracked handheld controllers to interact with the environment. The HTC Vive was unveiled during HTC's Mobile World Congress keynote in March 2015. Development kits were sent out in August and September 2015, and the first Consumer version of the device was released on June 7th, 2016.
 
-HTC VIVE HEADSET IMAGE [1][2]
+HTC VIVE HEADSET IMAGE [3][4]
 
 Be aware that the image above is linked.
 
