@@ -30,7 +30,8 @@ matthew.pham@cgs.act.edu.au
 
 * <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
 * <<s1activities/activity2/index.adoc#, Activity 2: Shakespeare's (Improved) Sonnet>>
-
+* <<s1activities/challenge/index.adoc#, Challenge Activities>>
+*
 ==== Assessment Schedule
 
 ===== Semester One
