@@ -13,7 +13,7 @@
 ^.^|25%
 
 .^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
-.^|Monday 1 April 2019 (Week 9)
+.^|Saturday 30 March 2019 (Week 8)
 .^|Thursday 23 May 2019 (Week 14) by 8:45am
 ^.^|40%
 
