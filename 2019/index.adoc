@@ -16,9 +16,14 @@ matthew.pham@cgs.act.edu.au
 
 - Need help? Visit the https://edstem.org/courses/3174/discussion[class forum^] on ED STEM.
 
-- You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
+- You can also attend any of the IT tutorial sessions listed below.
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtimes, SC303
 
 ==== Lesson Summaries
 
