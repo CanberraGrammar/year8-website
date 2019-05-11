@@ -18,7 +18,7 @@
 ^.^|40%
 
 .^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
-.^|Tuesday 7 May 2019 (Week 12)
+.^|Saturday 11 May 2019 (Week 12)
 .^|IT0803: Tuesday 11 June 2019 (Week 17) +
 IT0801/2: Wednesday 12 June 2019 (Week 17)
 ^.^|35%
