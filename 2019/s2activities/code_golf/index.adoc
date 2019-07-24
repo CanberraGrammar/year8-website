@@ -1,0 +1,180 @@
+:page-layout: standard
+:page-title: Year 8 IST - Code Golf
+:icons: font
+
+= Year 8 IST - Code Golf =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Code Golf` ED STEM workspace. Create a folder for each category (e.g. 'Loop Activities', 'Array Activities', etc.). Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+Rules:
+
+* All output must be written to the console unless otherwise specified
+* Try to complete the task using the least amount of characters possible (You may end up writing some really messy JavaScript!)
+* Characters will be counted using https://wordcounter.net/[Word Counter^]
+
+= Loop Activities
+
+== Task One (Easy) ==
+
+Write a program that will print the numbers `0` to `10` to the console. You need to use a loop (you cannot just print the numbers 0 to 10 individually).
+
+....
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+....
+
+== Task Two B (Easy) ==
+
+Write a program that counts backwards from `10` to `1`.
+
+....
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+....
+
+== Task Three (Medium) ==
+
+Write a program that displays the below right angled triangle using `*` characters (including the spaces).
+
+....
+*
+* *
+* * *
+* * * *
+* * * * *
+....
+
+=== Extension Activity (Hard) ===
+
+Write a program that displays a centre-aligned triangle instead. 
+
+HINT: Line 1 has 4 spaces, line 2 has 3 spaces, line 3 has 2 spaces, etc. 
+....
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+....
+
+= Array Activities
+
+== Task One (a) ==
+
+Create a program that stores the following numbers in an array: 5, 8, 12, 25, 30, 36, 40, 45, 50.
+
+Loop through the array and display if each number is even or odd.
+
+It should look like:
+
+5 is odd.
+
+8 is even.
+
+etc.
+
+== Task One (b) ==
+
+Copy and modify the above program so that it displays odd and even numbers, using one line for each.
+
+It should look like:
+
+Odd numbers: 5, 25, 45
+
+Even numbers: 8, 12, 30, etc.
+
+= Basic Programming Activities
+
+== Task One (Easy) ==
+
+Write a program that will calculate the factorial of a given number specified in the variable f. The result should then be printed to the console.
+
+The factorial of a number is all the numbers preceding that number multiplied together. For example, if `var f = 5;` then the result which should be printed is `120` (as `1 x 2 x 3 x 4 x 5 = 120`).
+
+== Task Two (Easyish) ==
+
+Write a program that prints an 8 times multiplication table up to 12.
+
+For example, the output should be:
+
+....
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+8 x 11 = 88
+8 x 12 = 96
+....
+
+Your program needs to generate the times table, just not print out each pre-written line!
+
+== Task Two A (Easyish) ==
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+= Array and String Activities
+
+== Task One ==
+
+Your program stores a string in a variable `s`. You need to write code which will then determine the number of words in the string.
+
+To calculate the score for Code Golf, `s` should be set to `how many words are in this string`. 
+
+You should display the result in this format:
+
+`There are 7 words in this string.`
+
+== Task Two ==
+
+Your program stores a string in a variable `s`. You need to write code which will then determine the longest word in the string.
+
+To calculate the score for Code Golf, `s` should be set to `what is the longest word in this string`.
+
+You should display the result in this format: 
+
+`longest is the longest word in this string.` 
+
+== Task Three ==
+
+Your program stores a word in a variable `w`. You need to write code which will then determine whether the word is the same forward and backwards (i.e. it's a palindrome).
+
+For example, if `w` is `Hannah` then the output would be `Hannah is a palindrome`, as Hannah is a palindrome (make sure you make your program case insensitive!).
+
+To calculate the score for Code Golf, `w` should be set to either `Hannah` or `George`.
+
+You should display the result in this format:
+
+`Hannah is a palindrome` OR `George is not a palindrome`
+
+== Task Five ==
+
+Your program stores a string in a variable `s`. You need to write code which will swap the case of each letter and then print a new string with the swapped case.
+
+For example, if `input` is `Hello, this is a string` then the output would be `hELLO, THIS IS A STRING`.
+
+To calculate the score for Code Golf, `w` should be set to `Everything is AWESOME!`.

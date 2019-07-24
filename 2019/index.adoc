@@ -33,7 +33,7 @@ matthew.pham@cgs.act.edu.au
 
 ==== Activities (Semester Two)
 
-* Coming soon...
+* <<s2activities/loop_activities/index.adoc#, Loop Activities>>
 
 ==== Assessment Schedule (Semester Two)
 
