@@ -7,8 +7,8 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: JavaScript Game Development*
-.^|Monday 5 August 2019 (Week 3)
+.^|*<<s2assign1/index.adoc#, Assignment: JavaScript Game Development>>*
+.^|Saturday 3 August 2019 (Week 3)
 .^|Thursday 12 September 2019 (Week 8) by 8:45am
 ^.^|40%
 
