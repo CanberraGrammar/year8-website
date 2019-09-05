@@ -12,17 +12,17 @@
 .^|Thursday 12 September 2019 (Week 8) by 8:45am
 ^.^|40%
 
-.^|*Assignment: Major Project Proposal*
+.^|*<<s2assign2/index.adoc#proposal, Assignment: Major Project Proposal>>*
 .^|Monday 9 September 2019 (Week 8)
 .^|Monday 23 September 2019 (Week 10) by 8:45am
 ^.^|0%
 
-.^|*Assignment: Major Project Status Update*
+.^|*<<s2assign2/index.adoc#project-status-update, Assignment: Major Project Status Update>>*
 .^|Monday 9 September 2019 (Week 8)
 .^|Monday 21 October 2019 (Week 12) by 8:45am
 ^.^|10%
 
-.^|*Assignment: Major Project Implementation*
+.^|*<<s2assign2/index.adoc#implementation, Assignment: Major Project Implementation>>*
 .^|Monday 19 September 2019 (Week 8)
 .^|Monday 4 November 2019 (Week 14) by 8:45am
 ^.^|50%
