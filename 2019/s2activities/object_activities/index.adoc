@@ -1,0 +1,61 @@
+:page-layout: standard
+:page-title: Year 8 IST - Array Activities
+:icons: font
+
+= Year 8 IST - Object Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Array Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One ==
+
+Create an object to hold information on your favorite recipe.
+
+It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
+
+Alternatively, you can use a different type of object. For example, a band name (a string), the music genre (a string), and a list of songs (an array of strings).
+
+On separate lines (one console.log statement for each), log the recipe information so it looks like:
+
+Pancakes
+Serves: 4
+Ingredients:
+1 cup milk
+1 egg
+2 cups flour
+1/3 cup sugar
+25g butter
+
+== Task Two ==
+
+Copy and modify the above program so that it displays the recipe in the HTML page instead.
+
+HINT: Use `document.getElementById()` and `.innerHTML`
+
+Alternatively, you can research about https://www.w3schools.com/js/js_htmldom_nodes.asp[JavaScript and DOM Nodes on w3schools^]
+
+It should roughly follow this format:
+
+<h1>Pancakes</h1>
+<p>Serves: 4</p>
+<h3>Ingredients<h3>
+<ul>
+  <li>1 cup milk</li>
+  <li>1 egg</li>
+  <li>2 cups flour</li>
+  <li>1/3 cup sugar</li>
+  <li>25g butter</li>
+</ul>
+
+== Task Three ==
+
+Copy and modify the above program so that it uses an array of at least 3 objects, and displays each of them.
+
+You should include:
+
+- A function to create an object (i.e. use an object prototype)
+
+- A function to display an object in the HTML page
+
+- A loop that goes through each object in the array, calling the function above.
