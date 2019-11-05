@@ -1,5 +1,5 @@
 :page-layout: standard
-:page-title: Year 8 IST - Array Activities
+:page-title: Year 8 IST - Object Activities
 :icons: font
 
 = Year 8 IST - Object Activities =
