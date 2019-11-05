@@ -6,7 +6,7 @@
 
 == Instructions ==
 
-All these tasks should be completed in separate HTML files in your `Array Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+All these tasks should be completed in separate HTML files in your `Object Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
 
 == Task One ==
 
