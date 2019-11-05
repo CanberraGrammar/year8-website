@@ -39,7 +39,7 @@ matthew.pham@cgs.act.edu.au
 * <<s2activities/function_activities/index.adoc#, Function Activities>>
 * <<s2activities/array_activities/index.adoc#, Array Activities>>
 * <<s2activities/array_string_activities/index.adoc#, Array and String Activities>>
-
+* <<s2activities/object_activities/index.adoc#, Object Activities>>
 
 ==== Assessment Schedule (Semester Two)
 

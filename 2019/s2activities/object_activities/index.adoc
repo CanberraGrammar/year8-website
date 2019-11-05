@@ -18,6 +18,7 @@ Alternatively, you can use a different type of object. For example, a band name 
 
 On separate lines (one console.log statement for each), log the recipe information so it looks like:
 
+[%hardbreaks]
 Pancakes
 Serves: 4
 Ingredients:
@@ -37,6 +38,7 @@ Alternatively, you can research about https://www.w3schools.com/js/js_htmldom_no
 
 It should roughly follow this format:
 
+[%hardbreaks]
 <h1>Pancakes</h1>
 <p>Serves: 4</p>
 <h3>Ingredients<h3>
