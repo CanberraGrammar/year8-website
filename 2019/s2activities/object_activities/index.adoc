@@ -10,7 +10,7 @@ All these tasks should be completed in separate HTML files in your `Object Activ
 
 == Task One ==
 
-Create an object to hold information on your favorite recipe.
+Create an object to hold information on your favourite recipe.
 
 It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
 
