@@ -1,0 +1,38 @@
+:page-layout: standard_fork
+:page-title: Year 8 IT - Web Design & Application Development 2020
+:icons: font
+
+= Year 8 IT - Web Design & Application Development 2020
+
+==== Canberra Grammar School
+
+Mr Arnold Choi +
+arnold.choi@cgs.act.edu.au
+
+Mr Michael Zampogna +
+michael.zampogna@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://edstem.org/courses/XXXX/discussion[class forum^] on ED STEM.
+
+- You can also attend any of the IT tutorial sessions listed below.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtimes, SC303
+
+==== Lesson Summaries
+
+* http://cgs.ist/0801[IT0801 Google Doc^]
+* http://cgs.ist/0802[IT0802 Google Doc^]
+* http://cgs.ist/0803[IT0803 Google Doc^]
+
+===== Assessment Schedule (Semester One)
+
+include::semester_one_2020_table.adoc[]
+
+<<semester_one_2020.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>

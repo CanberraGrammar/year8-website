@@ -1,0 +1,221 @@
+:page-layout: standard_toc
+:page-title: Year 8 IT - Course Overview
+
+= Year 8 IT
+
+Year 8 Web Design and Application Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is aligned with the Digital Technologies curriculum from the Australian Curriculum, going into more detailed study of concepts covered in Year 7 Digital Technologies.
+
+The course has no prerequisites and requires no prior experience in programming or coding.
+
+== tl;dr
+
+=== About
+
+This course will teach you how to design standards-compliant web pages (using HTML and CSS) and how to develop web-based apps (using JavaScript).
+
+=== Punctuality
+
+You need to be on-time for class. It's very disruptive for everyone if there are latecomers. There is a *ZERO TOLERANCE* policy for punctuality, unless you have a legitimate reason (such as a music lesson). Going to the bathroom at the end of recess, resulting in you being late for class, is an example of an excuse that is *not* legitimate!
+
+=== Homework
+
+Make sure that you always have all your homework complete. There is a *ZERO TOLERANCE* policy for homework completion. If you have difficulty completing the homework, ask for help on the class forum. If you have extenuating circumstances about why you couldn't complete the homework, see or email your teacher before the lesson when it's due - not as you are walking into the classroom.
+
+=== Materials
+
+Make sure you always bring the correct materials to class - in particular, your laptop needs to be charged and ready to complete the set work. You are responsible for ensuring that your laptop is in working order for each lesson. You must also bring your diary to each lesson, as we often use the diary to write notes to your tutor or parents.
+
+== Course Overview
+
+=== Course Structure
+
+.Semester One:
+* Introduction to HTML
+* Introduction to CSS
+* CSS positioning
+* Advanced XHTML and CSS
+
+.Semester Two:
+* Introduction to JavaScript programing
+** Statements
+** Variables and data types
+** Control structures (conditionals, loops)
+** Designing and writing logic and algorithms
+* Advanced Javascript programming
+** Functions
+** Complex data types (arrays)
+** Objects
+** Events
+** Prototypes
+
+=== Sequencing
+
+[cols="11"]
+|===
+|
+^|*Week 1*
+^|*Week 2*
+^|*Week 3*
+^|*Week 4*
+^|*Week 5*
+^|*Week 6*
+^|*Week 7*
+^|*Week 8*
+^|*Week 9*
+^|*Week 10*
+
+{set:cellbgcolor:white}
+^.^| *Term 1*
+4+^.^|
+*Topic 1: Introduction to HTML* +
+
+6+^.^|
+*Topic 2: Introduction to CSS* +
+
+{set:cellbgcolor:white}
+^.^| *Term 2*
+4+^.^|
+*Topic 3: CSS Positioning* +
+3+^.^|
+*Topic 4: Advanced CSS and XHTML* +
+2+^.^|
+*Topic 5: Introduction to JavaScript Programming* +
+|
+{set:cellbgcolor:grey}
+
+^.^| *Term 3*
+{set:cellbgcolor:white}
+6+^.^|
+*Topic 5: Introduction to JavaScript Programming (cont.)* +
+4+^.^|
+*Topic 6: Advanced JavaScript Programming* +
+
+{set:cellbgcolor:white}
+^.^| *Term 4*
+3+^.^|
+*Topic 6: Advanced JavaScript Programming (cont.)* +
+^.^| *Assessment Week*
+{set:cellbgcolor:grey}
+^.^|
+*Finish Advanced Topics* +
+{set:cellbgcolor:white}
+2+^.^| *Camp*
+{set:cellbgcolor:grey}
+^.^|
+*Prepare for 2019 Courses* +
+{set:cellbgcolor:white}
+2+|
+{set:cellbgcolor:grey}
+
+|===
+
+=== Aims
+
+To develop students' knowledge and understanding, confidence and creativity in analysing, designing, developing and evaluating information and software technology solutions by:
+
+. developing an understanding of how to write semantically correct and valid XHTML code to construct standards-compliant web pages
+
+. learning about the use of cascading style sheets (CSS) and the advantages of the separation of content from presentation
+
+. learning how to turn static web pages into dynamic pages which can perform processing upon data and in response to user events
+
+. learning about how dynamic web programming can be used for other purposes such as designing applications for use within particular frameworks and APIs
+
+=== Content Descriptors
+
+Students learn to:
+
+* *ACTDIK023:* Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance.
+* *ACTDIK024:* Investigate how digital systems represent text, image and audio data in binary.
+* *ACTDIP025:* Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness.
+* *ACTDIP026:* Analyse and visualise data using a range of software to create information, and use structured data to model objects or events.
+* *ACTDIP027:* Define and decompose real-world problems taking into account functional requirements and economic, environmental, social, technical and usability constraints.
+* *ACTDIP028:* Design the user experience of a digital system, generating, evaluating and communicating alternative designs.
+* *ACTDIP029:* Design algorithms represented diagrammatically and in English, and trace algorithms to predict output for a given input and to identify errors.
+* *ACTDIP030:* Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language.
+* *ACTDIP031:* Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability.
+* *ACTDIP032:* Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account.
+
+== Materials and Resources
+
+This course will use the following materials and resources:
+
+* *Semester One:* Robson, E., Freeman, E. (2012). __Head First HTML and CSS__ (second edition). O'Reilly Media Inc, California, United States.
+* *Semester Two:* Robson, E., Freeman, E. (2014). __Head First JavaScript Programming__. O'Reilly Media Inc, California, United States.
+* Laptop computer.
+* Google Chrome
+* ED STEM IDE.
+
+All students are required to purchase the two textbooks. *Each textbook costs $55 and will be charged to your account.* The Semester One textbook will be distributed and charged at the beginning of Term One, and the Semester Two textbook will be distributed and charged at the beginning of Term Two.
+
+*The ED STEM IDE also costs $20 for the year* and will be charged to your school account.
+
+As we are using an online integrated development environment (IDE) for writing our web page code, together with hosting all files online, you will have access to the same development software (together with their files) from any computer. These can be accessed through any standards-compliant web browser, although all our work will be completed using the free Google Chrome web browser.
+
+For this course, you are required to have your own laptop computer running a full desktop operating system (e.g. macOS, Windows, etc.). A tablet (such as a iPad or Surface) is not sufficient or appropriate for this course which involves software development. Note, if you are considering purchasing a new laptop then it would be worthwhile speaking with Mr Purcell to ensure that your laptop will meet your needs into future years — particularly if you are intending to continue and study Years 9 and 10 IT which have specific laptop requirements, due to the nature of the course.
+
+== Final Project
+
+The climax of this course is the final project. The final project is your opportunity to take your newfound savvy with web app development out for a spin and develop a game. So long as your project draws upon the course’s lessons, the nature of your project is entirely up to you, albeit subject to your teacher's approval.
+
+== Expectations
+
+=== Class and Conduct Expectations
+
+* Wait in an orderly manner outside the classroom for the teacher to arrive.
+
+* When instructed, move into the classroom and stand behind your chair until you have been greeted by the teacher and invited to sit down.
+
+* If another staff member visits the class, stand as a matter of courtesy.
+
+* You must be punctual for class. If you arrive after the second bell, you are late - and do not expect to get 100% for "Punctuality and Organisation" on your term report (unless you have a legitimate excuse).
+
+* Show respect for the person who is talking in the room. When the teacher is addressing the entire class, no one else speaks. If one of your peers is answering a question, do not talk at the same time.
+
+* All homework is to be recorded in your school diary and completed to a satisfactory standard. Homework completion and quality will be checked every lesson. If you have not completed *ALL* the set homework to a satisfactory standard, or made a substantive attempt at the set work, then your homework (as a whole) will be recorded as incomplete.
+
+** There is a *ZERO TOLERANCE* policy on homework completion. Do not expect to get 100% for "Meeting Deadlines" on your term report if you have missed homework. Furthermore, on the first instance your homework is incomplete a note will be written in your diary. On the second instance an email will be sent home and you will be directed to a Period 6 session. On the third (and subsequent) instances you will receive a detention &mdash; there's no reason you should be turning-up to class with your homework incomplete and without a reason. However...
+
+** It is understood that sometimes you may encounter difficulties completing the homework. This is fine, so long as you must make a substantive attempt to seek assistance and gain help to complete the work before the lesson — this does not mean just before the lesson as you are walking into the room. There are plenty of ways to seek assistance if you need help.
+
+*** **For example:** if you found the homework difficult and it's not fully complete, but you sought help on the forum asking a geniune and informed question (not _"How do I do the homework?"_ or copy-paste your code and ask _"What's wrong with my code?"_), you asked well in advance of when the work was due (not late the night before, or early the morning of, the due date), and you made an attempt to implement the suggestions and advice you received, then that's totally fine as you clearly made a good effort to complete the work.
+
+** We also understand that on rare occasions you may be unable to complete your homework due to circumstances beyond your control. We are usually reasonable, if you are reasonable and let your teacher know in advance before the next lesson when the homework is due — you can't just turn-up to the lesson with your homework not done, that will not be accepted. However, note that this excuse will only be accepted on rare occasions for legitimate reasons (e.g. you had interstate relatives visiting and went out for dinner, only getting home late) and likely would not be accepted if you had multiple days to complete the homework before the next lesson. Our willingness to accept such excuses also depends on your prior track record of homework completion.
+
+* Only pack up your books and equipment when instructed — the bell is an indication to the teacher that the period has finished, it is not an invitation for you to packup.
+
+* Bags are not to be brought to class unless it's Period 5. You can bring a small shoulder bag for your laptop, but no large bags or backpacks.
+
+* Only commence working on the computers if permission has been given by the teacher.
+
+* When using the computers you must stay on task. If you are coding in ED STEM there is no reason to have your email open. At no point must any games be open on your laptops, even in the background/minimised.
+
+* If you need to contact the teacher via email then you need to ensure your email is properly addressed (with Dear Mr or Dear Sir) and written with proper English. If you do not write your email properly then it will be returned and you will need to re-write the email properly before a response or acknowledgement will be given.
+
+=== Equipment Expectations
+
+You must bring to each lesson:
+
+* School diary
+
+* Laptop computer — you must ensure that your laptop computer is always charged and ready to use in class. **You will not have access to power in the classroom to charge your laptop as for safety reasons we cannot have laptop power supply cables running across the floor to the desks.** This means that you will need to plan ahead to ensure that your laptop has sufficient charge for your IT lesson, even if it's at the end of the day. It is also your responsibility to ensure that your laptop is always in a fully working state for class and homework.
+
+* Your textbook
+
+* A pen and pencil
+
+The same penalties as homework non-completion apply towards not bringing the correct materials to class. On the first instance a note will be written in your diary. On the second instance an email will be sent home. On the third (and subsequent) instances you will receive a detention.
+
+== Getting Help
+
+Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
+
+* *ED STEM Online Forum (https://edstem.org/courses/3174/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 8 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
+
+* *Email the Teacher.* If you have posted on the forum, but not received a satisfactory response, then you are welcome to email the teacher to follow-up. Of course, you can also email you teacher if you want to talk to them about something privately.
+
+* *After School IT Tutorials.* Each week on Monday from 3:30pm - 5:00pm in Room SC304 there are IT tutorials where you can get assistance from senior students (in Year 11) who completed this course in past years. Alternatively, you are also welcome to come to quietly work on IT-related homework or revision. Note, these are *quiet* study sessions where you are expected to work individually or quietly with your peers.
+
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
