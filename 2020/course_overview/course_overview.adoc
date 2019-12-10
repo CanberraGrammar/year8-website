@@ -102,7 +102,7 @@ Make sure you always bring the correct materials to class - in particular, your 
 2+^.^| *Camp*
 {set:cellbgcolor:grey}
 ^.^|
-*Prepare for 2019 Courses* +
+*Prepare for 2021 Courses* +
 {set:cellbgcolor:white}
 2+|
 {set:cellbgcolor:grey}
@@ -210,7 +210,7 @@ The same penalties as homework non-completion apply towards not bringing the cor
 
 Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
 
-* *ED STEM Online Forum (https://edstem.org/courses/3174/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 8 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
+* *ED STEM Online Forum (https://edstem.org/courses/XXXX/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 8 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
 
 * *Email the Teacher.* If you have posted on the forum, but not received a satisfactory response, then you are welcome to email the teacher to follow-up. Of course, you can also email you teacher if you want to talk to them about something privately.
 

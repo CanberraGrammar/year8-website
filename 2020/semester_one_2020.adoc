@@ -1,7 +1,7 @@
 :page-layout: standard_toc
 :page-title: Unit Outline and Assessment Schedule
 
-= Year 8 IT &mdash; Semester One 2019
+= Year 8 IT &mdash; Semester One 2020
 
 == Unit Outline and Assessment Schedule
 
@@ -16,7 +16,7 @@
 
 === Assessment Schedule
 
-include::semester_one_2019_table.adoc[]
+include::semester_one_2020_table.adoc[]
 
 === Course Detail
 
@@ -25,30 +25,9 @@ include::semester_one_2019_table.adoc[]
 * CSS positioning
 * Advanced XHTML and CSS
 
-=== Grade Allocation
+=== Grade Descriptors
 
-[cols="1,20"]
-|===
-
-^.^|*A*
-.^|Indicates that a student has demonstrated excellent achievement of what is expected.
-
-^.^|*B*
-.^|Indicates that a student has demonstrated high achievement of what is expected.
-
-^.^|*C*
-.^|Indicates that a student has demonstrated satisfactory achievement of what is expected. This student is achieving at the predicted level for the subject.
-
-^.^|*D*
-.^|Indicates that a student has demonstrated partial achievement of what is expected.
-
-^.^|*E*
-.^|Indicates that a student has demonstrated limited achievement of what is expected.
-
-^.^|*S*
-.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
-
-|===
+include::grade_descriptors.adoc[]
 
 === Absence from Class
 

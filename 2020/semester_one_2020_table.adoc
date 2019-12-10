@@ -7,17 +7,17 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
+.^|*Assignment: HTML Page Coding*
 .^|Monday 17 February 2020 (Week 3)
 .^|Monday 23 March 2020 (Week 8) by 8:45am
 ^.^|25%
 
-.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
+.^|*Assignment: Website Group Project*
 .^|Monday 30 March 2020 (Week 9)
 .^|Thursday 21 May 2020 (Week 14) by 8:45am
 ^.^|40%
 
-.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
+.^|*Common Test: HTML and CSS Common Test*
 .^|Monday 11 May 2020 (Week 13)
 .^|IT0803: Tuesday 9 June 2020 (Week 17) +
 IT0801/2: Wednesday 10 June 2020 (Week 17)
