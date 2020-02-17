@@ -56,16 +56,16 @@ _Tip, click the image to see a larger version._
 
 image::sample-page.png[Sample Webpage, link="sample-page.png"]
 
+[#_getting_started]
+=== Getting Started ===
+
+Fork the *Assignment 1 (Semester 1)* workspace in ED STEM which will provide you with a valid XHTML 1.0 Strict template to commence work. *DO NOT* rename this workspace, otherwise we might not be able to find your work later for marking.
+
 === Page Text ===
 
 To avoid you having to retype all the text in the page you can find a copy of the web page text within your ED STEM workspace.
 
 Note: There are some references in the page (e.g. [1], [2], etc.) which tell you the destination of links, source of images, etc. *Make sure you DO NOT include those in your web page*, as they are just to provide you with information that is not obvious from the screen shot above.
-
-[#_getting_started]
-=== Getting Started ===
-
-Fork the *Assignment 1 (Semester 1)* workspace in ED STEM which will provide you with a valid XHTML 1.0 Strict template to commence work. *DO NOT* rename this workspace, otherwise we might not be able to find your work later for marking.
 
 == Hints and Pro Tips ==
 
@@ -75,7 +75,7 @@ Here you can find various hints and tips to complete the assignment tasks.
 * Your webpage must FULLY validate (i.e. with no warnings or errors) as XHTML 1.0 Strict using the W3C validator located at http://validator.w3.org[http://validator.w3.org^].
 * Make sure that you look at the sample page carefully and note any text in *bold*, _italics_, or other special formatting as that all needs to be replicated in your version of the page.
 * The title of the webpage is "Uber Air"
-* The Uber Air image is available from https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2020/s1assign1/uber.jpg[https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2020/s1assign1/uber.jpg^]. Do not locally download the vive.jpg file to your ED STEM workspace - source the image from github.com using this address.
+* The Uber Air image is available from https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2020/s1assign1/uber.jpg[https://raw.githubusercontent.com/CanberraGrammar/year8-website/master/2020/s1assign1/uber.jpg^]. Do not locally download the uber.jpg file to your ED STEM workspace - source the image from github.com using this address.
 * There are some links in the page and the destination of these links is not obvious from the screenshot. As such, the link destinations are included in the web page text extract included above. Don't forget to include them!
 * The dimensions / size of the embedded YouTube video is `width="510"` and `height="340"`.
 

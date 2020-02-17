@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: HTML Page Coding*
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
 .^|Monday 17 February 2020 (Week 3)
 .^|Monday 23 March 2020 (Week 8) by 8:45am
 ^.^|25%
