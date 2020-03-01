@@ -9,7 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Monday 17 February 2020*.
+*Monday 2 March 2020:* The sample-page.png screenshot was updated to include a horizontal rule and copyright symbol, as per the marking guidelines.
+
+This assignment was last updated on *Monday 2 March 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
