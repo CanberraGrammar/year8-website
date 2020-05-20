@@ -5,13 +5,15 @@
 = Year 8 IST - Assignment Two =
 
 *Weight:* 40% +
-*Due:* Thursday 21 May 2020 (Week 14) by 8:45am
+*Due:* Tuesday 2 June 2020 (Week 16) by 8:45am
 
 == Changelog ==
 
-This assignment was last updated on *Saturday 28 March 2020*.
+This assignment was last updated on *Wednesday 20 May 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* *UPDATE 20 MAY:* The due date has been extended to *8:45am on Tuesday 2 June 2020*. This provides you with a bit more time to complete the task, as some students were finding it challenging particularly because they have had limited face-to-face class time with their teacher.
 
 == Task Context ==
 
