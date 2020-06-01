@@ -37,8 +37,9 @@ The focus of this task is to allow students to demonstrate their level of coding
 
 == Past Tests ==
 
-For revision purposes, below are copies of the 2013, 2014, 2015, 2016, 2017, and 2018 common tests. Note that the solution will not be provided for these tests.
+For revision purposes, below are copies of the 2013, 2014, 2015, 2016, 2017, 2018 and 2019 common tests. Note that the solution will not be provided for these tests.
 
+* link:2019s1commontest1/2019s1commontest1_task.html[2019 Semester One Common Test] | link:2019s1commontest1/2019s1commontest1_markingrubric.pdf[Marking Rubric]
 * link:2018s1commontest1/2018s1commontest1_task.html[2018 Semester One Common Test] | link:2018s1commontest1/2018s1commontest1_markingrubric.pdf[Marking Rubric]
 * link:2017s1commontest1/2017s1commontest1_task.html[2017 Semester One Common Test] | link:2017s1commontest1/2017s1commontest1_markingrubric.pdf[Marking Rubric]
 * link:2016s1commontest1/2016s1commontest1_task.html[2016 Semester One Common Test] | link:2016s1commontest1/2016s1commontest1_markingrubric.pdf[Marking Rubric]
