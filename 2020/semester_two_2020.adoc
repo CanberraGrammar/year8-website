@@ -1,0 +1,72 @@
+:page-layout: standard_toc
+:page-title: Unit Outline and Assessment Schedule
+
+= Year 8 IT &mdash; Semester Two 2020
+
+== Unit Outline and Assessment Schedule
+
+=== Report Criteria / Areas of Learning
+
+* Demonstrating an understanding of core programming concepts, particularly variables, data types, and control structures
+* Implementing interactivity on web pages and correctly handling events
+* Understanding appropriate use and implementation of functions
+* Correctly using object-oriented programming practices
+* Writing neat and well-formatted code, with whitespace and indentation as appropriate
+* Including sufficient comments to explain the logic and purpose of the code
+
+=== Assessment Schedule
+
+include::semester_two_2019_table.adoc[]
+
+=== Course Detail
+
+* Introduction to JavaScript programing
+** Statements
+** Variables and data types
+** Control structures (conditionals, loops)
+** Designing and writing logic and algorithms
+* Advanced Javascript programming
+** Functions
+** Complex data types (arrays)
+** Objects
+** Events
+** Prototypes
+
+=== Grade Allocation
+
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|The student demonstrates an extensive knowledge of the JavaScript programming language, particularly writing correct code syntax, creating and using variables, and implementing control structures. Additionally, their code is very well written incorporating whitespace, indentation, and commenting. They also have a highly competent knowledge of object-oriented programming, particularly creating and using custom objects. The student has mastered the logical design patterns required to create algorithms to address and solve complex programming problems. Furthermore, they are able to translate these algorithms into source code which can be interpreted and run as a working application. The student is also highly proficient in advanced JavaScript programming concepts including functions, handling events, and interacting with web pages through accessing and manipulating the Document Object Model.
+
+^.^|*B*
+.^|The student demonstrates a thorough knowledge of the JavaScript programming language, particularly writing correct code syntax, creating and using variables, and implementing control structures. Additionally, their code is well written incorporating whitespace, indentation, and commenting. They also have a good working knowledge of object-oriented programming, particularly creating and using custom objects. The student understands the logical design patterns required to create algorithms to address and solve complex programming problems. They are also proficient in advanced JavaScript programming concepts including functions, handling events, and interacting with web pages through accessing and manipulating the Document Object Model. To improve, the student should further practise translating algorithms into working source code. They must also ensure that their programs are fully tested and produce the correct results under a range of inputs.
+
+^.^|*C*
+.^|The student demonstrates a sound knowledge of the JavaScript programming language, including writing correct code syntax, creating and using variables, and implementing control structures. They also have a working knowledge of object-oriented programming, particularly creating and using custom objects. The student has a satisfactory understanding of the logical design patterns required to create algorithms to address and solve complex programming problems. They have a sound grasp of advanced JavaScript programming concepts and can follow instructions to implement functions, handle events, and interact with web pages through accessing and manipulating the Document Object Model. To improve, they should further develop their knowledge of complex programming concepts and algorithms, through writing more advanced programs, along with practising the use of advanced JavaScript techniques.
+
+^.^|*D*
+.^|The student demonstrates a limited knowledge of the JavaScript programming language, particularly topics such as writing correct code syntax, creating and using variables, and implementing control structures. They only have a basic knowledge of object-oriented programming. Their understanding of more advanced JavaScript programming concepts, including functions and web page interaction, is also very limited and they require substantial guidance and step-by-step instructions. To improve, the student should further practise the logical design patterns to create algorithms which address and solve complex programming problems. They also need to ensure that they properly read all provided material and understand the concepts before trying to implement in code.
+
+^.^|*E*
+.^|The student demonstrates a very limited knowledge of the JavaScript programming language, particularly topics such as writing correct code syntax, creating and using variables, and implementing control structures. They are often unable to correctly use object-oriented programming. Their understanding of more advanced JavaScript programming concepts is also very limited, and they require substantial guidance and step-by-step instructions. To improve, the student should further practise the logical design patterns to create algorithms which address and solve complex programming problems. They also need to ensure that they properly read all provided material and understand the concepts before trying to implement in code.
+
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===
+
+=== Absence from Class
+
+It is your responsibility to catch up on work missed when absent from class. We suggest you email your teacher on the day you are away to request any missed work or information.
+
+If you are away for an assessment, please consult your teacher to make arrangements to complete the assessment as soon as possible after you return to school. After 10 school days, the assessment cannot be rescheduled and either an estimate (in the case of an explained absence) or a zero will be awarded.
+
+For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.

@@ -1,0 +1,25 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment 1: JavaScript Game*
+.^|Monday 10 August 2020 (Week 4)
+.^|Thursday 3 September 2020 (Week 7) by 8:45am
+^.^|30%
+
+.^|*Assignment 2: Game Design*
+.^|Monday 7 September 2020 (Week 8)
+.^|Thursday 24 September 2020 (Week 10) by 8:45am
+^.^|30%
+
+.^|*Assignment 3: Game Development*
+.^|Monday 7 September 2020 (Week 8)
+.^|Thursday 5 November 2020 (Week 14) by 8:45am
+^.^|40%
+
+|===
