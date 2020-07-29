@@ -1,0 +1,109 @@
+:page-layout: standard_toc
+:page-title: Year 8 IST - Assignment Two
+:icons: font
+
+= Year 8 IST - Assignment Two =
+
+*Weight:* 20%
+
+*Game Design:* Thursday 24 September 2020 (Week 10) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Wednesday 29 July 2020*.
+
+== Task Overview ==
+
+This assignment requires you to design a game of your choosing (with some restrictions/guidelines) in JavaScript.
+
+NOTE: When asking previous cohorts for their feedback about this course, a common bit of feedback has been to include fewer replication assignments and more open-ended assignments (similar to the major web design project we completed last semester). The students have spoken and we have listened, with this more open-ended JavaScript assignment allowing you to select and implement a game of your choice.
+
+In your next assignment, you will implement your game.
+
+== Task Description ==
+
+The game must be an existing well-known game, and cannot be a custom game which you have devised. That said, you can redesign an existing game and put your own spin on it (e.g. custom features, levels, etc.) but the design, as a whole, needs to largely be true to the existing game.
+
+There are certain minimum requirements which the game must satisfy:
+
+* be able to display the player's name and score.
+* keep track of the player and their score.
+* involve HTML elements which the user interacts with through the web page, and you manipulate through JavaScript.
+* be developed in  JavaScript.
+* use of third-party frameworks (e.g. jQuery, Prototype) is encouraged.
+
+In order to pass this assignment with a mark of 50% or greater you must have a reasonably working game (see the marking guidelines), so we encourage you to attempt a game which you will find challenging, but not unachievable.
+
+Here are some examples of games you may wish to attempt, depending on your skill and confidence level with JavaScript programming.
+
+=== Standard Level ===
+
+* *Click the Dot:* Have a dot (circle) randomly appear on the screen in a different location every second, and see how many times the player can click the dot in 30 seconds.
+* *T-Rex Game:*  Press *space* to jump over the incoming obstacles.
+* *Cookie Clicker:* Press the buttons to collect cookies and buy upgrades.
+
+=== Above Standard Level ===
+
+* https://en.wikipedia.org/wiki/Hangman_(game)[Hangman^]
+* https://en.wikipedia.org/wiki/Connect_Four[Connect Four^]
+* https://en.wikipedia.org/wiki/Snake_(video_game)[Snake^]
+
+
+=== Exemplary Level ===
+
+It is expected students wishing to achieve a mark in the extension/enrichment band would attempt a project with more complexity, most likely involving graphics manipulation as well. *If you attempt an advanced level project then you may also use HTML5 elements and associated JavaScript programming.*
+
+* https://en.wikipedia.org/wiki/Frogger[Frogger^]
+* https://en.wikipedia.org/wiki/Space_Invaders[Space Invaders^]
+* https://en.wikipedia.org/wiki/Pac-Man[Pac Man^]
+* https://en.wikipedia.org/wiki/Tetris[Tetris^]
+
+
+...or another "arcade" style game (see the arcade machine outside SC304 for more ideas...).
+
+NOTE: All the above are just suggestions — you can choose any other games too. However, you cannot do Whack-A-Mole, Rock Paper Scissors, Battleship, Tic-Tac-Toe, The Memory Game, or Guess the Number as these have all been done either in class this year, or as assessment tasks in previous years.
+
+This is an individual project. You are welcome to collaborate and help each other, but all work must be your own. If any of your work is copied (either from another member of the class, or from a third party such as a book or the Internet) then make sure you reference the source of the material, otherwise it will be considered plagiarism and you will receive zero.
+
+Most games you can think of will already have been developed in JavaScript with solutions available online. *You must write your own design of the game, and all work must be your own* (with the exception of little bits and pieces which you may use from elsewhere, if needed, with references - but these must only be relatively very small and non-important parts of your total assignment, as you won't receive marks for code you didn't write yourself). *We will be actively checking the originality of your submitted code.*
+
+
+== Submission Instructions ==
+
+*Weight:* 20% +
+*Due:* Thursday 24 September 2020 (Week 10) by 8:45am
+
+You will need to create a HTML page containing the below sections on ED STEM. Please name the workspace *Assignment 2 Semester 2, 2020*.
+
+NOTE: We will only be assessing the content of your design, rather than the style and presentation of your page.
+
+==== 1. Game Description (approx. 300-500 words) ====
+
+This should include:
+
+* A paragraph describing the general purpose of the game
+* Bullet points listing the core game mechanics
+* A paragraph to explain what makes the game successful
+
+==== 2. Coding Plan (approx. 300-2000 words) ====
+
+This should include:
+
+* A list of the main variables that you need to create and how they will be utilised for the game to function as designed
+* A list of the main functions that you need to create including a brief description of the code that you will need to implement within each function
+
+NOTE: The level of detail provide is dependent on the complexity of your game. This is why there is such a large range for the suggest word count.
+
+=== Draft Submissions ===
+
+Given the custom nature of this project we will not have formal draft submissions. However, you are encouraged to ask your teacher to review your assignment during the allocated project lessons for feedback. You are also welcome to get feedback during the after school or lunchtime IT tutorial sessions.
+
+[#_marking_guidelines]
+== Marking Guidelines ==
+
+link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
