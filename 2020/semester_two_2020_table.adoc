@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment 1: JavaScript Game*
+.^|*<<s2assign1/index.adoc#, Assignment 1: JavaScript Game>>*
 .^|Monday 10 August 2020 (Week 4)
 .^|Thursday 3 September 2020 (Week 7) by 8:45am
 ^.^|30%
