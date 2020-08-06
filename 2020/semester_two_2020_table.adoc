@@ -15,11 +15,11 @@
 .^|*Assignment 2: Game Design*
 .^|Monday 7 September 2020 (Week 8)
 .^|Thursday 24 September 2020 (Week 10) by 8:45am
-^.^|30%
+^.^|20%
 
 .^|*Assignment 3: Game Development*
 .^|Monday 7 September 2020 (Week 8)
 .^|Thursday 5 November 2020 (Week 14) by 8:45am
-^.^|40%
+^.^|50%
 
 |===
