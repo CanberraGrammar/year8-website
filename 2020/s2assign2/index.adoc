@@ -10,7 +10,7 @@
 
 == Changelog ==
 
-This assignment was last updated on *Wednesday 29 July 2020*.
+This assignment was last updated on *Monday 7 September 2020*.
 
 == Task Overview ==
 
