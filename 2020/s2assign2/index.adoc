@@ -85,6 +85,7 @@ This should include:
 * Bullet points listing the core game mechanics
 * A paragraph to explain what makes the game successful
 
+
 ==== 2. Coding Plan (approx. 300-2000 words) ====
 
 This should include:
