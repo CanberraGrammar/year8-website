@@ -1,0 +1,22 @@
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|
+The student demonstrates an extensive knowledge of writing valid and standards-compliant XHTML 1.0 Strict code together with valid CSS3 style sheet code. They are very familiar with the available XHTML tags and their purpose. Additionally, they are highly proficient with the most common CSS selectors and properties, and have an excellent understanding about the appropriate use of CSS code. They also have a comprehensive understanding of advanced CSS positioning and can effectively design and write code allowing for the tableless layout of XHTML pages. They have a strong attention to detail and include features of well-written code within their XHTML and CSS files, such as appropriate use of whitespace, the inclusion of code comments, and appropriate indentation of code to assist with readability.
+^.^|*B*
+.^|
+The student demonstrates a thorough knowledge of writing valid and standards-compliant XHTML 1.0 Strict code together with valid CSS3 style sheet code. They have a very good knowledge of the available XHTML tags and their purpose. Additionally, they are proficient with the most common CSS selectors and properties, and have an excellent understanding about the appropriate use of CSS code. They also have a very good understanding of advanced CSS positioning and can effectively design and write code allowing for the tableless layout of XHTML pages. To improve, they should have more attention to detail regarding the correct layout of their web pages. Additionally, they should also include more features of well-written code within their XHTML and CSS files, such as appropriate use of whitespace, the inclusion of code comments, and appropriate indentation of code to assist with readability.
+^.^|*C*
+.^|
+The student demonstrates a sound knowledge of writing valid and standards-compliant XHTML 1.0 Strict code together with valid CSS3 style sheet code. They have a good working knowledge of the most common XHTML tags and their purpose, together with how to use CSS selectors and properties. They also have a satisfactory knowledge of advanced CSS positioning and can design and write code allowing for the tableless layout of XHTML pages. To improve, they should have additional attention to detail in the design of their web pages. To help with this aspect, they should improve their ability to conduct self-directed research and technical experimentation with code to test different page layouts. They must also include more features of well-written code within their XHTML and CSS files, such as appropriate use of whitespace, the inclusion of code comments, and appropriate indentation of code to assist with readability.
+^.^|*D*
+.^|
+The student demonstrates a limited knowledge of writing valid and standards-compliant XHTML 1.0 Strict code together with valid CSS3 style sheet code. They have some working knowledge of XHTML tags together with a rudimentary understanding of common CSS selectors and properties. They have a basic knowledge of CSS positioning. To improve, they should further practise CSS techniques such as positioning, including float, absolute, and relative positioning. They also need to improve their ability to conduct self-directed research and technical experimentation with code to test different page layouts.
+^.^|*E*
+.^|
+The student demonstrates a very limited knowledge of writing valid and standards-compliant XHTML 1.0 Strict code together with valid CSS3 style sheet code. They have an elementary knowledge of XHTML tags together with basic CSS selectors and properties. To improve, they should become much more familiar with CSS selectors and XHTML tags. Additionally, they should further practise CSS techniques such as positioning, including float, absolute, and relative positioning. They also need to improve their ability to conduct self-directed research and technical experimentation with code to test different page layouts.
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===

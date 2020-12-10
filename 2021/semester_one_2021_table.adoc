@@ -1,0 +1,26 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
+.^|Monday 17 February 2020 (Week 3)
+.^|Monday 23 March 2020 (Week 8) by 8:45am
+^.^|25%
+
+.^|*<<s1assign2/index.adoc#, Assignment: Website Group Project>>*
+.^|Monday 30 March 2020 (Week 9)
+.^|Tuesday 2 June 2020 (Week 16) by 8:45am
+^.^|40%
+
+.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
+.^|Tuesday 2 June 2020 (Week 16)
+.^|IT0803: Tuesday 9 June 2020 (Week 17) +
+IT0801/2: Wednesday 10 June 2020 (Week 17)
+^.^|35%
+
+|===
