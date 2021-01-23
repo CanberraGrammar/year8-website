@@ -15,12 +15,9 @@ asciidoctor:
   base_dir: :docdir
   safe: 0
 exclude:
-- Dockerfile
-- Gemfile
-- Gemfile.lock
-- Makefile
-- README.md
-- vendor
-- build.sh
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 gems:
 - jekyll-asciidoc
