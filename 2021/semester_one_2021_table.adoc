@@ -7,17 +7,17 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Replica>>*
+.^|*<<Assignment: HTML Page Replica>>*
 .^|Monday 15 February 2021 (Week 3)
 .^|Thursday 11 March 2021 (Week 6) by 8:45am
 ^.^|30%
 
-.^|*<<s1assign2/index.adoc#, Common Test: HTML and CSS Common Test>>*
+.^|*<<Common Test: HTML and CSS Common Test>>*
 .^|Wednesday 28 March 2021 (Week 11)
 .^|Wednesday 5 May 2021 (Week 12)
 ^.^|30%
 
-.^|*<<s1commontest/index.adoc#, Assignment: Group Website Project>>*
+.^|*<<Assignment: Group Website Project>>*
 .^|Thursday 6 May 2021 (Week 12)
 .^|Thursday 27 May 2021 (Week 15) by 8:45am
 ^.^|40%
