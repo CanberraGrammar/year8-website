@@ -14,8 +14,10 @@
 
 .^|*Common Test: HTML and CSS Common Test*
 .^|Wednesday 28 March 2021 (Week 11)
-.^|IT0801/IT0802: Wednesday 5 May 2021 (Week 12), Period 3 +
-IT0803/IT0804: Wednesday 5 May 2021 (Week 12), Period 2
+.^|IT0801: Wednesday 5 May 2021 (Week 12), Period 3 +
+IT0802: Wednesday 5 May 2021 (Week 12), Period 3 +
+IT0803: Wednesday 5 May 2021 (Week 12), Period 2 +
+IT0804: Wednesday 5 May 2021 (Week 12), Period 2
 ^.^|30%
 
 .^|*Assignment: Group Website Project*
