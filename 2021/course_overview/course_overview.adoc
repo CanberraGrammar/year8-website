@@ -34,9 +34,10 @@ Make sure you always bring the correct materials to class - in particular, your 
 * Introduction to CSS
 * CSS positioning
 * Advanced XHTML and CSS
+* Introduction to JavaScript Programming
 
 .Semester Two:
-* Introduction to JavaScript programing
+* Introduction to JavaScript Programming (cont.)
 ** Statements
 ** Variables and data types
 ** Control structures (conditionals, loops)
@@ -62,7 +63,6 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^|*Week 7*
 ^|*Week 8*
 ^|*Week 9*
-^|*Week 10*
 
 {set:cellbgcolor:white}
 ^.^| *Term 1*
@@ -76,9 +76,9 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^.^| *Term 2*
 4+^.^|
 *Topic 3: CSS Positioning* +
-3+^.^|
-*Topic 4: Advanced CSS and XHTML* +
 2+^.^|
+*Topic 4: Advanced CSS and XHTML* +
+4+^.^|
 *Topic 5: Introduction to JavaScript Programming* +
 |
 {set:cellbgcolor:grey}
@@ -87,11 +87,13 @@ Make sure you always bring the correct materials to class - in particular, your 
 {set:cellbgcolor:white}
 6+^.^|
 *Topic 5: Introduction to JavaScript Programming (cont.)* +
-4+^.^|
+3+^.^|
 *Topic 6: Advanced JavaScript Programming* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 4*
+2+^.^| *Camp*
+{set:cellbgcolor:grey}
 3+^.^|
 *Topic 6: Advanced JavaScript Programming (cont.)* +
 ^.^| *Assessment Week*
@@ -99,10 +101,8 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^.^|
 *Finish Advanced Topics* +
 {set:cellbgcolor:white}
-2+^.^| *Camp*
-{set:cellbgcolor:grey}
 ^.^|
-*Prepare for 2021 Courses* +
+*Prepare for 2022 Courses* +
 {set:cellbgcolor:white}
 2+|
 {set:cellbgcolor:grey}
