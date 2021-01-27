@@ -34,16 +34,6 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0803[IT0803 Google Doc^]
 * http://cgs.ist/0804[IT0804 Google Doc^]
 
-===== Activities (Semester Two)
-
-* <<s2activities/loop_activities/index.adoc#, Loop Activities>>
-* <<s2activities/if_activities/index.adoc#, If Activities>>
-* <<s2activities/basic_programming_activities/index.adoc#, Basic Programming Activities>>
-* <<s2activities/function_activities/index.adoc#, Function Activities>>
-* <<s2activities/array_activities/index.adoc#, Array Activities>>
-* <<s2activities/array_string_activities/index.adoc#, Array and String Activities>>
-* <<s2activities/object_activities/index.adoc#, Object Activities>>
-
 ===== Activities (Semester One)
 
 * <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
