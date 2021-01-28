@@ -91,21 +91,23 @@ Make sure you always bring the correct materials to class - in particular, your 
 4+^.^|
 *Topic 6: Advanced JavaScript Programming* +
 
-{set:cellbgcolor:white}
+{set:cellbgcolor:grey}
 ^.^| *Term 4*
-3+^.^|
+{set:cellbgcolor:white}
+^.^| *Camp*
+{set:cellbgcolor:grey}
+4+^.^|
 *Topic 6: Advanced JavaScript Programming (cont.)* +
 ^.^| *Assessment Week*
 {set:cellbgcolor:grey}
 ^.^|
 *Finish Advanced Topics* +
 {set:cellbgcolor:white}
-2+^.^| *Camp*
-{set:cellbgcolor:grey}
-^.^|
+
+2+^.^|
 *Prepare for 2022 Courses* +
 {set:cellbgcolor:white}
-2+|
+^.^|
 {set:cellbgcolor:grey}
 
 |===
