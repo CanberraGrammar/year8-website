@@ -103,7 +103,7 @@ Make sure you always bring the correct materials to class - in particular, your 
 2+^.^| *Camp*
 {set:cellbgcolor:grey}
 ^.^|
-*Prepare for 2021 Courses* +
+*Prepare for 2022 Courses* +
 {set:cellbgcolor:white}
 2+|
 {set:cellbgcolor:grey}
