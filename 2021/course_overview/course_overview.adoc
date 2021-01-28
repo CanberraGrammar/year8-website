@@ -70,19 +70,20 @@ Make sure you always bring the correct materials to class - in particular, your 
 4+^.^|
 *Topic 1: Introduction to HTML* +
 
-6+^.^|
+5+^.^|
 *Topic 2: Introduction to CSS* +
+^.^|
+{set:cellbgcolor:grey}
 
-{set:cellbgcolor:white}
+
 ^.^| *Term 2*
+{set:cellbgcolor:white}
 4+^.^|
 *Topic 3: CSS Positioning* +
 3+^.^|
 *Topic 4: Advanced CSS and XHTML* +
-2+^.^|
+3+^.^|
 *Topic 5: Introduction to JavaScript Programming* +
-|
-{set:cellbgcolor:grey}
 
 ^.^| *Term 3*
 {set:cellbgcolor:white}
