@@ -17,9 +17,7 @@ michael.zampogna@cgs.act.edu.au
 
 ==== Course Documents
 
-- Need help? Visit the https://edstem.org/courses/3876/discussion[class forum^] on ED STEM.
-
-- You can also attend any of the IT tutorial sessions listed below.
+- Need help? Visit the https://edstem.org/courses/5082/discussion/[class forum^] on ED STEM.
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
 
@@ -30,16 +28,7 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0803[IT0803 Google Doc^]
 * http://cgs.ist/0804[IT0804 Google Doc^]
 
-===== Activities (Semester One)
-
-* <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>
-* <<s1activities/activity2/index.adoc#, Activity 2: Shakespeare's (Improved) Sonnet>>
-* <<s1activities/activity3/index.adoc#, Activity 3: Advanced CSS Selectors>>
-* <<s1activities/activity4/index.adoc#, Activity 4: Tennis Court>>
-* <<s1activities/activity5/index.adoc#, Activity 5: Image Gallery>>
-* <<s1activities/challenge/index.adoc#, Challenge Activities>>
-
-===== Assessment Schedule (Semester One)
+==== Assessment Schedule (Semester One)
 
 include::semester_one_2021_table.adoc[]
 
