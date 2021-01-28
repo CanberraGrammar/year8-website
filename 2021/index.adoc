@@ -23,10 +23,6 @@ michael.zampogna@cgs.act.edu.au
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
 
-==== Tutorial Sessions
-
-* Wednesday afternoons from 3:30pm - 5:00pm in SC304
-
 ==== Lesson Summaries
 
 * http://cgs.ist/0801[IT0801 Google Doc^]
