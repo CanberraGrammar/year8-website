@@ -88,16 +88,19 @@ Make sure you always bring the correct materials to class - in particular, your 
 {set:cellbgcolor:white}
 6+^.^|
 *Topic 5: Introduction to JavaScript Programming (cont.)* +
-4+^.^|
+3+^.^|
 *Topic 6: Advanced JavaScript Programming* +
-
+^.^|
 {set:cellbgcolor:grey}
+
 ^.^| *Term 4*
 {set:cellbgcolor:white}
 ^.^| *Camp*
 {set:cellbgcolor:grey}
 4+^.^|
 *Topic 6: Advanced JavaScript Programming (cont.)* +
+{set:cellbgcolor:white}
+
 ^.^| *Assessment Week*
 {set:cellbgcolor:grey}
 ^.^|
