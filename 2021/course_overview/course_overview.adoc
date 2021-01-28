@@ -63,22 +63,23 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^|*Week 7*
 ^|*Week 8*
 ^|*Week 9*
+^|*Week 10*
 
 {set:cellbgcolor:white}
 ^.^| *Term 1*
 4+^.^|
 *Topic 1: Introduction to HTML* +
 
-5+^.^|
+6+^.^|
 *Topic 2: Introduction to CSS* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 2*
 4+^.^|
 *Topic 3: CSS Positioning* +
-2+^.^|
+3+^.^|
 *Topic 4: Advanced CSS and XHTML* +
-4+^.^|
+2+^.^|
 *Topic 5: Introduction to JavaScript Programming* +
 |
 {set:cellbgcolor:grey}
@@ -87,13 +88,11 @@ Make sure you always bring the correct materials to class - in particular, your 
 {set:cellbgcolor:white}
 6+^.^|
 *Topic 5: Introduction to JavaScript Programming (cont.)* +
-3+^.^|
+4+^.^|
 *Topic 6: Advanced JavaScript Programming* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 4*
-2+^.^| *Camp*
-{set:cellbgcolor:grey}
 3+^.^|
 *Topic 6: Advanced JavaScript Programming (cont.)* +
 ^.^| *Assessment Week*
@@ -101,13 +100,16 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^.^|
 *Finish Advanced Topics* +
 {set:cellbgcolor:white}
+2+^.^| *Camp*
+{set:cellbgcolor:grey}
 ^.^|
-*Prepare for 2022 Courses* +
+*Prepare for 2021 Courses* +
 {set:cellbgcolor:white}
 2+|
 {set:cellbgcolor:grey}
 
 |===
+
 
 === Aims
 
