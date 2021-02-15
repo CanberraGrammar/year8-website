@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: HTML Page Replica*
+.^|*<<s1assign1/index.adoc#, Assignment: HTML Page Coding>>*
 .^|Monday 15 February 2021 (Week 3)
 .^|Thursday 11 March 2021 (Week 6) by 8:45am
 ^.^|30%
