@@ -103,4 +103,4 @@ link:marking-guidelines.pdf[Your assignment will be marked following the criteri
 
 Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
 
-For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
+For more specific examples, see the <<common/academic_honesty.adoc#, Academic Honesty>> section of the Course Outline.
