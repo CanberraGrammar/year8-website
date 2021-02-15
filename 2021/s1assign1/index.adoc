@@ -85,7 +85,7 @@ This assignment is worth 30% of your Semester One assessment for this subject.
 
 To submit your assignment you do not need to do anything, we will view your submission in your ED STEM workspace. However, you *must not* change your workspace after the due date and time. We can see the revision history on your workspace and will be actively checking the last time you modified the workspace.
 
-*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+*Late submissions will incur penalties as per the school assessment policy*
 
 
 === Draft submissions ===
