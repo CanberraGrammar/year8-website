@@ -11,6 +11,8 @@
 
 This assignment was last updated on *Monday 15 February 2021*.
 
+* *UPDATE 17 FEBRUARY 2021*: Made corrections to the page-text file to correctly replicate the screenshot. Please re-fork the assignment template if you haven't already.
+
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
 Also, sometimes errors and bugs make it into the assignments. If you find a problem then please let Mr Choi know!
