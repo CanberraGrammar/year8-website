@@ -90,7 +90,7 @@ To submit your assignment you do not need to do anything, we will view your subm
 
 === Draft submissions ===
 
-You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 11 March 2021). To submit a draft email your teacher and let them know your workspace is ready to be reviewed.
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 4 March 2021). To submit a draft email your teacher and let them know your workspace is ready to be reviewed.
 
 [#_marking_guidelines]
 === Marking Guidelines ===
