@@ -19,7 +19,7 @@ Removed an unnecessary "&t" from the end of the second video's link which caused
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
-Also, sometimes errors and bugs make it into the assignments. If you find a problem then please let Mr Choi know!
+Also, sometimes errors and bugs make it into the assignments. If you find a problem then please let your teacher know!
 
 == Task Context ==
 
