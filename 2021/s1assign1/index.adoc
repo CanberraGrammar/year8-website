@@ -11,7 +11,7 @@
 
 This assignment was last updated on *Monday 15 February 2021*.
 
-* *UPDATED 22 FEBRUARY 2021* Fixed a typo in the second video's alternate text in the page-text file (Spacex Starship High-Altitude Flight Test Video [5])
+* *UPDATED 22 FEBRUARY 2021*: Fixed a typo in the second video's alternate text in the page-text file (Spacex Starship High-Altitude Flight Test Video [5])
 
 Removed an unnecessary "&t" from the end of the second video's link which caused errors when validating the code.
 
