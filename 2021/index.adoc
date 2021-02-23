@@ -19,7 +19,13 @@ michael.zampogna@cgs.act.edu.au
 
 - Need help? Visit the https://edstem.org/courses/5082/discussion/[class forum^] on ED STEM.
 
+- You can also attend any of the IT tutorial sessions listed below.
+
 - <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Wednesday afternoons from 3:30pm - 5:00pm in the ADT Building
 
 ==== Lesson Summaries
 
