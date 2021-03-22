@@ -27,7 +27,7 @@ The focus of this task is to allow students to demonstrate their level of coding
 
 == Task Requirements ==
 
-* This is a 45 minute common test during normal lesson time on Wednesday 5 May 2021 for IT0801 and IT0802, and Wednesday 5 May 2021 for IT0803 and IT0804.
+* This is a 45 minute common test during normal lesson time on Wednesday 5 May 2021 Period 3 for IT0801 and IT0802, and Wednesday 5 May 2021 Period 2 for IT0803 and IT0804.
 * The test will start promptly 5 minutes after the second bell. Students must arrive with sufficient time to login to their computers and ED STEM prior to the commencement of the test, along with open/access any other resources which you would like to use during the test.
 * The test will require students to build and code a webpage to meet certain specifications, using HTML and CSS. The test may draw upon all content which has been covered in the course up to Friday 23 April 2021. Note, we will still be completing activities after this date which cover examinable material, and you should review these activities as part of your revision. However, any new content will not be examined — for clarity, you will be informed whether the material being covered is new and thus non-examinable, or review of existing material which is examinable.
 * The test will require you to replicate a sample web page (see the past tests below for examples).
