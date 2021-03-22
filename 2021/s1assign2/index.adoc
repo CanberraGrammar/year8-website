@@ -1,0 +1,139 @@
+:page-layout: standard_toc
+:page-title: Year 8 IST - Assignment Two
+:icons: font
+
+= Year 8 IST - Assignment Two =
+
+*Weight:* 40% +
+*Due:* Thursday 27 May 2021 (Week 15) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Monday 22 March 2021*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+
+== Task Context ==
+
+This is a team assignment which you need to complete in *pairs* (i.e. two students per team). Please make sure you read the advice on <<_selecting_partner, selecting an appropriate partner for this assignment>>.
+
+For this assignment you are going to apply your newly learned skills in writing HTML and CSS towards teaching other students how to create websites. Each team needs to create a website to teach high school students (with no prior programming or coding experience) how to create web pages using HTML and CSS.
+
+=== Marking guidelines ===
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
+* 5.2.1 describe and apply problem-solving processes when creating solutions
+* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
+* 5.3.2 acquire and manipulate data and information in an ethical manner
+* 5.5.1 applies collaborative work practices to complete tasks
+* 5.5.2 communicate ideas, processes and solutions to a targeted audience
+
+== Task Requirements ==
+
+*The assignment is quite involved so make sure you read this document thoroughly and start early. It may seem like you have a lot of work to complete...and you do, but remember that you have two people working on this task.*
+
+It's up to each team to create their own brand-new custom content for the website - this means no plagiarising, copying, or quoting from the textbook or other resources. Additionally, if you have done a previous project covering similar content then you cannot reuse that material.
+
+You need to determine how to best present and teach this content on their website. This may include photos, graphics, videos (screencasting), or whatever other resources you would like to include. So that everyone is covering the same content, your website needs to cover and be loosely structured around the following topics:
+
+* *Introduction to the World Wide Web (WWW):* Explain how the web works, the role of web servers, web browsers, etc.
+* *Introduction to Hypertext Markup Language (HTML):* What is HTML, the purpose of HTML, the structure of HTML, etc.
+* *Creating your first web page:* Step the student through creating a quick and easy web page which displays "Hello World" or alike. It is important that you also explain to the student how to properly structure the HTML within the web page (e.g. <html>, <head>, <body> tags, etc.).
+* *Common HTML tags:* Go through common HTML tags which can be used in web pages including paragraphs, headings, strong, emphasis, etc.
+* *Images:* How to add images to web pages.
+* *Tables:* How to add tables to web pages (make sure to talk about colspan and rowspan)
+* *XHTML 1.0 Strict Validation:* The importance of validation (why it is done) and how to make web pages valid.
+* *Multi-page websites:* How to make a multi-page website and create links to move between web pages.
+* *File organisation:* How to effectively and neatly organise files (such as pages, images) into folders. You should also cover relative linking (i.e. ../).
+* *Introduction to CSS:* Explain what is CSS and why it's important to separate content from presentation.
+* *Creating your first CSS styles:* Show the different ways of including CSS within a web page (in-line, internal, external) along with some basic CSS to demonstrate how it affects the web page. Note: for all future examples, use an external stylesheet file.
+* *Common CSS styles:* Go through some common CSS styles, such as colours, borders, fonts, etc.
+* *Classes and ids:* Explain why we use classes and ids to assist in styling/targeting specific elements.
+* *Divs and spans:* Explain the purpose of these tags and how they can be used to enclose particular page elements for styling.
+* *Putting it all together:* A final (major) activity which consolidates all the knowledge taught throughout the tutorial series.
+
+The above points are a guide. You should cover at least that material, but you may modify and restructure the order of the lessons if you find a better way to present the material. Remember, you're the teacher here and you know the material well, so you may have a better way to communicate it across to the students who are following your website.
+
+You should also have plenty of exercises for the students to complete (I suggest that you also include solution/sample source code) to reinforce and check their knowledge. That said, you may wish to instead have a tutorial format for some of the lessons where the students follow along with your instructions (similar to the Head First textbook). On the other hand, you may with to have an explanation and then exercises at the end of the lesson. Of course, you can also mix and match the approaches. The choice of how you present the information up to you and will differ between teams, depending on what you think will be the best way to teach your students.
+
+You may assume that all students who are reading your tutorials have access to ED STEM, so your instructions can reference using the ED STEM editor.
+
+=== Use of Javascript, jQuery, HTML5, and other web technologies ===
+
+You may use any front-end web technologies in the construction of your site. Obviously you will be using HTML and CSS, although you can also integrate Javascript, jQuery, HTML5, etc. if you wish - even though we haven't done this in class yet. Like with any big website development project, it's likely that you will want to use pre-written code from other sources. *You may use code from other sources but it must be referenced - this includes using code from online forums, such as Stack Overflow.* All that you need to do is put a comment above the code (or within the code file, for example, if you use a .js file from elsewhere) with the author's name and a link to the source of the code. You will not receive any marks for that code itself (as you didn't write the code) but you could receive marks if you use the code properly to enhance your website. If you wish to take some existing code and modify it then you must also reference the original code, and indicate (through commenting) what you have modified in the file so that we know for marking purposes.
+
+You can also use pre-existing CSS frameworks if you wish (see the Hints and Pro Tips section for more on this aspect).
+
+Just take note, if you do use pre-written code then you still need to do a sufficient amount of modification/customisation, together with writing of original code, to achieve good marks for this task, since you obviously won't be marked on the code that you didn't write. That said, there's no point in reinventing the wheel so if you find code that helps you out then you can use it.
+
+*The only restriction is that you cannot use any server-side code (e.g. PHP). All the code must run on the client-side in the browser.*
+
+You also cannot embed applets (e.g. Java, Flash) into the website - all the work must be in client-side markup (e.g. HTML, HTML5), formatting (e.g. CSS), and/or scripting languages (e.g. JavaScript, jQuery, etc.). The only exception is embedding YouTube videos.
+
+=== Validation ===
+
+For this task your page needs to validate as either XHTML 1.0 Strict or HTML5. This is because, depending on the design of your page, you may wish to integrate HTML5 aspects into the page (additionally, it may not be possible for some of the CSS frameworks to validate as XHTML 1.0 Strict due to their design).
+
+=== Assignment location and naming ===
+
+One person in each team should setup a workspace in ED STEM called *Assignment Two*. This workspace should then be shared with read/write access to the other member of the team, allowing both to work on the single project. Be careful to only share the workspace with members of your own team, and not other students.
+
+The first page of your website should be `index.html` in the root of your workspace file/folder structure.
+
+[#_selecting_partner]
+=== Selecting an appropriate partner ===
+
+When selecting a partner for this assignment you need to ensure that you will be comfortable working with them. This task is worth 40% of your assessment for Semester One, and only one mark will be issued for the task which both team members will receive (there is no individual mark for this task, only a group mark). Therefore, it's expected that both team members will contribute an equal amount to the project. Remember, as a professional software engineer you will almost always be working in a team with others.
+
+Hopefully you will find that by working in a team you create better quality work than if you worked individually. Communication is key, so make sure that you communicate effectively and frequently with your team mate to ensure that there is a consistent understanding of the work which needs to be completed and division of labour.
+
+You may select a partner from a different Year 8 IT class.
+
+In previous years, a few individuals expressed concern about the way their groups worked on Assignment Two - so we thought best to provide clarification in this regard.
+
+It's expected that each group member contributes equally towards the assignment. This is quite straight-forward to gauge, as the group should be working in a shared ED STEM workspace which has a full revision history - making it reasonably easy to see what each group member has contributed. We will *not* be actively checking the revision history for levels of contribution as we assume that each group member has contributed equally and, as such, will receive the same mark.
+
+However, in some cases it was presented that one group member is doing far more work than the other - to the point that the assignment may not be content-compete due to the other member not finishing their half of the assigned work. If you feel like you may be in this situation then please email your teacher explaining the situation in detail. This should only be done if you feel there is a *significant* difference in work contributed - there will always be a slight imbalance in the work allocation, but we need to know if that imbalance is substantial.
+
+Please note, the onus will be on you to show there is an imbalance through walking your teacher through the work you contributed vs. your partner along with the work each group member agreed to do. If it is deemed that there is an imbalance then potentially the group member who did significantly less work will have their mark pro-rated (i.e. reduced) to reflect this.
+
+Also note, if this situation arises it should not be a surprise to your partner. We expect that you will try to work together to resolve the situation, and it would be useful to do this via email so there is a written log of what each group member is expected to do - so if there is a dispute you can show your teacher what you both agreed to do vs. what was actually done. If you cannot show this evidence then it's unlikely we will make any adjustments to marks.
+
+We hope this situation will not arise, but we want to make the marks fair for everyone involved. If you have any questions then please speak with your teacher.
+
+=== Get started ===
+
+Once you have formed into a team contact your teacher via email so we can record your team members. *This must be done by the end of Term 1 (Thursday 1 April 2021).*
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to complete the assignment tasks.
+
+* Make sure that your web site tutorials/lessons flow and follow-on from each other. You don't want each lesson to have completely discrete information otherwise the student will have a very fragmented experience. Think about how the Head First book is structured so that each chapter flows from the previous - you want to achieve the same thing.
+* The content of your web pages is as important as the design of the page. Make sure that you proof-read your content for any typos or things which just don't make sense.
+* You may wish to consider using a CSS framework to help with your overall design - if nothing else, these may provide a good point from which you can then customise your own site. Your current level of HTML and CSS expertise should allow you to understand these frameworks and how they work. One of the most popular frameworks you may wish to look at is Bootstrap: http://getbootstrap.com[http://getbootstrap.com^].
+* Most of the frameworks provide a fairly bare-bones user interface. You need to make sure that you just don't use that, but modify it to be your own and brand it as your own website. If you just stick with the standard template then you won't get particularly good marks for that section of the task!
+* Even if you use a framework then your page must validate as either XHTML 1.0 Strict or HTML5. If the framework does not validate "out-of-the-box" then you will need to make the necessary modifications to ensure that it does validate.
+
+== Submission Instructions ==
+
+This assignment is worth 40% of your Semester One assessment for this subject.
+
+To submit your assignment you do not need to do anything, we will view your submission in your ED STEM workspace. However, you *must not* change your workspace after the due date and time. We can see the revision history on your workspace and will be actively checking the last time you modified the workspace.
+
+*Late submissions will incur penalties as per the school assessment policy:*
+
+[#_marking_guidelines]
+=== Marking Guidelines ===
+
+link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
