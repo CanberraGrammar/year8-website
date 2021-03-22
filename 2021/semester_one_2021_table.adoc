@@ -11,8 +11,8 @@
 .^|Monday 15 February 2021 (Week 3)
 .^|Thursday 11 March 2021 (Week 6) by 8:45am
 ^.^|30%
-
-.^|*Common Test: HTML and CSS Common Test*
+,
+.^|*<<s1commontest/index.adoc#, Common Test: HTML and CSS Common Test>>*
 .^|Wednesday 28 March 2021 (Week 11)
 .^|IT0801/02: Wednesday 5 May 2021 (Week 12), Period 3 +
 IT0803/4: Wednesday 5 May 2021 (Week 12), Period 2
