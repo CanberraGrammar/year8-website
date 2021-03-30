@@ -42,6 +42,18 @@ michael.zampogna@cgs.act.edu.au
 * <<s1activities/activity4/index.adoc#, Activity 4: Tennis Court>>
 * <<s1activities/activity5/index.adoc#, Activity 5: Image Gallery>>
 * <<s1activities/challenge/index.adoc#, Challenge Activities>>
+* http://css.maxdesign.com.au/listutorial/horizontal01.htm[CSS Max Design Horizontal Menu Tutorials 1^]
+* http://css.maxdesign.com.au/floatutorial/tutorial0601.htm[CSS Max Design Horizontal Menu Tutorials 2^]
+* https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/exercises/html-flow[CodeCademy CSS Positioning Exercises]
+
+
+===== Resources (Semester One)
+
+* https://www.w3schools.com/css/[W3 Schools CSS Tutorials^]
+* https://www.w3schools.com/css/css_exercises.asp[W3 Schools CSS Exercises^]
+* https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages[Stack Overflow - Reusing a navigation bar^]
+* https://getbootstrap.com/docs/5.0/getting-started/introduction/[Bootstrap 5 Introduction^]
+* https://bulma.io/documentation/overview/start/[Getting started with Bulma^]
 
 ==== Assessment Schedule (Semester One)
 
