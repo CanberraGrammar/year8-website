@@ -9,7 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Monday 22 March 2021*.
+This assignment was last updated on *Thursday 1 April 2021*.
+
+* *UPDATED 1 April 2021*: Updated Marking Criteria for further clarification and allocation of marks.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
