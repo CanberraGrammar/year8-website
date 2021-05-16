@@ -9,7 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Thursday 1 April 2021*.
+This assignment was last updated on *Monday 17 April 2021*.
+
+* *UPDATED 17 May 2021*: Added a modified version of the Marking Criteria for students working individually.
 
 * *UPDATED 1 April 2021*: Updated Marking Criteria for further clarification and allocation of marks.
 
@@ -134,6 +136,8 @@ To submit your assignment you do not need to do anything, we will view your subm
 === Marking Guidelines ===
 
 link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+link:marking-guidelines-solo.pdf[Here is a modified version of the marking guidelines if you are working on your own.^]
 
 [#_academic_honesty]
 == Academic Honesty
