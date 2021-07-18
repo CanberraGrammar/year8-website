@@ -34,6 +34,14 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0803[IT0803 Google Doc^]
 * http://cgs.ist/0804[IT0804 Google Doc^]
 
+==== Assessment Schedule (Semester Two)
+
+include::semester_two_2021_table.adoc[]
+
+<<semester_two_2021.adoc#, Semester Two &mdash; Full Unit Information and Assessment Schedule>>
+
+== Semester One
+
 ===== Activities (Semester One)
 
 * <<s1activities/activity1/index.adoc#, Activity 1: Shakespeare's Sonnet>>

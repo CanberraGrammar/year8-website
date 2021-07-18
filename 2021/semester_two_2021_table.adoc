@@ -1,0 +1,27 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Common Test: JavaScript*
+.^|Monday 26 July 2021 (Week 2)
+.^|Wednesday 25 August 2021 (Week 6) +
+*Period 1:* IT0803/IT0804 +
+*Period 3:* IT0801/IT0802
+^.^|30%
+,
+.^|*Assignment: JS Game Replica*
+.^|Monday 9 August March 2021 (Week 4)
+.^|Friday 15 October 2021 (Term 4 Week 2) by 8:45am
+^.^|30%
+
+.^|*Assignment: JS Game Development*
+.^|Monday 6 September 2021 (Week 8)
+.^|Thursday 11 November 2021 (Term 4 Week 6) by 8:45am
+^.^|40%
+
+|===
