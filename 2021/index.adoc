@@ -34,6 +34,8 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0803[IT0803 Google Doc^]
 * http://cgs.ist/0804[IT0804 Google Doc^]
 
+== Semester Two
+
 ==== Assessment Schedule (Semester Two)
 
 include::semester_two_2021_table.adoc[]
