@@ -1,18 +1,18 @@
 :page-layout: standard_toc
 :page-title: Unit Outline and Assessment Schedule
 
-= Year 8 IT &mdash; Semester One 2021
+= Year 8 IT &mdash; Semester Two 2021
 
 == Unit Outline and Assessment Schedule
 
 === Report Criteria / Areas of Learning
 
-* Constructing valid and well-structured HTML pages
-* Coding valid and concise CSS files
-* Identifying and implementing appropriate CSS properties
-* Writing CSS code to correctly position elements on web pages
-* Demonstrating a good understanding of user interface and user experience design in the development of web pages
-* Writing well-formed source code files, including whitespace, indentation, and comments
+* Demonstrating an understanding of core programming concepts, particularly variables, data types, and control structures
+* Implementing interactivity on web pages and correctly handling events
+* Understanding appropriate use and implementation of functions
+* Correctly using object-oriented programming practices
+* Writing neat and well-formatted code, with whitespace and indentation as appropriate
+* Including sufficient comments to explain the logic and purpose of the code
 
 === Assessment Schedule
 
@@ -20,10 +20,17 @@ include::semester_two_2021_table.adoc[]
 
 === Course Detail
 
-* Introduction to HTML
-* Introduction to CSS
-* CSS positioning
-* Advanced XHTML and CSS
+* Introduction to JavaScript programing
+** Statements
+** Variables and data types
+** Control structures (conditionals, loops)
+** Designing and writing logic and algorithms
+* Advanced Javascript programming
+** Functions
+** Complex data types (arrays)
+** Objects
+** Events
+** Prototypes
 
 === Grade Descriptors
 
