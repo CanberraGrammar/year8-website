@@ -1,0 +1,22 @@
+pre {
+ 	border: 1px dashed #333;
+	background-color: #ececec;
+	padding: 10px;
+	white-space: pre-wrap;
+}
+
+.center-align {
+	text-align: center;
+}
+
+code {
+	font-size: 12px;
+	font-family: Monaco, "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+	background-color: #EEEEEE;
+	color: #111;
+	line-height: 1.625; 
+}
+
+h3, h4 {
+	border-bottom: 1px dotted gray;
+}

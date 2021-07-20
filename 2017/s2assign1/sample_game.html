@@ -1,0 +1,126 @@
+<html>
+
+	<head>
+	
+		<title>The Memory Game</title>
+		
+	</head>
+	
+	<style type="text/css">
+	
+		/* http://www.dafont.com/pwsmallicons.font */
+		@font-face {
+		  font-family: 'PWSmallIcons';
+		  src: url('pw-small-icons.ttf') format('truetype');
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		
+		body {
+			text-align: center;
+			font-family: sans-serif;
+		}
+				
+		div#game-screen table#game-grid {
+			border-collapse: collapse;
+			margin: 0 auto;
+			font-family: "PWSmallIcons";
+			font-size: 78px;
+			text-align: center;
+			color: #545454;
+		}
+		
+		div#game-screen table#game-grid tr td {
+			width: 90px;
+			height: 90px;
+			border: 2px solid black;
+		}
+		
+		div#game-screen table#game-grid tr td.match {
+			color: #308F00;	
+		}
+		
+		div#game-screen button.restart-button {
+			margin-top: 20px;
+			height: 50px;
+			width: 150px;
+			font-size: 16px;
+		}
+		
+		div#game-screen div#score {
+			margin-top: 20px;
+			font-size: 24px;
+		}
+			
+	</style>
+		
+	<body>
+				
+		<div id="game-screen">
+			
+			<h1>The Memory Game</h1>
+			
+			<table id="game-grid">
+				<tbody>
+					<tr>
+						<td id="cell0" onclick="cellClicked(0)"></td>
+						<td id="cell1" onclick="cellClicked(1)"></td>
+						<td id="cell2" onclick="cellClicked(2)"></td>
+						<td id="cell3" onclick="cellClicked(3)"></td>
+						<td id="cell4" onclick="cellClicked(4)"></td>
+						<td id="cell5" onclick="cellClicked(5)"></td>
+					</tr>
+					<tr>
+						<td id="cell6" onclick="cellClicked(6)"></td>
+						<td id="cell7" onclick="cellClicked(7)"></td>
+						<td id="cell8" onclick="cellClicked(8)"></td>
+						<td id="cell9" onclick="cellClicked(9)"></td>
+						<td id="cell10" onclick="cellClicked(10)"></td>
+						<td id="cell11" onclick="cellClicked(11)"></td>
+					</tr>
+					<tr>
+						<td id="cell12" onclick="cellClicked(12)"></td>
+						<td id="cell13" onclick="cellClicked(13)"></td>
+						<td id="cell14" onclick="cellClicked(14)"></td>
+						<td id="cell15" onclick="cellClicked(15)"></td>
+						<td id="cell16" onclick="cellClicked(16)"></td>
+						<td id="cell17" onclick="cellClicked(17)"></td>
+					</tr>
+					<tr>
+						<td id="cell18" onclick="cellClicked(18)"></td>
+						<td id="cell19" onclick="cellClicked(19)"></td>
+						<td id="cell20" onclick="cellClicked(20)"></td>
+						<td id="cell21" onclick="cellClicked(21)"></td>
+						<td id="cell22" onclick="cellClicked(22)"></td>
+						<td id="cell23" onclick="cellClicked(23)"></td>
+					</tr>
+					<tr>
+						<td id="cell24" onclick="cellClicked(24)"></td>
+						<td id="cell25" onclick="cellClicked(25)"></td>
+						<td id="cell26" onclick="cellClicked(26)"></td>
+						<td id="cell27" onclick="cellClicked(27)"></td>
+						<td id="cell28" onclick="cellClicked(28)"></td>
+						<td id="cell29" onclick="cellClicked(29)"></td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<div id="score">Guesses: 0</div>
+			
+			<button class="restart-button" type="button" onclick="v()">Restart Game</button>
+			
+		</div>
+		
+		<div id="webfont-preload" style="opacity:0">
+			<span style="font-family: PWSmallIcons;"></span>
+		</div>
+		
+		<script>
+		
+			var _0x2d6e=["\x63\x65\x6C\x6C","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x70\x75\x73\x68","","\x73\x70\x6C\x69\x74","\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6A\x6B\x6C\x6D\x6E\x6F\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7A\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4A\x4B\x4C\x4D\x4E\x4F\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5A","\x72\x61\x6E\x64\x6F\x6D","\x6C\x65\x6E\x67\x74\x68","\x66\x6C\x6F\x6F\x72","\x73\x70\x6C\x69\x63\x65","\x6F\x6E\x63\x6C\x69\x63\x6B","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x73\x75\x62\x73\x74\x72\x69\x6E\x67","\x69\x64","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x20\x6D\x61\x74\x63\x68","\x6D\x61\x74\x63\x68","\x73\x63\x6F\x72\x65","\x53\x6F\x6C\x76\x65\x64\x20\x69\x6E\x20","\x20\x67\x75\x65\x73\x73\x65\x73","\x47\x75\x65\x73\x73\x65\x73\x3A\x20","\x47\x75\x65\x73\x73\x65\x73\x3A\x20\x30"];function f(){a= g();for(var _0x70b8x2=0;_0x70b8x2< 30;_0x70b8x2++){b[_0x2d6e[2]](document[_0x2d6e[1]](_0x2d6e[0]+ _0x70b8x2))};h()}function g(){for(var _0x70b8x2=_0x2d6e[5][_0x2d6e[4]](_0x2d6e[3]),_0x70b8x4=[],e=0;e< 15;e++){var c=Math[_0x2d6e[8]](Math[_0x2d6e[6]]()* _0x70b8x2[_0x2d6e[7]]);_0x70b8x4[_0x2d6e[2]](_0x70b8x2[c]),_0x70b8x4[_0x2d6e[2]](_0x70b8x2[c]),_0x70b8x2[_0x2d6e[9]](c,1)};return _0x70b8x4= q(_0x70b8x4)}function cellClicked(_0x70b8x2){var _0x70b8x4=a[_0x70b8x2],_0x70b8x8=document[_0x2d6e[1]](_0x2d6e[0]+ _0x70b8x2);if(_0x70b8x8[_0x2d6e[10]]= null,_0x70b8x8[_0x2d6e[11]]= _0x70b8x4,null== c){c= _0x70b8x8,d= _0x70b8x2}else {_0x70b8x4!= a[c[_0x2d6e[13]][_0x2d6e[12]](4)]?(u(),setTimeout(function(){_0x70b8x8[_0x2d6e[11]]= _0x2d6e[3],c[_0x2d6e[11]]= _0x2d6e[3],c= null,d= null,h()},1e3)):(_0x70b8x8[_0x2d6e[10]]= null,c[_0x2d6e[10]]= null,_0x70b8x8[_0x2d6e[14]]+= _0x2d6e[15],c[_0x2d6e[14]]+= _0x2d6e[16],b[_0x70b8x2]= null,b[d]= null,c= null,d= null),e++;for(var _0x70b8x9=!0,_0x70b8xa=0;_0x70b8xa< b[_0x2d6e[7]];_0x70b8xa++){if(null!= b[_0x70b8xa]){_0x70b8x9=  !1;break}};document[_0x2d6e[1]](_0x2d6e[17])[_0x2d6e[11]]= _0x70b8x9?_0x2d6e[18]+ e+ _0x2d6e[19]:_0x2d6e[20]+ e}}function u(){for(var _0x70b8x2=0;_0x70b8x2< b[_0x2d6e[7]];_0x70b8x2++){null!= b[_0x70b8x2]&& (document[_0x2d6e[1]](b[_0x70b8x2][_0x2d6e[13]])[_0x2d6e[10]]= null)}}function h(){for(var _0x70b8x2=0;_0x70b8x2< b[_0x2d6e[7]];_0x70b8x2++){null!= b[_0x70b8x2]&& (b[_0x70b8x2][_0x2d6e[10]]= function(_0x70b8x2){return function(){cellClicked(_0x70b8x2)}}(_0x70b8x2))}}function v(){a= null,b= [],c= null,d= null,e= 0;for(var _0x70b8x2=0;_0x70b8x2< 30;_0x70b8x2++){var _0x70b8x4=document[_0x2d6e[1]](_0x2d6e[0]+ _0x70b8x2);_0x70b8x4[_0x2d6e[11]]= _0x2d6e[3],_0x70b8x4[_0x2d6e[14]]= _0x2d6e[3]};document[_0x2d6e[1]](_0x2d6e[17])[_0x2d6e[11]]= _0x2d6e[21],f()}function q(_0x70b8x2){for(var _0x70b8x4,e,c=_0x70b8x2[_0x2d6e[7]];0!== c;){e= Math[_0x2d6e[8]](Math[_0x2d6e[6]]()* c),_0x70b8x4= _0x70b8x2[c-= 1],_0x70b8x2[c]= _0x70b8x2[e],_0x70b8x2[e]= _0x70b8x4};return _0x70b8x2}var a,b=[],c=null,d=null,e=0;f()
+							
+		</script>
+
+	</body>
+
+</html>

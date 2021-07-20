@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Quik Clikr</title>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+		<style>
+
+			body {
+				margin: 30px;
+				padding-bottom: 60px;
+				text-align: center;
+				background-color: #eee;
+				font-family: 'Montserrat', sans-serif;
+			}
+
+			h1 {
+				font-size: 60px;
+			}
+
+			h2 {
+				margin: 0px;
+				padding: 0px;
+			}
+
+			.btn {
+				background-color: white;
+				border: none;
+				border-radius: 20px;
+				padding: 20px 30px;
+				font-size: 18px;
+				display: inline-block;
+				font-weight: bold;
+				color: black;
+				margin: 30px;
+				cursor: pointer;
+				box-shadow: 0px 5px 0 #9e9e9e, 0 5px 3px rgba(0, 0, 0, .5);
+				transition: box-shadow .1s, transform .1s;
+			}
+
+			.btn:active {
+				transform: translateY(3px);
+				box-shadow: 0px 2px 0 #9e9e9e, 0 5px 3px rgba(0, 0, 0, .2);
+			}
+
+			.record-area {
+				background-color: white;
+				position: fixed;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				padding: 0px;
+			}
+
+			.red {
+				color: #b11414;
+			}
+
+			.hidden {
+				pointer-events: none;
+				transform: translateY(100px);
+				opacity: 0;
+			}
+
+			#intro {
+				font-size: 18px;
+				max-width: 650px;
+				margin: -230px auto 0;
+				transition: transform .1s, opacity, .1s;
+			}
+
+			#click-area {
+				position: relative;
+				width: 200px;
+				height: 200px;
+				border-radius: 300px;
+				background-color: #ddd;
+				margin: 50px auto 30px;
+				cursor: pointer;
+				box-shadow: 0px 20px 0 #9e9e9e, 0 20px 30px rgba(0, 0, 0, .5);
+				transition: box-shadow .1s, transform .1s, opacity, .1s;
+			}
+
+			#click-area:active {
+				transform: translateY(15px);
+				box-shadow: 0px 5px 0 #9e9e9e, 0 5px 30px rgba(0, 0, 0, .5);
+			}
+
+			#score {
+				display: none;
+			}
+
+		</style>
+	</head>
+	
+	<body>
+  
+		<!-- Page title -->
+  		<h1 class="red">Quik Clikr</h1>
+
+  		<!-- Main game button - Initially hidden -->
+  		<div id="click-area" class="hidden" onclick="buttonClick()"></div>
+
+  		<!-- Intro div - Shown when game is not in progress -->
+  		<div id="intro">
+    		<h2 id="score">Score: <span id="last-attempt">--</span></h2>
+    		<p>
+      			Welcome to <strong>Quik Clikr</strong>! A game which tests your mental ability, your physical agility and your reaction times (mainly this one).
+    		</p>
+    		<p>
+      			To play, hit the button below and slap the button as soon as it goes <span class="red">red</span>. If you press it early, you instantly lose so don't rush!
+    		</p>
+    		<div class="btn" onclick="startGame()">Start Game</div>
+  		</div>
+
+  		<!-- Bar at the bottom of the page to show record -->
+ 		<div class="record-area">
+    		<p><strong>Record:</strong> <span id="record">--</span></p>
+  		</div>
+
+  		<!-- Javascript to control game behaviour -->
+  		<script>
+
+			// ----------------
+			// GLOBAL VARIABLES
+			// ----------------
+
+			var clickElement = document.getElementById("click-area"); // Main button user clicks when playing
+			var introElement = document.getElementById("intro"); // Intro paragraph div
+			var gameInProgress = false; // Variable to track game state
+			var timer; // Variable to store timer
+			var startTime; // Store the time the button was made active (to compare with the time the button was pressed)
+			var defaultColor = "#dddddd"; // Inactive button color
+			var activeColor = "#b11414" // Active button color
+			var recordTime; // Store the player's record
+
+			// ----------------
+			// START GAME BUTTON BEHAVIOUR
+			// ----------------
+
+			function startGame() {
+				gameInProgress = true; // Set the game as "in progress"
+				introElement.classList.add("hidden"); // Hide #intro div
+				clickElement.classList.remove("hidden"); // Show the #click-area div
+
+				var randomTime = getRandomNumberBetween(1500, 4000); // Generate random time to activate the button in ms
+				startTime = (new Date).getTime() + randomTime; // Set button activation time in EPOCH ms
+
+				// Set the button to become active after the generated delay
+				timer = setTimeout(function() {
+					clickElement.style.backgroundColor = activeColor;
+				}, randomTime);
+			}
+
+			// ----------------
+			// BUTTON CLICK BEHAVIOUR
+			// ----------------
+
+			function buttonClick() {
+
+				// Your code goes here...
+
+				/*
+					- If game is not in progress, exit this function.
+					- Show #intro div (see code in startGame() function to do this)
+					- Hide #click-area div
+					- Clear the timer which started running in startGame()
+					- Call either the win(milliseconds) or lose() function here
+					- Lose if they clicked too early, win if they clicked correctly
+				*/
+				
+			}
+
+			// ----------------
+			// LOSE FUNCTION - If the player clicks the button too early!
+			// ----------------
+
+			function lose() {
+
+				// Your code goes here...
+
+				/*
+					- Show alert and hide #score div
+				*/
+				
+			}
+
+			// ----------------
+			// WIN FUNCTION - If the player clicks the button correctly.
+			// ----------------
+
+			function win(milliseconds) {
+
+				// Your code goes here...
+
+				/*
+					- If record, show in the bottom bar
+					- Show #score div and update contents to show how many ms passed
+			  	*/
+			}
+
+			// ----------------
+			// RANDOM NUMBER GENERATING FUNCTION - A handy function to generate a random number between 2 specified numbers.
+			// From: http://stackoverflow.com/a/7228322
+			// ----------------
+
+			function getRandomNumberBetween(min,max) {
+				
+				return Math.floor(Math.random()*(max-min+1)+min);
+				
+			}
+			
+  		</script>
+	</body>
+</html>

@@ -1,0 +1,81 @@
+body {
+	font-family: Lucida Grande, Helvetica Neue, sans-serif;
+	font-size: 13px;
+	line-height: 1.7em;
+}
+
+#content {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.section {
+	border-bottom: 1px solid #333;
+}
+
+.heading {
+	text-align: center;
+}
+
+.center-align {
+	text-align: center;
+}
+
+.line-through {
+	text-decoration: line-through;
+}
+
+.red-text {
+	color: red;
+}
+
+.course-outline li {
+	margin-top: 8px;
+}
+
+table.assessment-tasks {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+table.assessment-tasks td, table.assessment-tasks th {
+	border: 1px solid #333;
+	padding: 8px;
+}
+
+table.assessment-tasks tr td {
+	height: 50px;
+}
+
+table.assessment-tasks .weight {
+	text-align: center;
+}
+
+.course-structure table {
+	width: 100%;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.course-structure table td {
+	width: 102px;
+	height: 100px;
+	border: 1px solid #333;
+	padding: 5px;
+}
+
+.course-structure table td.term {
+	font-weight: bold;
+	border: none;
+	border-right: 1px solid #333;
+}
+
+.course-structure table td.unavailable {
+	background-color: gray;
+}
+
+.course-structure table td span.outcomes {
+	font-size: 10px;
+}
