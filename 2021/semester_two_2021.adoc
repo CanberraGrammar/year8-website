@@ -8,8 +8,8 @@
 === Report Criteria / Areas of Learning
 
 * Demonstrating an understanding of core programming concepts, particularly variables, data types, and control structures
+* Understanding appropriate use and implementation of functions and data structures
 * Implementing interactivity on web pages and correctly handling events
-* Understanding appropriate use and implementation of functions
 * Correctly using object-oriented programming practices
 * Writing neat and well-formatted code, with whitespace and indentation as appropriate
 * Including sufficient comments to explain the logic and purpose of the code
