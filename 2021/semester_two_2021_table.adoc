@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Common Test: JavaScript*
+.^|*<<s2commontest/index.adoc#, Common Test: JavaScript>>*
 .^|Monday 26 July 2021 (Week 2)
 .^|Wednesday 25 August 2021 (Week 6) +
 *Period 1:* IT0803/IT0804 +
