@@ -1,0 +1,122 @@
+:page-layout: standard_toc
+:page-title: Year 8 IST - Assignment One
+:icons: font
+
+= Year 8 IST - Assignment One (Semester Two) =
+
+*Weight:* 30% +
+*Due:* Friday 15 October 2021 (Term 4 Week 2) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Wednesday 12 August 2020*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context ==
+
+In this assignment you are going to create a game of Guess the Number, where the computer randomly generates a number and you need to try and guess that number.
+
+=== Marking guidelines ===
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
+* 5.2.1 describe and apply problem-solving processes when creating solutions
+* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
+* 5.3.2 acquire and manipulate data and information in an ethical manner
+* 5.5.2 communicate ideas, processes and solutions to a targeted audience
+
+== Task Requirements ==
+
+You will find in ED STEM a basic template which you can use for this assignment called *Assignment 1 (Semester 2) Template*. This contains the HTML and CSS which you need for the game - so you do not need to do any front-end development. Your job is writing the JavaScript code to make the game function.
+
+A video is provided below showing you the gameplay which you need to replicate:
+
+video::GuessTheNumberDemo.mp4[width=882]
+
+Additionally, we have a few pro tips to share which might not be immediately evident from the video:
+
+* The game generates a random number to guess between 1 &mdash; 10 (inclusive). A new number is generated each time the player starts a new game by clicking "Start the Game".
+
+* You can assume that the player will only enter numbers or nothing at all (i.e. blank). You do not need to deal with the situation where the player enters letters, symbols, etc.
+
+* The pop-ups that appear allowing the player to enter a guess are `prompt` functions. The pop-ups which display a message are `alert` functions.
+
+* If the player clicks the "Cancel" button in one of the `prompt` functions then that round of the game immediately ends &mdash; similar to what happens if the player wins a game. The user can then click the "Start the Game" button to start a new game if they wish.
++
+*Pro Tip:* If you click "Cancel" on a prompt then the value returned from the prompt is `null`. You may find this information useful when you need to check whether the Cancel button has been clicked (which you can tell, because the prompt returns `null` rather than a number or a blank string).
+
+* Note that the guess count only increments if the guess is incorrect. If the player doesn't put anything into the prompt, and the game says "Please enter a number", then that does not increment the guess count.
+
+* Note that if the player wins on their first guess, the message says that they won in "1 guess" whereas if they take more than one guess the message says they won in "X guess**es**".
+
+* Make sure that you comment your JavaScript source code and also name your variables appropriately/meaningfully.
+
++
+*Your HTML must validate as HTML5 and your CSS must also validate!*
+
+=== Enhancements (10 marks) ===
+
+There are five enhancement tasks which you can attempt to get full marks.
+
+1. Apply some nice CSS styling to the web page, as it's a bit bland at the moment. Use your creativity. However, the existing elements on the page (i.e. heading and button) must remain present and, in the case of the button, interactive like the standard page (i.e. you click the button and the game round starts) &mdash; although you are welcome to style them up.
++
+*Your HTML must validate as HTML5 and your CSS must also validate!*
+
+2. Implement input validation for the player's guess. Specifically, if the user does not enter a number which is between 1 &mdash; 10 then the "Please enter a number" message should appear.
+
+3. Include a drop-down control on the main web page allowing the player to select a difficulty level for the game. Depending on the level selected, a different range should be used for the random number generation.
++
+*Beginner* should generate a random number between 1 &mdash; 10, *Intermediate* should generate a random number between 1 &mdash; 50, and *Hard* should generate a random number between 1 &mdash; 100.
++
+_**Note:** If you implemented the input validation enhancement task (above) you will need to update that to cope with the different potential number ranges depending on the level selected._
++
+4. Do not allow the player to guess the same number twice. You need to keep track of what the player has previously guessed, and if they try to guess that number again then show a message saying "You have guessed this number before. Please try a different number."
+
+5. Include text inputs, outputs and buttons that the user can interact with to make guesses and view messages. These should be used instead of prompt and alert boxes.
+
+You can attempt any (or all) of the above enhancement tasks in any order (you do not need to complete the first task to complete the second, etc. &mdash; each task is designed to be standalone).
+
+
+== Submission Instructions ==
+
+This assignment is worth 30% of your Semester Two assessment for this subject.
+
+You must place the following declaration (in the form of a comment) at the top of your JavaScript file:
+
+....
+/*
+// I am committed to being a person of integrity.
+// This project is submitted as part of the assessment for Year 8 IST.
+// This is all my own work. I have referenced any work used from other
+// sources and have not plagiarised the work of others.
+// (signed) Your Name
+*/
+....
+
+Make sure you understand the implications of this declaration which you are including and digitally signing (see the <<_academic_honesty, Academic Honesty>> section of this document for more information).
+
+*If you do not include the student declaration at the top of your JavaScript file your assignment will not be marked and you will receive zero.*
+
+To submit your assignment you do not need to do anything, we will view your submission in your ED STEM workspace. However, you *must not* change your workspace after the due date and time. We can see the revision history on your workspace and will be actively checking the last time you modified the workspace.
+
+*Late submissions will incur penalties as per the school assessment policy:* Students will lose 10% of the total value of the assessment per day late, or part thereof. *Be aware, if you do not submit your assignment by 8:45am on Thursday 3 September 2020 that is counted as a day late and will attract the 10% penalty.* Weekends equate to 2 days. On the second day of non submission parents will be informed. A student may be directed to study support to complete an overdue assessment task. After 4 days, a student who has not submitted an assessment task will receive an academic detention. Work completed during academic detention or submitted more than 4 days late will have 50% of the total value of the assessment deducted from the student's score. If the work remains incomplete despite the academic detention, the student will receive zero marks for the task.
+
+=== Draft submissions ===
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 6 September 2018). To submit a draft email your teacher and let them know your workspace is ready to be reviewed.
+
+[#_marking_guidelines]
+=== Marking Guidelines ===
+
+link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+*Note:* These marking guidelines are subject to change/update &mdash; particularly if something is brought to our attention we didn't consider when writing the assignment. Any such updates will be highlighted in the changelog.
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
