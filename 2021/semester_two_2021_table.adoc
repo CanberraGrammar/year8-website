@@ -14,8 +14,8 @@
 *Period 3:* IT0801/IT0802
 ^.^|30%
 ,
-.^|*Assignment: JS Game Replica*
-.^|Monday 9 August March 2021 (Week 4)
+.^|*<<s2assign1/index.adoc#, Assignment: JS Game Replica>>*
+.^|Monday 23 August 2021 (Week 6)
 .^|Friday 15 October 2021 (Term 4 Week 2) by 8:45am
 ^.^|30%
 
