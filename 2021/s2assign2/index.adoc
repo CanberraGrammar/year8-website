@@ -1,0 +1,110 @@
+:page-layout: standard_toc
+:page-title: Year 8 IST - Assignment Tw0
+:icons: font
+
+= Year 8 IST - Assignment Two =
+
+*Weight:* 40%
+
+*Game Design:* Thursday 11 November 2021 (Term 4 Week 6) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Wednesday 7 September 2021*.
+
+== Task Overview ==
+
+This assignment requires you to *implement* a game of your choosing (with some restrictions/guidelines) in JavaScript.
+
+== Task Description ==
+
+You are strongly encouraged to devise and design your own unique game. This can be inspired by existing well-known games, but the goal is to demonstrate your ability to adapt your JavaScript code to your own specific needs and requirements.
+
+NOTE: The major focus of this task is not the final product (i.e the game itself). We are more concerned with how much you learn and progress as you tackle the challenge of a substantial programming project. Therefore, a high quality game that doesn't demonstrate a deep understanding of the code may not score highly. Conversely, a questionable game, with a very deep understanding along with a range of well executed programming techniques may score very highly.
+
+To demonstrate a complete understanding of your own JavaScript code, we recommend steering clear of using third-party frameworks or libraries. We also recommend you complete the project as independently as possible, which means generally avoiding resources such as YouTube tutorials. These are often problematic as they can often be outdated, overly complex, difficult to troubleshoot and/or rely on an understanding of advanced programming techniques beyond the scope of this course.
+
+=== Minimum Requirements ===
+
+There are certain minimum requirements which the game must satisfy:
+
+* Be able to display, update and track the player's numerical score.
+* Implementation of a clear and challenging game mechanic that enables the player to improve their numerical score.
+* Be able to handle any invalid inputs or potential flaws that cause the game mechanic to function incorrectly. For example, in the guessing game, you should not be able to guess if a value hasn't been entered or if the number is less than 0.
+* Well-formed and valid HTML and CSS code. This does not have to be fully validated, but it should be free from  glaring errors such as tags that haven't been closed and elements located incorrectly within the head tag.
+* The game functions correctly without any major errors and delivers professional presentation of text, images and sounds.
+
+=== Code Structure & Game logic ===
+
+Due to the open ended nature of this task, we have simply included a requirement to demonstrate effective and appropriate use of code in the following areas:
+
+* *Data structures* to implement game logic and store the current game state. For example, global vs local variables, different types of variables such as booleans, and more advanced data structures such as arrays and objects.
+* *Control structures* to implement game logic, particularly if statements, switch statements and/or loops (preferably, for loops where possible).
+* *Functions* including parameters and arguments as required to minimise repetition of code and to properly organise code.
+* *Document Object Model (DOM) elements and methods* that enable the user to interact with the HTML in order to achieve the game mechanic. For example, using onclick, getElementById, innerHTML and/or editing attributes such as style as required.
+* *JavaScript built-in functions and/or properties* such as Maths.random(), Maths.floor(), parseInt(), indexOf(), push() and retrieving the length of an array.
+
+=== Code Comments, Formatting and Naming ===
+
+It is *essential to include sufficient code comments* which explain the purpose of the code and helps you to demonstrate your level of skill and understanding of the code.
+
+You should also ensure you have properly *formatted your code*, including appropriate use of indentation, whitespace, semicolons and brackets.
+
+Finally, you should ensure all functions, variables and objects are *appropriately named*.
+
+=== Overall Programming Quality ===
+
+The main criteria for marking your assignment will be how well you are able to demonstrate your *level of skill and understanding of how to code using JavaScript*.
+
+This will be assessed in two key areas:
+
+* The functionality and range of features in your game
+* Code comments!
+
+=== Game ideas and suggestions ===
+
+
+
+
+=== Originality of your submitted code ===
+
+This is an individual project. You are welcome to collaborate and help each other, but all work must be your own. If any of your work is copied (either from another member of the class, or from a third party such as a book or the Internet) then make sure you reference the source of the material, otherwise it will be considered plagiarism and you will receive zero.
+
+Most games you can think of will already have been developed in JavaScript with solutions available online. *You must write your own design of the game, and all work must be your own* (with the exception of little bits and pieces which you may use from elsewhere, if needed, with references - but these must only be relatively very small and non-important parts of your total assignment, as you won't receive marks for code you didn't write yourself). *We will be actively checking the originality of your submitted code.*
+
+
+== Submission Instructions ==
+
+This assignment is worth 40% of your Semester Two assessment for this subject.
+
+You must place the following declaration (in the form of a comment) at the top of your JavaScript file:
+
+....
+/*
+// I am committed to being a person of integrity.
+// This project is submitted as part of the assessment for Year 8 IST.
+// This is all my own work. I have referenced any work used from other
+// sources and have not plagiarised the work of others.
+// (signed) Your Name
+*/
+....
+
+Your assignment must be contained within an ED STEM workspace named Assignment 2 and the first file of the project must be named `index.html` (you can have additional files, if needed, or just this single file).
+
+To submit your assignment you do not need to do anything, we will view your submission in your ED workspace. However, you *must not* change your workspace after the due date and time. We can see the revision history on your workspace and will be actively checking the last time you modified the workspace.
+
+*Late submissions will incur penalties as per the school assessment policy:*
+
+=== Draft Submissions ===
+
+Given the custom nature of this project we will not have formal draft submissions. However, you are encouraged to ask your teacher to review your assignment during the allocated project lessons for feedback. You are also welcome to get feedback during the after school or lunchtime IT tutorial sessions.
+
+[#_marking_guidelines]
+== Marking Guidelines ==
+
+link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
