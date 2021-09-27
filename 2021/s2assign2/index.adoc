@@ -63,8 +63,20 @@ This will be assessed in two key areas:
 
 === Game ideas and suggestions ===
 
+In general, we recommend you create games that have relatively simple interactions with HTML DOM elements. This should be similar in style to the examples we have covered in class, Cookie Clicker and Battleship. These games involve text inputs, buttons and grids.
 
+Creating arcade style games with sprites, players, enemies and obstacles is best with a game engine such as Unity, which you will learn in Year 9.
 
+The idea is to have a game that is not overly complex, but can be enhanced in creative ways to make it as complex as you like.
+
+Some suggestions include:
+
+* Hangman
+* Tic Tac Toe
+* Connect 4
+* Snakes and ladders
+* Sudoku
+* 2048
 
 === Originality of your submitted code ===
 

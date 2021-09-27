@@ -19,8 +19,8 @@
 .^|Friday 15 October 2021 (Term 4 Week 2) by 8:45am
 ^.^|30%
 
-.^|*Assignment: JS Game Development*
-.^|Monday 6 September 2021 (Week 8)
+.^|*<<s2assign2/index.adoc#, Assignment: JS Game Development>>*
+.^|Monday 4 October 2021 (Term 4 Week 1)
 .^|Thursday 11 November 2021 (Term 4 Week 6) by 8:45am
 ^.^|40%
 
