@@ -16,6 +16,10 @@ This assignment was last updated on *Wednesday 7 September 2021*.
 
 This assignment requires you to *implement* a game of your choosing (with some restrictions/guidelines) in JavaScript.
 
+You have the choice to work either *individually OR in pairs* for this assignment, although we *highly recommend working individually*.
+
+NOTE: If you work in pairs, the expectation for overall programming quality will be much higher, and marking significantly harsher. There will also be no individual mark for this task, and it is expected that each group member contributes equally towards the assignment.
+
 == Task Description ==
 
 You are strongly encouraged to devise and design your own unique game. This can be inspired by existing well-known games, but the goal is to demonstrate your ability to adapt your JavaScript code to your own specific needs and requirements.
