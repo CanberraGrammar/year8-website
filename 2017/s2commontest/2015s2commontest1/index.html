@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>Semester Two Test - Year 9 Information and Software Technology</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="http://www.cgscomputing.com/common/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.cgscomputing.com/common/css/activity.css" />
+	
+	<style type="text/css">	
+	
+		ul li {
+			margin-top: 15px;
+		}
+		
+		ul li ul {
+			margin-bottom: 15px;
+		}
+		
+		.red {
+			color: red;
+		}
+		
+		.image-container {
+			text-align: center;
+		}
+		
+		.image-container img {
+			margin-top: 10px;
+		}
+	
+	</style>
+	
+</head>
+
+<body>
+
+	<div id="content">
+	
+		<div class="section heading">
+		
+			<h1>Year 9 Information and Software Technology 2015</h1>
+			<h2 class="red-text">Semester Two Test</h2>
+			
+		</div>
+						
+		<div class="section description">
+				
+			<h2>Task Description</h2>
+			
+			<p>You have been employed by a major US cable television network to produce the online game for a brand new blockbuster TV show which will premiering this summer &mdash; <strong>Extreme Rock Paper Scissors!</strong> This show is from the same producers who brought you hit shows such as Oh Sit! so you know that it will most definitely be a phenomenally popular production.</p>
+			
+			<div class="image-container">
+				<img src="oh-sit.png" alt="Oh Sit!" /><br />
+				<img src="review.png" alt="Review" />
+			</div>
+			
+			<p>Unfortunately, the software engineer in charge of the project decided to cash-out his portion of the $20 million budget for this project and fled to Mexico, leaving you to finish the project. The boss needs the game complete before the show premieres next week, so it's up to you! No pressure...</p>
+			
+			<p>Before the engineer boarded his flight to Guadalajara he uploaded the partially complete game to your web space.</p>
+			
+			<p><strong>You can find the <a href="template/rps_template.html">the template here</a>.</strong></p>
+			
+			<p>The engineer also advised that you <strong>DO NOT</strong> need to comment your code (as we need this done quickly). However, you must use appropriate variable names and indent your code correctly.</p>
+		
+		</div>
+		
+		<div class="section task">
+		
+			<h2>Your Task</h2>
+			 
+			<p>There are four tasks you need to complete to get this program into a fully working state.</p>
+			 
+			<ul>
+				 
+				 <li><strong>Implement the <code>basicComputerPlayer()</code> function <span class="red">(5 marks)</span>.</strong> This function is the computer-based player, but it's not really that smart &mdash; it just picks rock, paper, or scissors at random. You need to implement the function such that it generates a random number from <code>0</code>, <code>1</code>, or <code>2</code> (corresponding to rock, paper, or scissors), displays the graphic for what the computer's chose (by calling the provided <code>displayComputerPlayerSymbol</code> function with the relevant parameter (you will need to read and understand that method to find out what's required), and then returns the random number.</li>
+				 	
+				 <li><strong>Finish the <code>checkWinner(humanChoice, computerChoice)</code> function <span class="red">(10 marks)</span>.</strong> As you can tell, this function takes two parameters &mdash; <code>humanChoice</code> and <code>computerChoice</code> corresponding to the gesture (0, 1, or 2 being rock, paper, or scissors) which the human and computer selected for a round of the game. It then returns either <code>"Human"</code>, <code>"Computer"</code>, or <code>"Tie"</code> depending on the outcome of who won. You need to finish this function so it can determine who has won, given the gesture which the human selected and computer selected (e.g. if the human selected <code>0</code> for rock, and the computer selected <code>1</code> for paper, then the result would be <code>"Computer"</code> as the computer won &mdash; since paper beats rock).<br /><br />** Once you finish this part the game should be in a playable and working state **</li>
+				 	
+				 <li><strong>Finish the <code>updateScores(winner)</code> function <span class="red">(8 marks)</span>.</strong> There are HTML elements to display the score, and global variables in the JavaScript to keep track of the score, but it does not work yet. Write the necessary code in the <code>updateScores</code> function to update the scores, depending on the outcome of each round, and then also update the user interface with the new scores.</li>
+				 
+				 <li><strong>Implement the <code>advancedComputerPlayer()</code> function <span class="red">(12 marks)</span>.</strong> A game theory strategy to maximise your changes of winning at this game is called win-stay, lose-switch. This means if on the previous round you won, then you should play the same strategy in the next round (e.g. if you won with rock on the last round then you should play rock again on the next round). However, if you lost then you should switch to a different strategy on the next round (e.g. if you lost with rock on the last round then you should switch to either paper or scissors on the next round).<br /><br />Implement a new computer player algorithm called <code>advancedComputerPlayer()</code> which adopts a win-stay, lose-switch strategy towards how it plays the game.<br /><br />In the event that it does a lose-switch, you can just randomly select one of the two available options (e.g. if rock lost on the previous round, play either paper or scissors on the next round &mdash; just randomly choose one or the other, there's no rule about which one should be selected).<br /><br />If you attempt this you can comment out the <code>basicComputerPlayer</code> call in the <code>humanPlayer</code> function and instead call the <code>advancedComputerPlayer</code> function.<br /><br />Note, for this question you are permitted to add global variables in the denoted section at the top of the JavaScript if needed.</li>
+				 </li>
+				 
+			</ul>
+								
+		</div>
+		
+	</div>
+	
+</body>
+</html>

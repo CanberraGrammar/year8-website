@@ -1,0 +1,363 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>EXTREME ROCK PAPER SCISSORS</title>
+
+	<style type="text/css">
+	
+		body {
+			background-color: #dddddd;
+			font-family: sans-serif;
+		}
+		
+		#logo-container {
+			width: 898px;
+			margin: 0 auto;
+		}
+		
+		#game-container {
+			width: 1024px;
+			margin: 0 auto;
+			background-color: red;
+			margin-top: 40px;
+		}
+		
+		#human-player, #computer-player {
+			width: 511px;	
+			background-color: orange;
+			float: left;
+			text-align: center;
+			height: 500px;
+			position: relative;
+		}
+		
+		#computer-player {
+			background-color: yellow;
+			border-left: 1px solid #333;
+		}
+		
+		.hand img {
+			width: 50%;
+			height: 50%;
+		}
+		
+		#human-player-options button {
+			width: 100px;
+			height: 40px;
+			font-size: 18px;
+		}
+		
+		.score {
+			position: absolute;
+			bottom: 20px;
+			width: 100%;
+			text-align: center;
+		}
+		
+		#result-container button#resetButton {
+			width: 140px;
+			height: 40px;
+			font-size: 18px;
+			display: none;
+		}
+		
+		#result-container {
+			clear: both;
+			font-size: 24px;
+			font-weight: strong;
+			text-align: center;
+			padding-top: 10px;
+		}
+		
+		#image-precache {
+			display: none;
+		}
+	
+	</style>
+	
+	<script>
+		
+		// ----------------
+		// GLOBAL VARIABLES
+		// ----------------
+		
+		// Scores
+		var humanScore = 0;
+		var computerScore = 0;
+				
+		
+		// ------------------------------------------------------
+		// Handles the selection of a gesture by the human player
+		// ------------------------------------------------------
+		
+		function humanPlayer(humanPlayerChoice) {
+			
+			// Get a reference to the human player hand image tag
+			var humanPlayerHand = document.getElementById("human-player-hand");
+			
+			// Update with the chosen gesture
+			// 0 = rock ; 1 = paper ; 2 = scissors
+			
+			// Rock
+			if (humanPlayerChoice == 0) {
+				humanPlayerHand.src = "images/rock.png";
+			}
+			
+			// Paper
+			else if (humanPlayerChoice == 1) {
+				humanPlayerHand.src = "images/paper.png";
+			}
+			
+			// Scissors
+			else if (humanPlayerChoice == 2) {
+				humanPlayerHand.src = "images/scissors.png";
+			}
+			
+			// Hide the player options
+			var humanPlayerOptions = document.getElementById("human-player-options");
+			humanPlayerOptions.style.display = "none";
+			
+			// Call the (basic) computer player
+			var computerPlayerChoice = basicComputerPlayer();
+			
+			// Call the (advanced) computer player
+			// var computerPlayerChoice = advancedComputerPlayer(); 
+			
+			// Check for the winner
+			var winner = checkWinner(humanPlayerChoice, computerPlayerChoice);
+			
+			// Update scores - pass in the winner ("Human" or "Computer")
+			updateScores(winner);
+						
+			// Update the user interface with the winner
+			updateUIWithWinner(winner)
+						
+		}
+		
+		
+		// -------------------------
+		// The basic computer player
+		// -------------------------
+		
+		function basicComputerPlayer() {
+		
+			// Your code goes here...
+			
+		}
+		
+		
+		// ------------------------
+		// Advanced computer player
+		// ------------------------
+		
+		function advancedComputerPlayer() {
+		
+			// Your code goes here...
+			
+			// ...but you will likely also need to modify other parts of the code too.
+		
+		}
+		
+		
+		// -----------------------------------------
+		// Display the computer player's hand symbol
+		// -----------------------------------------
+		
+		function displayComputerPlayerSymbol(symbol) {
+		
+			// Get a reference to the computer player hand image tag
+			var computerPlayerHand = document.getElementById("computer-player-hand");
+			
+			// Rock
+			if (symbol == 0) {
+				computerPlayerHand.src = "images/rock.png";
+			}
+			
+			// Paper
+			else if (symbol == 1) {
+				computerPlayerHand.src = "images/paper.png";
+			}
+			
+			// Scissors
+			else if (symbol == 2) {
+				computerPlayerHand.src = "images/scissors.png";
+			}
+		
+		}
+		
+		
+		// -----------------------
+		// Check who is the winner
+		// -----------------------
+		
+		function checkWinner(humanChoice, computerChoice) {
+		
+			// -----------------------------------
+			// Inputs into function:
+			// 0 = rock ; 1 = paper ; 2 = scissors
+			//
+			// Function needs to return either:
+			// "Tie"
+			// "Human"
+			// "Computer"
+			// depending on who has won the round
+			// -----------------------------------
+			
+			// Here's something to get you started...
+			
+			// Check if it's a draw
+			if (humanChoice == computerChoice) {			
+				return "Tie";			
+			}
+						
+						
+			// Your code goes here...
+			
+			
+		}
+		
+		
+		// ----------------------------------------------------------
+		// Updates the scores and displays them on the user interface
+		// ----------------------------------------------------------
+		
+		function updateScores(winner) {
+		
+			// Your code goes here...
+					
+		}
+		
+		
+		// ----------------------------------------------------------------------------
+		// Update the user interface to show the winner, and allow the game to be reset
+		// ----------------------------------------------------------------------------
+		
+		function updateUIWithWinner(winner) {
+		
+			// Get a reference to the result text
+			var resultContainer = document.getElementById("result-text");
+		
+			if (winner == "Human") {
+				resultContainer.innerHTML = "You Win!";
+			}
+			
+			else if (winner == "Computer") {
+				resultContainer.innerHTML = "Computer Wins!";
+			}
+			
+			else if (winner == "Tie") {
+				resultContainer.innerHTML = "Tie!";
+			}
+			
+			// Show the reset button
+			var resetButton = document.getElementById("resetButton");
+			resetButton.style.display = "inline";
+		
+		}
+		
+		
+		// -------------------------------------------------------------
+		// Called when the Play Again button is tapped to reset the game
+		// -------------------------------------------------------------
+		
+		function resetGame() {
+			
+			// Reset the human player image
+			var humanPlayerHand = document.getElementById("human-player-hand");
+			humanPlayerHand.src = "images/question_mark.png";
+			
+			// Reset the computer player image
+			var computerPlayerHand = document.getElementById("computer-player-hand");
+			computerPlayerHand.src = "images/question_mark.png";
+			
+			// Hide the reset button
+			var resetButton = document.getElementById("resetButton");
+			resetButton.style.display = "none";
+			
+			// Show the player options
+			var humanPlayerOptions = document.getElementById("human-player-options");
+			humanPlayerOptions.style.display = "block";			
+			
+		}
+		
+	
+	</script>
+
+</head>
+
+<body>
+
+	<div id="logo-container">
+		<img src="images/logo.png" alt="Logo" />
+	</div>
+	
+	<div id="game-container">
+	
+		<div id="human-player">
+		
+			<h2>You</h1>
+			
+			<div class="hand">
+				<img id="human-player-hand" src="images/question_mark.png" />
+			</div>
+			
+			<div id="human-player-options">
+				<p><button type="button" onclick="humanPlayer(0);">Rock</button></p>
+				<p><button type="button" onclick="humanPlayer(1);">Paper</button></p>
+				<p><button type="button" onclick="humanPlayer(2);">Scissors</button></p>
+			</div>
+			
+			<div class="score" id="human-score">
+				Score: 0
+			</div>
+			
+		</div>
+		
+		<div id="computer-player">
+		
+			<h2>Computer</h1>
+			
+			<div class="hand">
+				<img id="computer-player-hand" src="images/question_mark.png" />
+			</div>
+			
+			<div class="score" id="computer-score">
+				Score: 0
+			</div>
+						
+		</div>
+	
+	</div>
+	
+	<div id="result-container">
+	
+		<p id="result-text">&nbsp;</p>
+		
+		<p><button id="resetButton" type="button" onclick="resetGame();">Play Again</button></p>
+		
+	</div>
+	
+	<div id="image-precache">
+		<ul>
+			<li><img src="images/paper.png" alt="Paper" /></li>
+			<li><img src="images/rock.png" alt="Rock" /></li>
+			<li><img src="images/scissors.png" alt="Scissors" /></li>
+			<li><img src="images/question_mark.png" alt="Question Mark" /></li>
+		</ul>
+	</div>
+
+</body>
+
+</html>
+
+<!--
+
+Image credits:
+
+Skydiving,Boom graphics by <a href="http://www.freepik.com/">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> are licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
+
+-->
